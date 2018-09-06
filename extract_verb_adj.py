@@ -26,12 +26,12 @@ for word,pos in allSamplePos:
 		words[ word ] = pos
 
 # prints all verbs and adjectives
-print("all appeared verbs..\n")
+print("\nall appeared verbs..\n")
 for word in words:
 	if re.match(r'[V][A-Z]*',words[word]):
-		print(word)
+		print(word.ljust(20),end="\t")
 
 print("\nall appeared adjectives..\n")
 for word in words:
 	if re.match(r'[J][A-Z]*',words[word]):
-		print(word)
+		print(word.ljust(20),end="\t")
