@@ -10,3 +10,6 @@
     for extracting nouns
       1. install textblob : pip install textblob
  
+ # before use extract_subject.py please make sure you have downloaded all nltk packages by below commands in python shell
+    >>import nltk
+    >>nltk.download()
