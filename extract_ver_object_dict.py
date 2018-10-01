@@ -12,7 +12,7 @@ sample_text_3 = "this is amit kumar. Ram is playing cricket. Hockey is being pla
 
 lemmatizer = WordNetLemmatizer()
 
-vo_dic = {}
+vo_set = set()
 stop_words = set(stopwords.words("english"))
 
 for sents in sent_tokenize(sample_text_2):
@@ -33,9 +33,9 @@ for sents in sent_tokenize(sample_text_2):
         obj = obj.strip()
         obj = obj.replace("  "," ")
         if not obj.isspace() and len(obj)>0:
-            vo_dic[(ver,obj)] = True
+            vo_set.add((ver,obj))
 
 print("final V-O dictionary....")
 # print(vo_dic)
-for key in vo_dic.keys():
-    print(key)
+for item in vo_set:
+    print(item)
