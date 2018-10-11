@@ -7,23 +7,12 @@ import pydot
 import pickle
 import time
 
-# from sys import setrecursionlimit
-# setrecursionlimit(7500)
-
 domain = "https://en.wikipedia.org"
 base_page = "/wiki/Category:Skills"
 
-# base_page = "/wiki/Category:Aptitude"
-# base_page = "/wiki/Category:Procedural_knowledge"
-# html = urllib.request.urlopen(domain+base_page)
-# soup = BeautifulSoup(html,features="lxml")
-# data = soup.findAll(text=True)
-
-
 skill_list = {}
 skill_href_list = {}
-max_lvl = 1
-
+max_lvl = 2
 
 def scrap_url(rel_add,parent=None,lvl=0,pdomain=domain):
     if lvl > max_lvl:
@@ -50,21 +39,7 @@ def scrap_url(rel_add,parent=None,lvl=0,pdomain=domain):
             ####
             el = Element(anchor.text,anchor.get('href'))
             n = Node(el)
-
-            #### to check and show if skill name is repeated
-            # if anchor.text not in skill_list:
-            #     skill_list[anchor.text] = 1
-            # else:
-            #     skill_list[anchor.text] += 1
-            #     print("skill repeated :",anchor.text,":",skill_list[anchor.text],end="")
-            #     temp = parent
-            #     while not temp is None:
-            #         print(temp.title,">",end="")
-            #         if len(temp.parents)>0:
-            #             temp = temp.parents[0]
-            #         else:
-            #             temp = None
-            #     print()
+            
             #### to check and show if same skill page is repeated
             if anchor.get('href') not in skill_href_list:
                 skill_href_list[anchor.get('href')] = (1,n)
@@ -72,11 +47,6 @@ def scrap_url(rel_add,parent=None,lvl=0,pdomain=domain):
                 skill_href_list[anchor.get('href')] = (skill_href_list[anchor.get('href')][0]+1,skill_href_list[anchor.get('href')][1])
                 #### to show the all parent nodes
                 print("skill link repeated :",anchor.get('href'),":",skill_href_list[anchor.get('href')][0],end="")
-                # temp = parent
-                # while not temp is None:
-                #     print(temp.title, ">", end="")
-                #     temp = temp.parent
-                # print()
                 ####
                 # if link is repeating
                 # use existing object and append it to current parent and change the parent of the node
@@ -84,13 +54,6 @@ def scrap_url(rel_add,parent=None,lvl=0,pdomain=domain):
                 tempn = skill_href_list[anchor.get('href')][1]
                 # check whether the sub-category is already a parent
                 # if True dont add as a child
-                # temp = parent
-                # flag = False
-                # while not temp is None:
-                #     if str(temp) == str(tempn):
-                #         flag = True
-                #         break
-                #     temp = temp.parent
                 flag = parent.has_parent(tempn)
                 if not flag:
                     parent.add_child(tempn)
@@ -125,7 +88,7 @@ pickle_file.close()
 print("pickle loaded")
 
 # root.traverse()
-# print_tree(root,"childrens")
+print_tree(root,"childrens")
 
 skill_list = {}
 
@@ -192,6 +155,3 @@ for l in sel_parents:
 
 # use this command in cmd to create .png file
 # dot output.dot -Tpng -o output.png
-
-# for skill in skill_list:
-#     print(skill)
