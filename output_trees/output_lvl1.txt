@@ -1,0 +1,299 @@
+       ┌Aptitude┐
+       │        └Job interview
+       ├Motor skills┐
+       │            └Handedness
+       │                    ┌Computer security procedures
+       │                    ├Industrial processes
+       ├Procedural knowledge┤
+       │                    ├Underwater diving procedures
+       │                    ├Scoutcraft
+       │                    └Joinery
+       │           ┌Active citizenship
+       │           ├Critical thinking
+       │           ├Home economics
+       ├Life skills┤
+       │           ├Time management
+       │           ├Problem solving skills
+       │           └Parenting
+       │           ┌Education by method
+       │           ├Evaluation methods
+       │           ├Kernel methods for machine learning
+       ├Methodology┤
+       │           ├Scientific method
+       │           ├Problem solving methods
+       │           └Philosophical methodology
+       │                               ┌Circus skills
+       │                               ├Human towers
+       │                               ├Juggling patterns and tricks
+       ├Sports and entertainment skills┤
+       │                               ├Trick shots
+       │                               ├Skateboarding tricks
+       │                               └Magic tricks
+       │               ┌Australian Aboriginal bushcraft
+       │               ├First aid
+       │               ├Lifesaving
+       ├Survival skills┤
+       │               ├Survival skills media
+       │               ├Primitive technology
+       │               └Mountaineering
+       │                 ┌Aeronautics
+       │                 ├Astronautics
+       │                 ├Ballooning
+       ├Vehicle operation┤
+       │                 ├Fictional vehicle operators
+       │                 ├Driving
+       │                 └Boating
+       │        ┌Literacy advocates
+       │        ├Literacy-related awards
+       │        ├Computer literacy
+       │        ├Learning to read
+       ├Literacy┤
+       │        ├Reading and literacy television series
+       │        ├Organizations promoting literacy
+       │        ├Literacy in India
+       │        └Literacy and society theorists
+       │                        ┌Analysis
+       │                        ├Arguments
+       │                        ├Communication of falsehoods
+       │                        ├Criticism
+       │                        ├Debating
+       ├Critical thinking skills┤
+       │                        ├Term logic
+       │                        ├Rhetoric
+       │                        ├Reasoning
+       │                        ├Persuasion techniques
+       │                        └Inquiry
+       │                       ┌Air hockey
+       │                       ├Athletic sports
+       │                       ├Board games of physical skill
+       │                       ├Cue sports
+       │                       ├Hand games
+       │                       ├Jumping sports
+       ├Games of physical skill┤
+       │                       ├Tug of war
+       │                       ├Throwing sports
+       │                       ├Throwing games
+       │                       ├Table shuffleboard
+       │                       ├Table football
+       │                       └Shuffleboard
+       │                     ┌Abstract strategy games
+       │                     ├Board games
+       │                     ├Brain fitness video games
+       │                     ├Card games
+       │                     ├Mind sports competitions
+       │                     ├Cue sports
+       │                     ├Icehouse games
+       ├Games of mental skill┤
+       │                     ├Word games
+       │                     ├Wargames
+       │                     ├Quiz games
+       │                     ├Puzzles
+       │                     ├Mental-skill competitions
+       │                     ├Mensa Select winners
+       │                     ├Memory games
+       │                     └Mathematical games
+       │           ┌Lists of occupations
+       │           ├Occupations by type
+       │           ├People by occupation
+       │           ├Fictional occupations
+       │           ├Positions of authority
+       │           ├Green jobs
+       │           ├Illegal occupations
+       │           ├Informal occupations
+       ├Occupations┤
+       │           ├Occupation stubs
+       │           ├Works about occupations
+       │           ├Titles of royal attendants
+       │           ├Occupational surnames
+       │           ├Secretaries-general
+       │           ├Occupational organizations
+       │           ├Obsolete occupations
+       │           └Professional and trade magazines
+       │        ┌Applied learning
+       │        ├Critical pedagogy
+       │        ├Curricula
+       │        ├Didactics
+       │        ├Education schools
+       │        ├Educational psychology
+       │        ├Educational theorists
+       │        ├Pedagogic integrated development environments
+       ├Pedagogy┤
+       │        ├Sloyd
+       │        ├Progressive education
+       │        ├Educational practices
+       │        ├Phonics
+       │        ├Online edutainment
+       │        ├Montessori education
+       │        ├Learning programs
+       │        ├Language-teaching methodology
+       │        └Internships
+ Skills┤
+       │           ┌Art by city
+       │           ├Art by country
+       │           ├Art by region
+       │           ├Art by subject
+       │           ├Lists of visual art topics
+       │           ├Art media
+       │           ├Works of art
+       │           ├Art by animals
+       │           ├Art by religion
+       │           ├Art libraries
+       │           ├Art magazines
+       │           ├Art movements
+       │           ├Art technological sources
+       │           ├Artist colonies
+       │           ├Artist-in-residence Programs
+       │           ├Artists
+       │           ├Audiovisual art
+       │           ├Art awards
+       │           ├Black-and-white media
+       │           ├Book arts
+       │           ├Business of visual arts
+       │           ├Calligraphy
+       │           ├Art collections
+       │           ├Composition in visual art
+       │           ├Art conferences
+       │           ├Art crime
+       │           ├Design
+       │           ├Digital art
+       ├Visual arts┤
+       │           ├Art stubs
+       │           ├Wikipedia books on visual arts
+       │           ├Works about visual art
+       │           ├Walking art
+       │           ├Visual art journals
+       │           ├Visual arts theory
+       │           ├Art terminology
+       │           ├Artistic techniques
+       │           ├Sociology of art
+       │           ├Art societies
+       │           ├Sculpture
+       │           ├Visual arts publishing companies
+       │           ├Photography
+       │           ├Patrons of art
+       │           ├Panoramic art
+       │           ├Painting
+       │           ├Art and design organizations
+       │           ├Visual arts occupations
+       │           ├Art museums and galleries
+       │           ├Art materials
+       │           ├Art manifestos
+       │           ├Art history
+       │           ├Handicrafts
+       │           ├Art genres
+       │           ├Art fairs
+       │           ├Art exhibitions
+       │           ├Engraving
+       │           ├Art education
+       │           └Drawing
+       │       ┌Hobbyists
+       │       ├Admiration of foreign cultures
+       │       ├Airsoft
+       │       ├Amateur filmmaking
+       │       ├Amateur sport
+       │       ├Amateur theatre
+       │       ├Audio hobbies
+       │       ├Beekeeping
+       │       ├Bell ringing
+       │       ├Bird feeding
+       │       ├Breeding
+       │       ├Cat fancy
+       │       ├Collecting
+       │       ├Comics
+       │       ├Cooking
+       │       ├Cosplay
+       │       ├Debating
+       │       ├Dōjin
+       │       ├Fandom
+       │       ├Fishkeeping
+       │       ├Food and drink preparation
+       │       ├Genealogy
+       │       ├Hacker culture
+       │       ├Handicrafts
+       │       ├Historical reenactment
+       │       ├Historically themed events
+       │       ├Home improvement
+       ├Hobbies┤
+       │       ├Yo-yos
+       │       ├Vexillology
+       │       ├Transport hobbies
+       │       ├Sports
+       │       ├Semi-professional sport
+       │       ├Scale modeling
+       │       ├Hobbyist robots
+       │       ├Recreational fishing
+       │       ├Reading (process)
+       │       ├Radio-controlled aircraft
+       │       ├Radio hobbies
+       │       ├Pyrotechnics
+       │       ├Physical exercise
+       │       ├Photography
+       │       ├Pets
+       │       ├Outdoor recreation
+       │       ├Hobbyist organizations
+       │       ├Observation hobbies
+       │       ├Object manipulation
+       │       ├Militaria
+       │       ├Magic (illusion)
+       │       ├Hobby magazines
+       │       ├Live-action role-playing games
+       │       ├Kites
+       │       ├Insect-related occupations or hobbies
+       │       ├Horticulture and gardening
+       │       └Homebrewing
+       │      ┌Craft occupations
+       │      ├Crafts organizations
+       │      ├Bambooworking
+       │      ├Basket weaving
+       │      ├Beadwork
+       │      ├Calligraphy
+       │      ├Crafts deities
+       │      ├Do it yourself
+       │      ├Drawing
+       │      ├Crafts educators
+       │      ├German crafts
+       │      ├Glass art
+       │      ├Glossaries of crafts
+       │      ├Handicrafts
+       │      ├Hat making
+       │      ├Illustration
+       │      ├Japanese crafts
+       ├Crafts┤
+       │      ├Workbenches
+       │      ├Woodworking
+       │      ├Woodcarving
+       │      ├Upholstery
+       │      ├Textile arts
+       │      ├Stagecraft
+       │      ├Sloyd
+       │      ├Shoemaking
+       │      ├Scoutcraft
+       │      ├Pottery
+       │      ├Plastering
+       │      ├Photography
+       │      ├Papermaking
+       │      ├Paper folding
+       │      ├Mexican crafts
+       │      ├Metalworking
+       │      └Leather crafting
+       │          ┌Techniques by discipline
+       │          ├Cooking techniques
+       │          ├Creativity techniques
+       │          ├Dance technique
+       │          ├Database index techniques
+       │          ├Driving techniques
+       │          ├Ecological techniques
+       │          ├Espionage techniques
+       │          ├Horticultural techniques
+       └Techniques┤
+                  ├Yoga techniques
+                  ├Woodworking techniques
+                  ├Tactics
+                  ├Project management techniques
+                  ├Political campaign techniques
+                  ├Persuasion techniques
+                  ├Outdoor recreation techniques
+                  ├Mining techniques
+                  ├Law enforcement techniques
+                  └Language-teaching techniques
+
