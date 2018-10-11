@@ -17,5 +17,3 @@ Important instructions in order to use the programs
     >>nltk.download()
 
 # before use extract_verb_object_dictionary, install spacy and download en ('english') package. Download english package through command in cmd(as administrator): python -m spacy download en
-
-# test file added
