@@ -10,8 +10,8 @@ from textblob import TextBlob
 
 
 print("extracting text from image....")
-# extracted text from image 
-text = image_to_string(Image.open('test_files\\proj_desc_ss.png'))
+# extracted text from image
+text = image_to_string(Image.open(r'test_files\proj_desc_ss.png'))
 
 print(text)
 

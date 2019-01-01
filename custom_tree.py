@@ -13,6 +13,8 @@ class Node:
 
         self.title = title
 
+        self.isLeaf = None
+
         if parents is None:
             self.parents = list()
         else:
@@ -52,12 +54,22 @@ class Node:
             if parent.has_parent(arg_parent) is True:
                 return True
 
+    def clear_parents(self):
+        self.parents.clear()
+
+    def clear_childrens(self):
+        self.childrens.clear()
+
+    def clear(self):
+        self.clear_parents()
+        self.clear_childrens()
+
     def traverse(self):
         print( self.title)
         # print("rel_cat:", self.rel_cat)
         # print("rel_cat:",end="")
         # for rel in self.rel_cat:
         #     print(rel,end=";")
-        print()
+        print("leaf ",self.isLeaf)
         for child in self.childrens:
             child.traverse()

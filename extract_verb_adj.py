@@ -1,5 +1,6 @@
-import docx  
+import docx
 from nltk import pos_tag, word_tokenize
+from nltk.corpus import stopwords
 import re
 
 #function to get text from docx
@@ -19,10 +20,13 @@ allSamplePos=pos_tag(word_tokenize(docxText))
 # words dictionary
 words = {}
 
+# words to eliminate
+stop_words = set(stopwords.words('english'))
+
 # loop through all sampled words
 for word,pos in allSamplePos:
 	# regex to mactch for only verbs and adjectives
-	if re.match(r'[VJ][A-Z]*',pos):
+	if re.match(r'[VJ][A-Z]*',pos) and word not in stop_words:
 		words[ word ] = pos
 
 # prints all verbs and adjectives
