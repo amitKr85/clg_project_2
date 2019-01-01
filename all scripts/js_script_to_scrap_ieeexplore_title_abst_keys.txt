@@ -1,0 +1,112 @@
+
+/////////////////////////earlier script ////////////////////////////
+var v = 
+function()
+{ 
+	document.getElementById('keywords-header').click();
+	var tit=$('.document-title span').text();
+	var abst=$('.abstract-text').text();
+	var ks="";
+	var arr=$('.doc-keywords-list-item');
+	for(i=arr.length/2;i<arr.length;++i)
+	{ 
+		var k=$(arr[i]).find('a'); 
+		for(j=0;j<k.length;++j)
+		{ 
+			ks+=k[j].textContent; 
+			if(j!=k.length-1)
+				ks+=','; 
+		} 
+		if(i!=arr.length-1)
+			ks+="\n\n\n"; 
+	} 
+	var allTh=tit+"\n\n"+abst+"\n\n\n"+ks+"\n\n\n\n\n";
+	console.log(allTh); 
+	
+	var ta=document.createElement('textarea'); 
+	ta.id="copytextarea"; 
+	ta.value=allTh;  
+	
+	var bt=document.createElement('a'); 
+	bt.textContent="clickToCopy"; 
+	bt.onclick=	function()
+				{ 
+					document.getElementById("copytextarea").select(); 
+					document.execCommand("copy"); 
+				} 
+	bdy=document.getElementsByTagName('body')[0]; 
+	bdy.appendChild(ta); 
+	bdy.appendChild(bt); 
+	return 1;
+}();
+
+
+
+//////// Function to download data to a file///////////////////////////
+function download(data, filename, type) {
+    var file = new Blob([data], {type: type});
+    if (window.navigator.msSaveOrOpenBlob) // IE10+
+        window.navigator.msSaveOrOpenBlob(file, filename);
+    else { // Others
+        var a = document.createElement("a"),
+                url = URL.createObjectURL(file);
+        a.href = url;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        setTimeout(function() {
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);  
+        }, 0); 
+    }
+}
+
+
+////////////////////current script////////////////////////////////
+
+diffrent keys set seprated with $$$$$ ( IEEE KEYWORDS,INSPEC: Controlled Indexing,INSPEC: Non-Controlled Indexing,Author Keywords )
+title , abstract , key are seprated with &&&&&
+var v = 
+function()
+{ 
+	document.getElementById('keywords-header').click();
+	var tit=$('.document-title span').text();
+	var abst=$('.abstract-text').text();
+	var ks="";
+	var arr=$('.doc-keywords-list-item');
+	for(i=arr.length/2;i<arr.length;++i)
+	{ 
+		var k=$(arr[i]).find('a'); 
+		for(j=0;j<k.length;++j)
+		{ 
+			ks+=k[j].textContent; 
+			if(j!=k.length-1)
+				ks+=','; 
+		} 
+		if(i!=arr.length-1)
+			ks+="$$$$$"; 
+	} 
+	var allTh=tit+"&&&&&"+abst+"&&&&&"+ks;
+	console.log(allTh); 
+	
+	
+	
+	var file = new Blob([allTh], {type: "utf-8"});
+    if (window.navigator.msSaveOrOpenBlob) // IE10+
+        window.navigator.msSaveOrOpenBlob(file, "project_abstracts_ml_.txt");
+    else { // Others
+        var a = document.createElement("a"),
+                url = URL.createObjectURL(file);
+        a.href = url;
+        a.download = "project_abstracts_ml_.txt";
+        document.body.appendChild(a);
+        a.click();
+        setTimeout(function() {
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);  
+        }, 0); 
+    }
+	
+	return 1;
+}();
+
