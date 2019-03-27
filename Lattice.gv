@@ -1,0 +1,35 @@
+// <Lattice object of 3 atoms 9 concepts 2 coatoms at 0x1ed9bdadac8>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c1
+	c1 -> c1 [color=transparent headlabel="project 2" labelangle=270]
+	c1 -> c1 [color=transparent labelangle=90 taillabel="creating a sense of urgency and ownership"]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel="project 3" labelangle=270]
+	c2 -> c2 [color=transparent labelangle=90 taillabel="creative direction"]
+	c2 -> c0
+	c3
+	c3 -> c3 [color=transparent headlabel="project 4" labelangle=270]
+	c3 -> c0
+	c4
+	c4 -> c2
+	c4 -> c3
+	c5
+	c5 -> c5 [color=transparent headlabel="project 1 project 5" labelangle=270]
+	c5 -> c5 [color=transparent labelangle=90 taillabel=organization]
+	c5 -> c3
+	c6
+	c6 -> c6 [color=transparent labelangle=90 taillabel=sociability]
+	c6 -> c1
+	c6 -> c4
+	c7
+	c7 -> c7 [color=transparent labelangle=90 taillabel="a fundamental aspect of communication in every culture."]
+	c7 -> c4
+	c7 -> c5
+	c8
+	c8 -> c6
+	c8 -> c7
+}

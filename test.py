@@ -1,89 +1,43 @@
-from nltk.stem import WordNetLemmatizer
-from pptree import print_tree
-from print_tree_to_file import print_tree_to_file
+import numpy as np
+import pandas as pd
+
+tech_csv_path = "test_files/temp_tech_formal_context.csv"
+stu_csv_path = "test_files/temp_student_formal_context.csv"
+
+stu_skill_mat = np.array(pd.read_csv(stu_csv_path).replace([np.nan,'X'],[0, 1]).iloc[:,1:].values,dtype='int')
+proj_skill_mat = np.array(pd.read_csv(tech_csv_path).replace([np.nan,'X'],[0,1]).iloc[:,1:].values,dtype='int')
+
+stu_dist = np.zeros((stu_skill_mat.shape[0],stu_skill_mat.shape[0]))
+
+for i in range(stu_skill_mat.shape[0]):
+    for j in range(stu_skill_mat.shape[0]):
+        if i != j:
+            stu_dist[i][j] = stu_dist[j][i] = np.sum(np.bitwise_xor(stu_skill_mat[i,:],stu_skill_mat[j,:]))
+
+print(stu_dist)
+
+from scipy.cluster import hierarchy
+import matplotlib.pyplot as plt
+
+stu_Z = hierarchy.linkage(stu_dist, 'single')
+print(stu_Z)
+plt.figure()
+plt.xlabel('students')
+dn = hierarchy.dendrogram(stu_Z)
 
 
-class Node:
+# /////////////////////////////////////////////
 
-    def __init__(self, value=None, childrens=None):
-        self.value = value
-        if childrens is not None:
-            self.childrens = childrens
-        else:
-            self.childrens = list()
+proj_dist = np.zeros((proj_skill_mat.shape[0],proj_skill_mat.shape[0]))
 
-    def add_children(self, children):
-        self.childrens.append(children)
+for i in range(proj_skill_mat.shape[0]):
+    for j in range(proj_skill_mat.shape[0]):
+        if i != j:
+            proj_dist[i][j] = proj_dist[j][i] = np.sum(np.bitwise_xor(proj_skill_mat[i,:],proj_skill_mat[j,:]))
 
-    def __str__(self):
-        return self.value
-
-
-lemmatizer = WordNetLemmatizer()
-leave_dict = {}
-topics_root = {}
-
-
-def traverse_topic():
-    topics = open("test_files/finalDict.txt", "r").read().split('\n\n')
-
-    for topic in topics:
-        parent = None
-        for i, line in enumerate(topic.split('\n')):
-            line = lemmatizer.lemmatize(line.strip().lower())
-            if i == 0:
-                if line in leave_dict and leave_dict[line] is not True:
-                    leave_dict[line] = False
-                parent = line
-
-            else:
-                leave_dict[line] = True
-                if parent in topics_root:
-                    topics_root[parent].add(line)
-                else:
-                    topics_root[parent] = {line}
-
-
-def is_topic_leave(topic):
-    topic = lemmatizer.lemmatize(topic.strip().lower())
-
-    if topic in leave_dict:
-        return leave_dict[topic]
-    else:
-        return False
-
-
-def make_hierarchy_util(parent, key, visited):
-    if visited.get(key, False):
-        return
-
-    new_node = Node(key)
-    parent.add_children(new_node)
-    visited[key] = True
-
-    try:
-        subset = topics_root[key]
-        for key2 in subset:
-            make_hierarchy_util(new_node, key2, visited)
-
-    except KeyError as e:
-        print("err:", e)
-
-    visited[key] = False
-
-
-def make_hierarchy():
-    hroot = Node("root")
-    visited = {}
-    for key in topics_root:
-        if not is_topic_leave(key):
-            make_hierarchy_util(hroot, key, visited)
-
-    return hroot
-
-
-if __name__ == '__main__':
-    traverse_topic()
-    root = make_hierarchy()
-    file = open("output_trees/hierarchy.txt", "w", encoding="utf-8")
-    print_tree_to_file(root, "childrens", file_to_print=file)
+print(proj_dist)
+proj_Z = hierarchy.linkage(proj_dist, 'single')
+print(proj_Z)
+plt.figure()
+plt.xlabel('projects')
+dn = hierarchy.dendrogram(proj_Z)
