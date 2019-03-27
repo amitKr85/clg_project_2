@@ -1,0 +1,1669 @@
+// <Lattice object of 78 atoms 384 concepts 73 coatoms at 0x174e3b35b70>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c0 -> c0 [color=transparent labelangle=90 taillabel="esda prosthetics high performance computing infrastractures modified total sharp score correctness sensitivity information management distributed platform radial basis function networks code weighting function fuzzy neural networks clustering mining extended bam neural network model best practices remote sensing research institutions collective effort distributed training data financial market dynamic backward error assignment resource description framework hpc idle resources computer-aided diagnosis system hebbian theory ï»¿chaos information filters graph-based unsupervised learning kernel function big data security main building blocks multi-agent systems road accident occurance status analysis citizen science paradigm optical fiber theory fuzzy numbers domain-specific case studies japan company fine-grain parallel computing real time server predictive models road image sampling algorithms and programming techniques for big data processing encryption ocean time series data expert systems data geographical distribution feed lagrangian functions adaptive control analog computers text analysis hcl device monitoring worst-case control automatic control intelligent systems computer security genetic method nested automatic service composition ï»¿economic indicators estimation deep q-networks information storage mechanism iterated game executions q-learning loss value big data architectures deep learning operations kernel social set analysis machine learning inference framework network type best effort manufacturing system decision trees health information systems vector relationship graphs neural network technologies character recognition modular architecture principal component analysis pipeline upper bound random forest stock market prediction problem boolean functions desired arm movement patterns dq issues arithmetic image representation prospective systems artificial neural networ (ann) high speed optical techniques distributed tensorflow human-computer interaction (hcl) iteration algorithm chaotic time series programmable nonlinear capacitor accelerometer online analytical process classification tree analysis distributed storage innovative accumulator iot device mitigation strategies production rjms middleware oar training set information self adjusting fuzzy modeling classification accuracy software engineering scalability liver highly efficient deep learning inference mechanisms big-data analyses myo armband machine intelligence deep kernel learning big data analysis social networking (online) medical professionals deep layers vegetation network-on-a-chip data sharing convolution structure education hpc and big data convergence premier capabilities generalisation (artificial intelligence) cognitive machine learning requirements engineering stability analysis context modeling solid state disk convolutional neural network computation energy distribution logic programming languages calibrated data agglomerations storage capacitor active learning data validation process generalisation capability separation theorem query processing data interoperability istanbul deep learning algorithms numerical analysis duty cycle digital control nonlinear systems ï»¿optimization methods individual goals smart & effective crowd management embedded systems autonomous source feedback hadoop deep q-netn'rok experience replay network structures standards organizations computer aided instruction optical information processing control systems multilayer perceptrons crossbreed genetic algorithm cognitive robots crowdsourcing darwin machines weibo check-in data vizdoom inverse problems m-th order ordinary differential equations usaf risk management game incremental supprot vector machine heterogeneous source computer game relaxation techniques hepatitis disease diagnosis closed loop systems diagnosis system mossy fiber synaptic glomerulus the times cognitive knowledge bases parallel structure chemical analysis scholarly communication data privacy subsymbolic data mining machinable thoughts ethic cognitive process big scientific data search methods pattern recognition storage cost ï»¿data integration investment adam data checklist data acquisition convolution neural networks owl large-scale data intensive scientific application cloud computing memory multi-layer svm simulated annealing search space reduction big data analytics sc implementation the new york times collaboration radio emitter multi agent systems inverse dynamics ï»¿performance evaluation deep learning models support vector machine hardware resource utilization multidimensional data set parallel data processing learning paradigm safety big data quality problem filtering fuzzy set theory earth unsupervised deep learning approach separating hyper-plane big data management infrastructure multi-layer neural network bismuth assembly national electric code belief networks domain-specific knowledge svm marketing data management cost graphics processing units large scale integration ï»¿neural networks dedicated vlsi equation video lecture hybrid era modified error backpropagation technique neurochips social network services high-performance noise reduction network weights gbif critical time shuffling method genetic engineering neural nets learning systems schedule single machine scheduling routing algorithm htm algorithm induction generators medical big data research tool logic programming filtering algorithms task learning acceleration ï»¿blood pressure data handling scem high dimensional state-space neural chips distributed deep learning platform cloud file-sharing aging cognitive computers nonlinear dynamical systems ï»¿learning (artificial intelligence) kernel-based deep learning unlabeled data multilayer neural networks sequential access selection construction distributed environment multiple parallel deep learning frameworks transfer function software frameworks chinese information processing discrete wavelet transform mathematical model supervised learning based methods continual neural networks new words extraction euclidean distance distributed deep larning platform redundant outputs deep reasoning intelligent networks software medical diagnostics geometry insurance natural language processing 1a study"]
+	c1
+	c1 -> c1 [color=transparent headlabel=project1 labelangle=270]
+	c1 -> c1 [color=transparent labelangle=90 taillabel="hpc workload core memory atmospheric radiation measurement climate research facility preoperative planning country economy hopfield model neural network probability distribution"]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel=project2 labelangle=270]
+	c2 -> c2 [color=transparent labelangle=90 taillabel="deep learning performance knowledge based systems sensor time 20.0 year machine learning method cellular neural networks effective cooperative behaviors organisational aspects intelligent robots"]
+	c2 -> c0
+	c3
+	c3 -> c3 [color=transparent headlabel=project3 labelangle=270]
+	c3 -> c3 [color=transparent labelangle=90 taillabel="psychology drug-drug interactions triangular maps inference algebra apache spark mllib organization work flow multicast protocols intelligent agent visual doom ai game redundancy m.2 high-dimensional real-world applications numerical computation library push recovery training virtual living things arthritis optimal kernel function deep autoencoders class labels data format"]
+	c3 -> c0
+	c4
+	c4 -> c4 [color=transparent headlabel=project4 labelangle=270]
+	c4 -> c4 [color=transparent labelangle=90 taillabel="dqn model domain model ï»¿intelligent networks computer-aided diagnosis inference mechanisms courseware neural network models approximation algorithms neurophysiology liver diseases deep thinking robots security challenges ï»¿facebook correlation theory approximate transformable technique"]
+	c4 -> c0
+	c5
+	c5 -> c5 [color=transparent headlabel=project5 labelangle=270]
+	c5 -> c5 [color=transparent labelangle=90 taillabel="surveillance platform programmable bits weights adaptability quaternion classifier structure hand gesture recognition high performance general feedback learning method rfhtmc data compression data preprocessing haar wavelet function stabilized parallel deep learning architectures machine understandable forms"]
+	c5 -> c0
+	c6
+	c6 -> c6 [color=transparent headlabel=project6 labelangle=270]
+	c6 -> c6 [color=transparent labelangle=90 taillabel="rheumatoid arthritis time series statistical boundary vector filtering theory cognition data monitoring differential equations fundamental theories probability closed circuit television self-routing q learning analogue processing circuits restricted boltzmann machines semantics algebra open science polynomial ï»¿support vector machines input units"]
+	c6 -> c0
+	c7
+	c7 -> c7 [color=transparent headlabel=project7 labelangle=270]
+	c7 -> c7 [color=transparent labelangle=90 taillabel="high fidelity inference capability object detection fpnn data mining functionally equivalent machine manufacturing multimedia databases frequency drug prescription rules information filtering data collector"]
+	c7 -> c0
+	c8
+	c8 -> c8 [color=transparent headlabel=project8 labelangle=270]
+	c8 -> c8 [color=transparent labelangle=90 taillabel="biological cells indexing architecture nasc fuzzy control natural languages data stores null value parallel architectures conceptual design"]
+	c8 -> c0
+	c9
+	c9 -> c9 [color=transparent headlabel=project9 labelangle=270]
+	c9 -> c9 [color=transparent labelangle=90 taillabel="parasitic capacitance regression method real-time systems fuzzy neural network adaptive learning ordinary least squares algorithm stock markets"]
+	c9 -> c0
+	c10
+	c10 -> c10 [color=transparent headlabel=project10 labelangle=270]
+	c10 -> c10 [color=transparent labelangle=90 taillabel="graph-based unsupervised machine learning methods geometrical mapping asynchronous thresholding neural units big data validation learning performance statistical learning theory ï»¿probability density function accident risk determination physician"]
+	c10 -> c0
+	c11
+	c11 -> c11 [color=transparent headlabel=project11 labelangle=270]
+	c11 -> c11 [color=transparent labelangle=90 taillabel="robust inference atmospheric measurements tka biodiversity data neural network technology online data open source framework target data big data industry dbn genetic algorithms knowledge science supervised learning"]
+	c11 -> c0
+	c12
+	c12 -> c12 [color=transparent headlabel=project12 labelangle=270]
+	c12 -> c12 [color=transparent labelangle=90 taillabel="statistic information restricted boltzman machine spatiotemporal phenomena hpc jobs focusing extrapolation groupware privacy protection computer simulation big data risk analysis application software cloud file-sharing services"]
+	c12 -> c0
+	c13
+	c13 -> c13 [color=transparent headlabel=project13 labelangle=270]
+	c13 -> c13 [color=transparent labelangle=90 taillabel="major brain functions organization commercial hotspots hardware topologies production deep learning networks social set visualizer digital neurochip modern computers solid"]
+	c13 -> c0
+	c14
+	c14 -> c14 [color=transparent headlabel=project14 labelangle=270]
+	c14 -> c14 [color=transparent labelangle=90 taillabel="scene understanding test pattern fitness function fundamental systems hdds neuroscience field programmable gate arrays gennets ï»¿recurrent neural networks application power quality case-based reasoning computer vision"]
+	c14 -> c0
+	c15
+	c15 -> c15 [color=transparent headlabel=project15 labelangle=270]
+	c15 -> c15 [color=transparent labelangle=90 taillabel="neural network architectures recognition rate history training dataset apache spark mllib 2 diverse data sources storm semantic computing unsupervised feature learning extreme point educational courses information science chebyshev approximation robot big data models and algorithms sigmoid circuit awareness-interest-desire-action"]
+	c15 -> c0
+	c16
+	c16 -> c16 [color=transparent headlabel=project16 labelangle=270]
+	c16 -> c16 [color=transparent labelangle=90 taillabel="electromyography sarsa learning approximate equivalence neural network incremental learning recurrent correlation neural networks energy states feedforward controller knowledge representation and reasoning road accidents"]
+	c16 -> c0
+	c17
+	c17 -> c17 [color=transparent headlabel=project17 labelangle=270]
+	c17 -> c17 [color=transparent labelangle=90 taillabel="geospatial data point processing feature space recurrent neural nets sampling methods resource allocation sales management terrorism action control big data leak threat medical image processing computational efficiency ï»¿kernel shared goal mean correlation regression analysis"]
+	c17 -> c0
+	c18
+	c18 -> c18 [color=transparent headlabel=project18 labelangle=270]
+	c18 -> c18 [color=transparent labelangle=90 taillabel="fault-tolerant decoding concurrent computing classificationt reeanalysis cognitive foundations fuzzy reference points file systems comprehension quizzes two-character-nouns on-chip error backpropagation learning imagenet dataset"]
+	c18 -> c0
+	c19
+	c19 -> c19 [color=transparent headlabel=project19 labelangle=270]
+	c19 -> c19 [color=transparent labelangle=90 taillabel="ï»¿pose estimation text processing natural intelligence robust deep models embryo netcdf file format medical diagnosis structural vibrations forecasting cognitive systems hilbert spaces big data collections r-2r ladder network"]
+	c19 -> c0
+	c20
+	c20 -> c20 [color=transparent headlabel=project20 labelangle=270]
+	c20 -> c20 [color=transparent labelangle=90 taillabel="ladder networks human pose estimation switched-capacitor implementations heterogeneous data sources social media big data baipas on-policy reinforcement learning machine learning classification techniques process control identification bayesian algorithm web services digitally-controlled synapse circuit"]
+	c20 -> c0
+	c21
+	c21 -> c21 [color=transparent headlabel=project21 labelangle=270]
+	c21 -> c21 [color=transparent labelangle=90 taillabel="big data spatial extent ge power and water ï»¿accuracy security applications training progress protein information theoretic learning data space educational institutions patient treatment cellular automata complexity theory support vector machines analog circuits patterin recognition"]
+	c21 -> c0
+	c22
+	c22 -> c22 [color=transparent headlabel=project22 labelangle=270]
+	c22 -> c22 [color=transparent labelangle=90 taillabel="case study arm archive graph theory local-outlier factor classification method chebyshev polynomials machine learning techniques charge domain characteristics supervised deep learning semantic technologies mapreduce infrastructure paralleled closed-loop control system large-scale systems gradient based learning algorithms manufacturing systems"]
+	c22 -> c0
+	c23
+	c23 -> c23 [color=transparent headlabel=project23 labelangle=270]
+	c23 -> c23 [color=transparent labelangle=90 taillabel="middleware word construction rules filter open loop systems qos"]
+	c23 -> c0
+	c24
+	c24 -> c24 [color=transparent headlabel=project24 labelangle=270]
+	c24 -> c24 [color=transparent labelangle=90 taillabel="ports (computers) inter-university upper atmosphere global observation network time series analysis dual codes objective function dataset recombining feedforward neural nets video streams logic circuits medical information systems traditional training method threat judgment artificial intelligence function information retrieval"]
+	c24 -> c0
+	c25
+	c25 -> c25 [color=transparent headlabel=project25 labelangle=270]
+	c25 -> c25 [color=transparent labelangle=90 taillabel="vlsi implementation feedforward facebook data platform independent machine learning library chinese new word extraction performance evaluation transputers output feedback m.2 ssd cache high-capacity associative memory data science process language protocol"]
+	c25 -> c0
+	c26
+	c26 -> c26 [color=transparent headlabel=project26 labelangle=270]
+	c26 -> c26 [color=transparent labelangle=90 taillabel="strategy large flexible space structures heating systems two-stage machine learning system intelligent algorithms application allocation contract public domain software"]
+	c26 -> c0
+	c27
+	c27 -> c27 [color=transparent headlabel=project27 labelangle=270]
+	c27 -> c27 [color=transparent labelangle=90 taillabel="subject-based data archives information retrieval systems concrete discriminative loss function optimization deep reinforcement learning boosting hpc collocation design engineering cluster structure single-layered neural network road accident social media big data analysis market prediction distributed tensorfiow commercial hotspots mining road traffic"]
+	c27 -> c0
+	c28
+	c28 -> c28 [color=transparent headlabel=project28 labelangle=270]
+	c28 -> c28 [color=transparent labelangle=90 taillabel="seal alzheimers disease classification memory retrieval process boolean factor analysis wuhan speech recognition cooperative behavior electronic learning multilayer neural network basal ganglia"]
+	c28 -> c0
+	c29
+	c29 -> c29 [color=transparent headlabel=project29 labelangle=270]
+	c29 -> c29 [color=transparent labelangle=90 taillabel="statistical learning continuous hopfield neural network patient datasets fpga nearest neighbor searches information systems identity-based encryption electronic mail business h/sup /spl infin control"]
+	c29 -> c0
+	c30
+	c30 -> c30 [color=transparent headlabel=project30 labelangle=270]
+	c30 -> c30 [color=transparent labelangle=90 taillabel="behavior generation dataset query ma computational modeling switched capacitor networks hybrid intelligent systems hopfield neural nets classifier training hospital discrete bidirectional associative memory neural network video streaming representations learning federated intercloud environment neuron peer-to-peer computing rl agent"]
+	c30 -> c0
+	c31
+	c31 -> c31 [color=transparent headlabel=project31 labelangle=270]
+	c31 -> c31 [color=transparent labelangle=90 taillabel="heuristic algorithms hierarchical deep learning models multilayer perceptron structure ï»¿multi-layer neural network intelligent cooperative multiple agents kera formal concept hypertension big data research theoretical analysis joint learning agents generating control bits"]
+	c31 -> c0
+	c32
+	c32 -> c32 [color=transparent headlabel=project32 labelangle=270]
+	c32 -> c32 [color=transparent labelangle=90 taillabel="index biomedical imaging data representation cognitive memory hyper planes deep learning based recommender systems lstm based model qos requirements google"]
+	c32 -> c0
+	c33
+	c33 -> c33 [color=transparent headlabel=project33 labelangle=270]
+	c33 -> c33 [color=transparent labelangle=90 taillabel="satellite feature extraction and classification"]
+	c33 -> c0
+	c34
+	c34 -> c34 [color=transparent headlabel=project34 labelangle=270]
+	c34 -> c34 [color=transparent labelangle=90 taillabel="ï»¿biological neural networks hardware implementation partitioning algorithms environmental characteristics cloud finger joint detection object identification biological neural networks data visualization crsip-dm ï»¿artificial neural networks dynamical learning process time-average security-level maximal margin classification inter-cloud counting circuits"]
+	c34 -> c0
+	c35
+	c35 -> c35 [color=transparent headlabel=project35 labelangle=270]
+	c35 -> c35 [color=transparent labelangle=90 taillabel="open-loop structures iterative methods dynamic scheduling function approximation clustering hippocampal circuit"]
+	c35 -> c0
+	c36
+	c36 -> c36 [color=transparent headlabel=project36 labelangle=270]
+	c36 -> c36 [color=transparent labelangle=90 taillabel="pr learning synapse circuits read-write memory fatigue synchronization functional link network wavelet analysis hyperparameters power measurement communication links iot user assessable data files medical computing internet of things planning exploratory machine learning attack synaptic-synaptic interaction equations optimal designed nonlinear continuous neural network system stability deep belief networks"]
+	c36 -> c0
+	c37
+	c37 -> c37 [color=transparent headlabel=project37 labelangle=270]
+	c37 -> c37 [color=transparent labelangle=90 taillabel="haar transforms decision support systems handwritten number recognition cased based reasoning context geospatial data point extraction clinical big data space technology function approximation capability uncertain big data mining mapreduce model deep q-learning optical fibre networks aerospace control predictable inference performance domain-model terms feature continuum rule induction ï»¿fuzzy neural networks multiband speech recognition fuzzy sets least squares methods disturbance-rejection neural network control data analytics problems business data processing data archive data source personnel supervised fast learning filter neural network ï»¿backpropagation"]
+	c37 -> c0
+	c38
+	c38 -> c38 [color=transparent headlabel=project38 labelangle=270]
+	c38 -> c38 [color=transparent labelangle=90 taillabel="medical services collaborative work design optimization learning algorithm big data geospatial visibility fault detection dia datamining"]
+	c38 -> c0
+	c39
+	c39 -> c39 [color=transparent headlabel=project39 labelangle=270]
+	c39 -> c39 [color=transparent labelangle=90 taillabel="brain-inspired systems surveillance sign recognition fuzzy neural nets fundamental ai problems building cluster classification hardware-friendly neural structures coal mining flexible visualization-based user interface training samples patient prognosis mitre research team unknown nonlinear plant analytical models dynamic loci stabilization petroleum infinity norm hadoop yarn event-driven acyclic neural networks"]
+	c39 -> c0
+	c40
+	c40 -> c40 [color=transparent headlabel=project40 labelangle=270]
+	c40 -> c40 [color=transparent labelangle=90 taillabel="cross industry standard platform for data mining sosevi hardware topological constraints neural network hilbert space neurofeedback network topology capflash data storage traffic engineering computing backpropagation text categorization machine learning strategies vibration control ï»¿magnesium compounds deep learning method scheduling software algorithms missing patient data"]
+	c40 -> c0
+	c41
+	c41 -> c41 [color=transparent headlabel=project41 labelangle=270]
+	c41 -> c41 [color=transparent labelangle=90 taillabel="multimedia communication analogue computer circuits dynamic programming crowd sourcing geographic data today loss measurement data scheduling emotional systems filter neural network machine vision quality inspection computer centres learning techniques unsupervised deep learning functional regression ï»¿genetic programming spatial databases meteorology live data analysis terrestrial atmosphere knee robustness temperature measurement"]
+	c41 -> c0
+	c42
+	c42 -> c42 [color=transparent headlabel=project42 labelangle=270]
+	c42 -> c42 [color=transparent labelangle=90 taillabel="storage management fault diagnosis model signal generators engineering extended bidirectional associative memory neural network flash-based capacitor noise measurement behavior changes deep sarsa learning correlation fault tolerance modern storage systems haar wavelet q-learning algorithm testing"]
+	c42 -> c0
+	c43
+	c43 -> c43 [color=transparent headlabel=project43 labelangle=270]
+	c43 -> c43 [color=transparent labelangle=90 taillabel="intelligent control hard disk drive ca problem parallel classifiers ensemble scalable machine learning problems medical diagnostic computing remote sensing data classification"]
+	c43 -> c0
+	c44
+	c44 -> c44 [color=transparent headlabel=project44 labelangle=270]
+	c44 -> c44 [color=transparent labelangle=90 taillabel="decision tree induction algorithms id3 adaptive filters cybernetics"]
+	c44 -> c0
+	c45
+	c45 -> c45 [color=transparent headlabel=project45 labelangle=270]
+	c45 -> c45 [color=transparent labelangle=90 taillabel="cognitive solution gas turbine model stability job production systems machine learning algorithms information services state estimation machine learning in medicine doubles pong game bayes methods inference mechanism research community fuzzy number spaces modelling big data platforms ï»¿machine learning"]
+	c45 -> c0
+	c46
+	c46 -> c46 [color=transparent headlabel=project46 labelangle=270]
+	c46 -> c46 [color=transparent labelangle=90 taillabel="gesture recognition field programmed neural networks algorithm aida sales framework compensator rbm semantics tellurium content-addressable storage asynchronous random neural networks decision tree computer architecture intel xeon e5540 processors ï»¿data mining online machine learning algorithms"]
+	c46 -> c0
+	c47
+	c47 -> c47 [color=transparent headlabel=project47 labelangle=270]
+	c47 -> c47 [color=transparent labelangle=90 taillabel="convex hull data engineering m-p model lifetime estimation data locality ï»¿discrete wavelet transforms clinical big data analysis quadratic programming relaxation theory workflow blood pressure measurement data exchange scheme tensorflow genetic algorithm"]
+	c47 -> c0
+	c48
+	c48 -> c48 [color=transparent headlabel=project48 labelangle=270]
+	c48 -> c48 [color=transparent labelangle=90 taillabel="transfer functions supervised classification game ai communities fault samples semisupervised machine learning backpropagation learning iot devices big data quality geospatial data point normalization tagging feedforward neural network knowledge acquisition ï»¿fault diagnosis virtual neural links deep representation learning"]
+	c48 -> c0
+	c49
+	c49 -> c49 [color=transparent headlabel=project49 labelangle=270]
+	c49 -> c49 [color=transparent labelangle=90 taillabel="neuroboard hybrid network counter-terrorism field chemical flexible beam deep multiple instance learning ï»¿machine learning algorithms optical fiber communication interoperability data maintenance post operative implanted knee function prediction big data processing mathematics data integration data locality manager visualization laboratory convolutional codes"]
+	c49 -> c0
+	c50
+	c50 -> c50 [color=transparent headlabel=project50 labelangle=270]
+	c50 -> c50 [color=transparent labelangle=90 taillabel="predictive medicine analog computation convolution dqn ï»¿x-ray imaging big data machine learning cognitive robotics up/down counter association rules information processing feedforward neural networks"]
+	c50 -> c0
+	c51
+	c51 -> c51 [color=transparent headlabel=project51 labelangle=270]
+	c51 -> c51 [color=transparent labelangle=90 taillabel="application execution scheduling public health patient diagnosis geographic information systems biomedical monitoring wavelength routing web pages geophysical image processing"]
+	c51 -> c0
+	c52
+	c52 -> c52 [color=transparent headlabel=project52 labelangle=270]
+	c52 -> c52 [color=transparent labelangle=90 taillabel="nike sales forecasting statistic time factors benes interconnection network control logic circuit deep reinforcement learning approach statistical learning algorithm dot product matching neural network hopfield neural networks data warning docker quantitative attribute error correction focused mining"]
+	c52 -> c0
+	c53
+	c53 -> c53 [color=transparent headlabel=project53 labelangle=270]
+	c53 -> c53 [color=transparent labelangle=90 taillabel="dictionary learning big data machine learning research artificial generalized intelligence cardiovascular diseases image annotation discrete hopfield neural network iugonet ad classification ordinary differential equation rewarding system training data production engineering computing control signal workload balanced division big data access decision tree induction algorithms c4.5 reward schemes company data heart deep learning inference runtime boltzmann machines chemical technology"]
+	c53 -> c0
+	c54
+	c54 -> c54 [color=transparent headlabel=project54 labelangle=270]
+	c54 -> c54 [color=transparent labelangle=90 taillabel="large-scale hypertension research project triples (data structure) outer-product synaptic weight adjustments open source machine learning video frames gpu processing power formal concept analysis"]
+	c54 -> c0
+	c55
+	c55 -> c55 [color=transparent headlabel=project55 labelangle=270]
+	c55 -> c55 [color=transparent labelangle=90 taillabel="spatiotemporal data neural architectures"]
+	c55 -> c0
+	c56
+	c56 -> c56 [color=transparent headlabel=project56 labelangle=270]
+	c56 -> c56 [color=transparent labelangle=90 taillabel="big data i/o performance classification algorithms engine government highly accurate inference routing push recovery learning backpropagation neural network radial basis function network structure hard discs neural network hardware telecommunication network routing latent variable ï»¿kinematics h infinity control ï»¿training"]
+	c56 -> c0
+	c57
+	c57 -> c57 [color=transparent headlabel=project57 labelangle=270]
+	c57 -> c57 [color=transparent labelangle=90 taillabel="factor concepts hand x-ray image stability hierarchical feature representation geospatial search progression evaluation oddball data analysis input data table big data systems internet signal detection complex datasets"]
+	c57 -> c0
+	c58
+	c58 -> c58 [color=transparent headlabel=project58 labelangle=270]
+	c58 -> c58 [color=transparent labelangle=90 taillabel="data models unlabeled/unsupervised data returns to scale deep learning structure behavior acquisition human arm movement patterns information analysis record processing learning (artificial intelligence) crisp-dm process adversarial machine learning systems engineering and theory electronic neuronic model pagerank pattern matching deep thinking signal processing research and development ï»¿dictionaries stacked denoising autoencoders"]
+	c58 -> c0
+	c59
+	c59 -> c59 [color=transparent headlabel=project59 labelangle=270]
+	c59 -> c59 [color=transparent labelangle=90 taillabel="quality assessment text classification application total knee arthroplasty discrete wavelet transforms fault tolerant computing very large scale integration support vector machine classification organization performance hippocampus big data tool depth kernel learning video games control problems postal services arm data center machine learning algorithm sequential updating formal brain studies coal openai gym chaos user-specified constraints video signal processing"]
+	c59 -> c0
+	c60
+	c60 -> c60 [color=transparent headlabel=project60 labelangle=270]
+	c60 -> c60 [color=transparent labelangle=90 taillabel="inspection deep reinforcemnet learning digital hardware implementation adaptation models sequential decision making big data application workflow hopfield-type neural network hierarchical machine learning medical diagnostic imaging multidimensional unitron deep q-learning network algorithm subthreshold mos mooc"]
+	c60 -> c0
+	c61
+	c61 -> c61 [color=transparent headlabel=project61 labelangle=270]
+	c61 -> c61 [color=transparent labelangle=90 taillabel="online course cluster utilization facebook data analytics marketing data processing data distribution information technology signal processing algorithms business application data analytics process data locality management ï»¿capacitors deep convolutional neural network denotational mathematics material drug big data technologies exploratory spatial data analysis bison fuzzy systems dispatching entropy data shuffling reliability"]
+	c61 -> c0
+	c62
+	c62 -> c62 [color=transparent headlabel=project62 labelangle=270]
+	c62 -> c62 [color=transparent labelangle=90 taillabel="dwt image classification deep divergence-based clustering ï»¿terrorism efficient selection ols algorithm deep belief network matrix decomposition manufacturing processes conference protection dual coding theory"]
+	c62 -> c0
+	c63
+	c63 -> c63 [color=transparent headlabel=project63 labelangle=270]
+	c63 -> c63 [color=transparent labelangle=90 taillabel="returns-to-scale effects ï»¿geospatial analysis information theoretic divergence measures artificial neural networks live data massive streaming cognitive informatics multiple stage interconnection networks computational social science ï»¿games gpu medical decision support system logical resources"]
+	c63 -> c0
+	c64
+	c64 -> c64 [color=transparent headlabel=project64 labelangle=270]
+	c64 -> c64 [color=transparent labelangle=90 taillabel="markov processes standard feedforward networks 2d compatible neural networks stock market forecasting prediction algorithms big-data processing performance circuit open systems ontology-based automated reasoning hazard ï»¿decision trees algebra game ai domain brain modeling brain machine learning theory neurite networks"]
+	c64 -> c0
+	c65
+	c65 -> c65 [color=transparent headlabel=project65 labelangle=270]
+	c65 -> c65 [color=transparent labelangle=90 taillabel="bayesian methods data quality fuzzy expert network learning architecture face detection computer resource quality of service intelligent big data analysis architecture regression models multidimensional climate observations supervised deep learning framework thumb concurrent learning agents case based reasoning( cbr)"]
+	c65 -> c0
+	c66
+	c66 -> c66 [color=transparent headlabel=project66 labelangle=270]
+	c66 -> c66 [color=transparent labelangle=90 taillabel="portal classification techniques multilayered perceptron neural network cctv cameras hebbian learning cooperative behaviors machine learning classifier genetic programming neocortical network eprom security of data community big data image color analysis output units market research quantitative analysis method neural objects"]
+	c66 -> c0
+	c67
+	c67 -> c67 [color=transparent headlabel=project67 labelangle=270]
+	c67 -> c67 [color=transparent labelangle=90 taillabel="maximum probability mathematical engineering executing big data workloads kernel method adaptive systems softmax classifier logitech hd c920 communication standards shallow learning worst-case identification"]
+	c67 -> c0
+	c68
+	c68 -> c68 [color=transparent headlabel=project68 labelangle=270]
+	c68 -> c68 [color=transparent labelangle=90 taillabel="modified backpropagation learning chinese web filtering ï»¿feature extraction artificial neural network analogue storage chaotic communication computerised tomography limited interconnection scheme taxonomy high performance computing parallel processing ï»¿optical fiber networks frequent patterns classification recommender systems"]
+	c68 -> c0
+	c69
+	c69 -> c69 [color=transparent headlabel=project69 labelangle=270]
+	c69 -> c69 [color=transparent labelangle=90 taillabel="vlsi production equipment classify introduction ï»¿flexible structures parallel computer biological control systems risk analysis associative memory business data hard disks human computer interaction"]
+	c69 -> c0
+	c70
+	c70 -> c70 [color=transparent headlabel=project70 labelangle=270]
+	c70 -> c70 [color=transparent labelangle=90 taillabel="text recognition exploratory attacks disc drives anonymous platform face recognition optical computing cnn hybrid multilayer feedforward neural network uncertain data deep neural networks constraint resource and job management system kinetic theory mean absolute percentage error"]
+	c70 -> c0
+	c71
+	c71 -> c71 [color=transparent headlabel=project71 labelangle=270]
+	c71 -> c71 [color=transparent labelangle=90 taillabel="metadata concept algebra neural networks nonlinear control systems machine learning approach neural net architecture event study long short-term memory models generation iteration signal capturing pattern discovery inference algorithms htm cortical learning algorithm knowledge learning surgery actuator data integrity deep knowledge learning iot applications social network analog t-model neural network hardware"]
+	c71 -> c0
+	c72
+	c72 -> c72 [color=transparent headlabel=project72 labelangle=270]
+	c72 -> c72 [color=transparent labelangle=90 taillabel="ï»¿cloud computing numerical simulation hypertension computer networks analogue multipliers data mining algorithm wavelet coefficients speaker-independent spoken number recognition internet-of-things resulting joint actions big data analytical process java"]
+	c72 -> c0
+	c73
+	c73 -> c73 [color=transparent headlabel=project73 labelangle=270]
+	c73 -> c73 [color=transparent labelangle=90 taillabel="neural network hardware implementations physical resources eigenvalues and eigenfunctions context information comprehensive research support platform"]
+	c73 -> c0
+	c74
+	c74 -> c74 [color=transparent headlabel=project74 labelangle=270]
+	c74 -> c74 [color=transparent labelangle=90 taillabel="twitter intelligent data analysis unsolicited electronic mail three layer feedforward network history black-box attack approach computation complexity humanoid robots counter-terrorism research naive bayes classifier power generation products engineering division cmos analogue integrated circuits"]
+	c74 -> c0
+	c75
+	c75 -> c75 [color=transparent headlabel=project75 labelangle=270]
+	c75 -> c75 [color=transparent labelangle=90 taillabel="copyright protection computer science ï»¿neural network hardware geographic location iso standards unified modeling language conic section function neural network urban areas social networks pulse modulation industrial equipment design resource management"]
+	c75 -> c0
+	c76
+	c76 -> c76 [color=transparent headlabel=project76 labelangle=270]
+	c76 -> c76 [color=transparent labelangle=90 taillabel="deep architectures 2d-compatible multilayer neural network feature extraction knowledge engineering computer statistical analysis quality-of-service computational perspective fast learning metadata management python-based deep learning library disclosure risk brain models logic programming language scheduling algorithm post synaptic potentials limit-cycles mutual connections"]
+	c76 -> c0
+	c77
+	c77 -> c77 [color=transparent headlabel=project77 labelangle=270]
+	c77 -> c77 [color=transparent labelangle=90 taillabel="ï»¿handheld computers benchmark testing ill-protected copies unfiltered web page medical decision making big data search and mining classification incremental learning algorithm metric space computational complexity systematics streaming media deeprt dynamic data management big datasets lof massive online open course unsupervised learning semisupervised learning neurocontrollers life estimation neurocomputer"]
+	c77 -> c0
+	c78
+	c78 -> c78 [color=transparent headlabel=project78 labelangle=270]
+	c78 -> c78 [color=transparent labelangle=90 taillabel="compensation deep neural network training computer games program processors"]
+	c78 -> c0
+	c79
+	c79 -> c79 [color=transparent labelangle=90 taillabel=database]
+	c79 -> c1
+	c79 -> c16
+	c80
+	c80 -> c80 [color=transparent labelangle=90 taillabel=nike]
+	c80 -> c1
+	c80 -> c22
+	c81
+	c81 -> c81 [color=transparent labelangle=90 taillabel="word segmentation"]
+	c81 -> c1
+	c81 -> c30
+	c82
+	c82 -> c82 [color=transparent labelangle=90 taillabel=bioinformatics]
+	c82 -> c1
+	c82 -> c31
+	c83
+	c83 -> c83 [color=transparent labelangle=90 taillabel="nonsmooth membership functions"]
+	c83 -> c1
+	c83 -> c50
+	c84
+	c84 -> c84 [color=transparent labelangle=90 taillabel="ï»¿big data"]
+	c84 -> c1
+	c84 -> c58
+	c85
+	c85 -> c85 [color=transparent labelangle=90 taillabel="optimisation hyperparameter optimization uncertainty"]
+	c85 -> c1
+	c85 -> c61
+	c86
+	c86 -> c86 [color=transparent labelangle=90 taillabel="commercial hotspot exploration"]
+	c86 -> c1
+	c86 -> c72
+	c87
+	c87 -> c87 [color=transparent labelangle=90 taillabel="recombining method"]
+	c87 -> c1
+	c87 -> c75
+	c88
+	c88 -> c88 [color=transparent labelangle=90 taillabel="mean square error methods"]
+	c88 -> c1
+	c88 -> c76
+	c89
+	c89 -> c89 [color=transparent labelangle=90 taillabel="recommender system problem"]
+	c89 -> c1
+	c89 -> c77
+	c90
+	c90 -> c2
+	c90 -> c3
+	c91
+	c91 -> c91 [color=transparent labelangle=90 taillabel="clean data hopfield neural network ds wdm networks"]
+	c91 -> c2
+	c91 -> c17
+	c92
+	c92 -> c2
+	c92 -> c19
+	c93
+	c93 -> c93 [color=transparent labelangle=90 taillabel="mos capacitors"]
+	c93 -> c2
+	c93 -> c47
+	c94
+	c94 -> c94 [color=transparent labelangle=90 taillabel="maintenance engineering"]
+	c94 -> c2
+	c94 -> c54
+	c95
+	c95 -> c3
+	c95 -> c8
+	c96
+	c96 -> c96 [color=transparent labelangle=90 taillabel=security]
+	c96 -> c3
+	c96 -> c25
+	c97
+	c97 -> c97 [color=transparent labelangle=90 taillabel="deep clustering network"]
+	c97 -> c3
+	c97 -> c52
+	c98
+	c98 -> c3
+	c98 -> c67
+	c99
+	c99 -> c4
+	c99 -> c14
+	c100
+	c100 -> c4
+	c100 -> c57
+	c101
+	c101 -> c101 [color=transparent labelangle=90 taillabel="neural network approach"]
+	c101 -> c5
+	c101 -> c6
+	c102
+	c102 -> c102 [color=transparent labelangle=90 taillabel="discussion forum spark automation"]
+	c102 -> c6
+	c102 -> c16
+	c103
+	c103 -> c7
+	c103 -> c9
+	c104
+	c104 -> c7
+	c104 -> c28
+	c105
+	c105 -> c7
+	c105 -> c30
+	c106
+	c106 -> c106 [color=transparent labelangle=90 taillabel="temporal series"]
+	c106 -> c7
+	c106 -> c47
+	c107
+	c107 -> c7
+	c107 -> c53
+	c108
+	c108 -> c108 [color=transparent labelangle=90 taillabel="qualitative attribute"]
+	c108 -> c8
+	c108 -> c13
+	c109
+	c109 -> c8
+	c109 -> c33
+	c110
+	c110 -> c110 [color=transparent labelangle=90 taillabel="deep neural network"]
+	c110 -> c8
+	c110 -> c35
+	c111
+	c111 -> c8
+	c111 -> c52
+	c112
+	c112 -> c112 [color=transparent labelangle=90 taillabel="cooperative systems"]
+	c112 -> c8
+	c112 -> c53
+	c113
+	c113 -> c9
+	c113 -> c13
+	c114
+	c114 -> c9
+	c114 -> c16
+	c115
+	c115 -> c9
+	c115 -> c17
+	c116
+	c116 -> c116 [color=transparent labelangle=90 taillabel="matched filters"]
+	c116 -> c9
+	c116 -> c45
+	c117
+	c117 -> c10
+	c117 -> c13
+	c118
+	c118 -> c118 [color=transparent labelangle=90 taillabel="communication networks"]
+	c118 -> c10
+	c118 -> c42
+	c119
+	c119 -> c10
+	c119 -> c45
+	c120
+	c120 -> c120 [color=transparent labelangle=90 taillabel="digital architecture"]
+	c120 -> c10
+	c120 -> c51
+	c121
+	c121 -> c121 [color=transparent labelangle=90 taillabel="wind turbines"]
+	c121 -> c10
+	c121 -> c78
+	c122
+	c122 -> c122 [color=transparent labelangle=90 taillabel="biological neural network"]
+	c122 -> c11
+	c122 -> c47
+	c123
+	c123 -> c11
+	c123 -> c54
+	c124
+	c124 -> c124 [color=transparent labelangle=90 taillabel="hybrid approach"]
+	c124 -> c12
+	c124 -> c13
+	c125
+	c125 -> c12
+	c125 -> c17
+	c126
+	c126 -> c12
+	c126 -> c36
+	c127
+	c127 -> c127 [color=transparent labelangle=90 taillabel="graphical user interface wuc"]
+	c127 -> c12
+	c127 -> c48
+	c128
+	c128 -> c12
+	c128 -> c49
+	c129
+	c129 -> c129 [color=transparent labelangle=90 taillabel="large-scaled neural systems"]
+	c129 -> c12
+	c129 -> c54
+	c130
+	c130 -> c13
+	c130 -> c16
+	c131
+	c131 -> c13
+	c131 -> c32
+	c132
+	c132 -> c13
+	c132 -> c45
+	c133
+	c133 -> c133 [color=transparent labelangle=90 taillabel=force]
+	c133 -> c13
+	c133 -> c51
+	c134
+	c134 -> c13
+	c134 -> c53
+	c135
+	c135 -> c13
+	c135 -> c57
+	c136
+	c136 -> c14
+	c136 -> c20
+	c137
+	c137 -> c14
+	c137 -> c29
+	c138
+	c138 -> c138 [color=transparent labelangle=90 taillabel="task analysis"]
+	c138 -> c14
+	c138 -> c62
+	c139
+	c139 -> c139 [color=transparent labelangle=90 taillabel="multiagent systems"]
+	c139 -> c14
+	c139 -> c63
+	c140
+	c140 -> c14
+	c140 -> c73
+	c141
+	c141 -> c14
+	c141 -> c76
+	c142
+	c142 -> c15
+	c142 -> c18
+	c143
+	c143 -> c15
+	c143 -> c25
+	c144
+	c144 -> c144 [color=transparent labelangle=90 taillabel="extraterrestrial measurements"]
+	c144 -> c15
+	c144 -> c31
+	c145
+	c145 -> c145 [color=transparent labelangle=90 taillabel="gas turbines"]
+	c145 -> c15
+	c145 -> c71
+	c146
+	c146 -> c146 [color=transparent labelangle=90 taillabel=prototype]
+	c146 -> c16
+	c146 -> c51
+	c147
+	c147 -> c147 [color=transparent labelangle=90 taillabel=vocabulary]
+	c147 -> c16
+	c147 -> c52
+	c148
+	c148 -> c17
+	c148 -> c36
+	c149
+	c149 -> c149 [color=transparent labelangle=90 taillabel="hidden units"]
+	c149 -> c17
+	c149 -> c44
+	c150
+	c150 -> c17
+	c150 -> c47
+	c151
+	c151 -> c151 [color=transparent labelangle=90 taillabel=bone]
+	c151 -> c17
+	c151 -> c75
+	c152
+	c152 -> c18
+	c152 -> c45
+	c153
+	c153 -> c18
+	c153 -> c50
+	c154
+	c154 -> c154 [color=transparent labelangle=90 taillabel="deep learning"]
+	c154 -> c18
+	c154 -> c75
+	c155
+	c155 -> c19
+	c155 -> c44
+	c156
+	c156 -> c156 [color=transparent labelangle=90 taillabel="proposal logistics energy consumption"]
+	c156 -> c19
+	c156 -> c49
+	c157
+	c157 -> c157 [color=transparent labelangle=90 taillabel="fuzzy logic"]
+	c157 -> c19
+	c157 -> c50
+	c158
+	c158 -> c20
+	c158 -> c38
+	c159
+	c159 -> c159 [color=transparent labelangle=90 taillabel="flexible structures"]
+	c159 -> c20
+	c159 -> c41
+	c160
+	c160 -> c160 [color=transparent labelangle=90 taillabel="backpropagation algorithms deep core learning random forest algorithm industry dynamic machine learning accuracy random variables input data preprocessing methods research data management binary relation cellular neural nets pattern clustering insider threat detection accuracy nonlinear system imbalanced classes data integration and analysis system program"]
+	c160 -> c21
+	c160 -> c26
+	c161
+	c161 -> c22
+	c161 -> c32
+	c162
+	c162 -> c162 [color=transparent labelangle=90 taillabel="threat analysis"]
+	c162 -> c22
+	c162 -> c36
+	c163
+	c163 -> c163 [color=transparent labelangle=90 taillabel=disease]
+	c163 -> c22
+	c163 -> c37
+	c164
+	c164 -> c22
+	c164 -> c43
+	c165
+	c165 -> c165 [color=transparent labelangle=90 taillabel="spacetime large data"]
+	c165 -> c22
+	c165 -> c65
+	c166
+	c166 -> c166 [color=transparent labelangle=90 taillabel="data quality dimension process identification"]
+	c166 -> c23
+	c166 -> c24
+	c167
+	c167 -> c167 [color=transparent labelangle=90 taillabel="job shop scheduling"]
+	c167 -> c23
+	c167 -> c25
+	c168
+	c168 -> c23
+	c168 -> c32
+	c169
+	c169 -> c23
+	c169 -> c33
+	c170
+	c170 -> c24
+	c170 -> c32
+	c171
+	c171 -> c171 [color=transparent labelangle=90 taillabel=dictionary]
+	c171 -> c24
+	c171 -> c33
+	c172
+	c172 -> c24
+	c172 -> c34
+	c173
+	c173 -> c173 [color=transparent labelangle=90 taillabel="cnn implementations"]
+	c173 -> c24
+	c173 -> c36
+	c174
+	c174 -> c174 [color=transparent labelangle=90 taillabel="multilayer support vector machine"]
+	c174 -> c24
+	c174 -> c40
+	c175
+	c175 -> c24
+	c175 -> c76
+	c176
+	c176 -> c25
+	c176 -> c27
+	c177
+	c177 -> c25
+	c177 -> c36
+	c178
+	c178 -> c25
+	c178 -> c38
+	c179
+	c179 -> c179 [color=transparent labelangle=90 taillabel="adaptation rule circuit"]
+	c179 -> c25
+	c179 -> c42
+	c180
+	c180 -> c25
+	c180 -> c56
+	c181
+	c181 -> c181 [color=transparent labelangle=90 taillabel="standard high dimensional feature space"]
+	c181 -> c27
+	c181 -> c38
+	c182
+	c182 -> c28
+	c182 -> c31
+	c183
+	c183 -> c183 [color=transparent labelangle=90 taillabel="cache storage"]
+	c183 -> c28
+	c183 -> c37
+	c184
+	c184 -> c28
+	c184 -> c56
+	c185
+	c185 -> c28
+	c185 -> c68
+	c186
+	c186 -> c28
+	c186 -> c73
+	c187
+	c187 -> c29
+	c187 -> c32
+	c188
+	c188 -> c29
+	c188 -> c38
+	c189
+	c189 -> c29
+	c189 -> c56
+	c190
+	c190 -> c190 [color=transparent labelangle=90 taillabel="deep dictionary learning framework"]
+	c190 -> c29
+	c190 -> c78
+	c191
+	c191 -> c191 [color=transparent labelangle=90 taillabel="error analysis"]
+	c191 -> c30
+	c191 -> c31
+	c192
+	c192 -> c192 [color=transparent labelangle=90 taillabel="software prototyping"]
+	c192 -> c30
+	c192 -> c33
+	c193
+	c193 -> c193 [color=transparent labelangle=90 taillabel="biomedical education"]
+	c193 -> c30
+	c193 -> c74
+	c194
+	c194 -> c194 [color=transparent labelangle=90 taillabel="knowledge extraction roc"]
+	c194 -> c31
+	c194 -> c69
+	c195
+	c195 -> c32
+	c195 -> c34
+	c196
+	c196 -> c32
+	c196 -> c37
+	c197
+	c197 -> c197 [color=transparent labelangle=90 taillabel="dynamic security-level maximization"]
+	c197 -> c32
+	c197 -> c39
+	c198
+	c198 -> c32
+	c198 -> c43
+	c199
+	c199 -> c199 [color=transparent labelangle=90 taillabel="ssd cache"]
+	c199 -> c33
+	c199 -> c36
+	c200
+	c200 -> c33
+	c200 -> c38
+	c201
+	c201 -> c201 [color=transparent labelangle=90 taillabel=classifier]
+	c201 -> c33
+	c201 -> c51
+	c202
+	c202 -> c34
+	c202 -> c38
+	c203
+	c203 -> c203 [color=transparent labelangle=90 taillabel="next-gen tools"]
+	c203 -> c34
+	c203 -> c66
+	c204
+	c204 -> c204 [color=transparent labelangle=90 taillabel="pattern classification"]
+	c204 -> c35
+	c204 -> c46
+	c205
+	c205 -> c205 [color=transparent labelangle=90 taillabel="ï»¿cognitive systems pressure measurement"]
+	c205 -> c35
+	c205 -> c57
+	c206
+	c206 -> c35
+	c206 -> c78
+	c207
+	c207 -> c207 [color=transparent labelangle=90 taillabel="graphical user interfaces"]
+	c207 -> c36
+	c207 -> c68
+	c208
+	c208 -> c208 [color=transparent labelangle=90 taillabel="digitally-controlled synapse kubernetes"]
+	c208 -> c37
+	c208 -> c43
+	c209
+	c209 -> c209 [color=transparent labelangle=90 taillabel=programming]
+	c209 -> c38
+	c209 -> c44
+	c210
+	c210 -> c39
+	c210 -> c78
+	c211
+	c211 -> c211 [color=transparent labelangle=90 taillabel="distributed mining"]
+	c211 -> c41
+	c211 -> c63
+	c212
+	c212 -> c45
+	c212 -> c48
+	c213
+	c213 -> c46
+	c213 -> c57
+	c214
+	c214 -> c214 [color=transparent labelangle=90 taillabel="lyapunov optimization"]
+	c214 -> c47
+	c214 -> c48
+	c215
+	c215 -> c215 [color=transparent labelangle=90 taillabel="power generation economics analogue integrated circuits"]
+	c215 -> c51
+	c215 -> c52
+	c216
+	c216 -> c216 [color=transparent labelangle=90 taillabel="svm classifier inference"]
+	c216 -> c52
+	c216 -> c54
+	c217
+	c217 -> c56
+	c217 -> c59
+	c218
+	c218 -> c56
+	c218 -> c62
+	c219
+	c219 -> c56
+	c219 -> c68
+	c220
+	c220 -> c56
+	c220 -> c76
+	c221
+	c221 -> c221 [color=transparent labelangle=90 taillabel="first-person perspective game"]
+	c221 -> c57
+	c221 -> c71
+	c222
+	c222 -> c222 [color=transparent labelangle=90 taillabel="fpna noisy deep dictionary learning"]
+	c222 -> c57
+	c222 -> c78
+	c223
+	c223 -> c58
+	c223 -> c62
+	c224
+	c224 -> c224 [color=transparent labelangle=90 taillabel="fault diagnosis"]
+	c224 -> c58
+	c224 -> c67
+	c225
+	c225 -> c225 [color=transparent labelangle=90 taillabel="finance predictive analytics mil"]
+	c225 -> c58
+	c225 -> c75
+	c226
+	c226 -> c226 [color=transparent labelangle=90 taillabel=optimization]
+	c226 -> c59
+	c226 -> c64
+	c227
+	c227 -> c227 [color=transparent labelangle=90 taillabel=ontology]
+	c227 -> c61
+	c227 -> c63
+	c228
+	c228 -> c61
+	c228 -> c64
+	c229
+	c229 -> c229 [color=transparent labelangle=90 taillabel=heating]
+	c229 -> c61
+	c229 -> c70
+	c230
+	c230 -> c61
+	c230 -> c72
+	c231
+	c231 -> c231 [color=transparent labelangle=90 taillabel=fitting]
+	c231 -> c62
+	c231 -> c66
+	c232
+	c232 -> c62
+	c232 -> c72
+	c233
+	c233 -> c233 [color=transparent labelangle=90 taillabel="object classification"]
+	c233 -> c62
+	c233 -> c73
+	c234
+	c234 -> c63
+	c234 -> c74
+	c235
+	c235 -> c64
+	c235 -> c65
+	c236
+	c236 -> c64
+	c236 -> c67
+	c237
+	c237 -> c237 [color=transparent labelangle=90 taillabel=portfolio]
+	c237 -> c65
+	c237 -> c66
+	c238
+	c238 -> c238 [color=transparent labelangle=90 taillabel=learning]
+	c238 -> c66
+	c238 -> c72
+	c239
+	c239 -> c239 [color=transparent labelangle=90 taillabel="foot x-ray image"]
+	c239 -> c70
+	c239 -> c71
+	c240
+	c240 -> c70
+	c240 -> c76
+	c241
+	c241 -> c71
+	c241 -> c76
+	c242
+	c242 -> c72
+	c242 -> c75
+	c243
+	c243 -> c72
+	c243 -> c76
+	c244
+	c244 -> c244 [color=transparent labelangle=90 taillabel="multiplying circuits"]
+	c244 -> c72
+	c244 -> c77
+	c245
+	c245 -> c73
+	c245 -> c76
+	c246
+	c246 -> c246 [color=transparent labelangle=90 taillabel="reinforcement learning"]
+	c246 -> c80
+	c246 -> c162
+	c247
+	c247 -> c90
+	c247 -> c97
+	c248
+	c248 -> c2
+	c248 -> c9
+	c248 -> c48
+	c249
+	c249 -> c12
+	c249 -> c92
+	c250
+	c250 -> c92
+	c250 -> c155
+	c251
+	c251 -> c251 [color=transparent labelangle=90 taillabel="multiprocessor interconnection networks"]
+	c251 -> c50
+	c251 -> c98
+	c252
+	c252 -> c100
+	c252 -> c213
+	c253
+	c253 -> c253 [color=transparent labelangle=90 taillabel="optical networks"]
+	c253 -> c18
+	c253 -> c101
+	c254
+	c254 -> c5
+	c254 -> c212
+	c255
+	c255 -> c255 [color=transparent labelangle=90 taillabel="dynamic control algorithm"]
+	c255 -> c103
+	c255 -> c107
+	c256
+	c256 -> c52
+	c256 -> c106
+	c257
+	c257 -> c8
+	c257 -> c11
+	c257 -> c51
+	c258
+	c258 -> c258 [color=transparent labelangle=90 taillabel="iot sensor device"]
+	c258 -> c108
+	c258 -> c132
+	c259
+	c259 -> c259 [color=transparent labelangle=90 taillabel="big data discovery"]
+	c259 -> c115
+	c259 -> c148
+	c260
+	c260 -> c260 [color=transparent labelangle=90 taillabel=trajectory]
+	c260 -> c117
+	c260 -> c121
+	c261
+	c261 -> c11
+	c261 -> c210
+	c262
+	c262 -> c125
+	c262 -> c150
+	c263
+	c263 -> c125
+	c263 -> c129
+	c264
+	c264 -> c131
+	c264 -> c196
+	c265
+	c265 -> c136
+	c265 -> c137
+	c266
+	c266 -> c136
+	c266 -> c141
+	c267
+	c267 -> c141
+	c267 -> c243
+	c268
+	c268 -> c140
+	c268 -> c141
+	c268 -> c245
+	c269
+	c269 -> c15
+	c269 -> c190
+	c270
+	c270 -> c270 [color=transparent labelangle=90 taillabel="coordinated behaviors"]
+	c270 -> c15
+	c270 -> c234
+	c271
+	c271 -> c16
+	c271 -> c50
+	c271 -> c53
+	c272
+	c272 -> c18
+	c272 -> c49
+	c272 -> c54
+	c273
+	c273 -> c273 [color=transparent labelangle=90 taillabel="field programmable neural arrays"]
+	c273 -> c155
+	c273 -> c156
+	c274
+	c274 -> c20
+	c274 -> c172
+	c275
+	c275 -> c275 [color=transparent labelangle=90 taillabel="layered topology"]
+	c275 -> c21
+	c275 -> c235
+	c276
+	c276 -> c276 [color=transparent labelangle=90 taillabel="big data integration"]
+	c276 -> c161
+	c276 -> c170
+	c277
+	c277 -> c161
+	c277 -> c195
+	c278
+	c278 -> c278 [color=transparent labelangle=90 taillabel="hippocampal ltp process"]
+	c278 -> c43
+	c278 -> c169
+	c279
+	c279 -> c170
+	c279 -> c172
+	c279 -> c195
+	c280
+	c280 -> c280 [color=transparent labelangle=90 taillabel="credit assignment problem"]
+	c280 -> c24
+	c280 -> c219
+	c281
+	c281 -> c281 [color=transparent labelangle=90 taillabel="deep convolutional belief network"]
+	c281 -> c176
+	c281 -> c177
+	c282
+	c282 -> c282 [color=transparent labelangle=90 taillabel="ontologies (artificial intelligence)"]
+	c282 -> c180
+	c282 -> c217
+	c283
+	c283 -> c283 [color=transparent labelangle=90 taillabel="imbalanced distributions"]
+	c283 -> c40
+	c283 -> c182
+	c284
+	c284 -> c183
+	c284 -> c208
+	c285
+	c285 -> c285 [color=transparent labelangle=90 taillabel="standard backpropagation"]
+	c285 -> c185
+	c285 -> c186
+	c286
+	c286 -> c187
+	c286 -> c195
+	c287
+	c287 -> c187
+	c287 -> c188
+	c288
+	c288 -> c33
+	c288 -> c189
+	c289
+	c289 -> c189
+	c289 -> c219
+	c290
+	c290 -> c290 [color=transparent labelangle=90 taillabel="pose estimation"]
+	c290 -> c196
+	c290 -> c198
+	c290 -> c208
+	c291
+	c291 -> c204
+	c291 -> c206
+	c292
+	c292 -> c292 [color=transparent labelangle=90 taillabel="video analysis"]
+	c292 -> c205
+	c292 -> c206
+	c292 -> c222
+	c293
+	c293 -> c293 [color=transparent labelangle=90 taillabel="cognitive linguistics"]
+	c293 -> c54
+	c293 -> c210
+	c294
+	c294 -> c50
+	c294 -> c212
+	c295
+	c295 -> c220
+	c295 -> c245
+	c296
+	c296 -> c296 [color=transparent labelangle=90 taillabel="knee surgeries"]
+	c296 -> c223
+	c296 -> c232
+	c297
+	c297 -> c297 [color=transparent labelangle=90 taillabel="ï»¿road accidents"]
+	c297 -> c75
+	c297 -> c227
+	c298
+	c298 -> c233
+	c298 -> c245
+	c299
+	c299 -> c299 [color=transparent labelangle=90 taillabel="analog multiplier"]
+	c299 -> c66
+	c299 -> c239
+	c300
+	c300 -> c300 [color=transparent labelangle=90 taillabel=instrument]
+	c300 -> c240
+	c300 -> c245
+	c301
+	c301 -> c36
+	c301 -> c90
+	c301 -> c92
+	c302
+	c302 -> c302 [color=transparent labelangle=90 taillabel="data collection"]
+	c302 -> c51
+	c302 -> c248
+	c303
+	c303 -> c3
+	c303 -> c13
+	c303 -> c106
+	c304
+	c304 -> c304 [color=transparent labelangle=90 taillabel="order parameter coherency"]
+	c304 -> c135
+	c304 -> c252
+	c305
+	c305 -> c7
+	c305 -> c257
+	c306
+	c306 -> c306 [color=transparent labelangle=90 taillabel="ï»¿data visualization"]
+	c306 -> c105
+	c306 -> c242
+	c307
+	c307 -> c216
+	c307 -> c256
+	c308
+	c308 -> c112
+	c308 -> c257
+	c309
+	c309 -> c309 [color=transparent labelangle=90 taillabel="wavelength division multiplexing"]
+	c309 -> c33
+	c309 -> c113
+	c309 -> c114
+	c309 -> c130
+	c310
+	c310 -> c310 [color=transparent labelangle=90 taillabel="x-ray image"]
+	c310 -> c123
+	c310 -> c261
+	c310 -> c293
+	c311
+	c311 -> c311 [color=transparent labelangle=90 taillabel="big social data"]
+	c311 -> c264
+	c311 -> c290
+	c312
+	c312 -> c312 [color=transparent labelangle=90 taillabel="clustering algorithms"]
+	c312 -> c158
+	c312 -> c188
+	c312 -> c265
+	c313
+	c313 -> c15
+	c313 -> c30
+	c313 -> c160
+	c314
+	c314 -> c206
+	c314 -> c269
+	c315
+	c315 -> c276
+	c315 -> c277
+	c315 -> c279
+	c316
+	c316 -> c277
+	c316 -> c286
+	c317
+	c317 -> c182
+	c317 -> c184
+	c317 -> c220
+	c318
+	c318 -> c198
+	c318 -> c286
+	c319
+	c319 -> c187
+	c319 -> c289
+	c320
+	c320 -> c288
+	c320 -> c289
+	c321
+	c321 -> c321 [color=transparent labelangle=90 taillabel="counter-terrorism"]
+	c321 -> c213
+	c321 -> c291
+	c321 -> c292
+	c322
+	c322 -> c41
+	c322 -> c223
+	c322 -> c225
+	c323
+	c323 -> c323 [color=transparent labelangle=90 taillabel="decision making"]
+	c323 -> c73
+	c323 -> c224
+	c323 -> c236
+	c324
+	c324 -> c228
+	c324 -> c230
+	c324 -> c236
+	c325
+	c325 -> c325 [color=transparent labelangle=90 taillabel="signal feedforward"]
+	c325 -> c241
+	c325 -> c298
+	c326
+	c326 -> c74
+	c326 -> c77
+	c326 -> c233
+	c327
+	c327 -> c327 [color=transparent labelangle=90 taillabel="asynchronous blocks"]
+	c327 -> c95
+	c327 -> c109
+	c327 -> c111
+	c327 -> c247
+	c328
+	c328 -> c328 [color=transparent labelangle=90 taillabel="auto-associative memory"]
+	c328 -> c126
+	c328 -> c249
+	c328 -> c301
+	c329
+	c329 -> c329 [color=transparent labelangle=90 taillabel=observatory]
+	c329 -> c128
+	c329 -> c249
+	c329 -> c250
+	c329 -> c273
+	c330
+	c330 -> c24
+	c330 -> c91
+	c330 -> c92
+	c330 -> c93
+	c330 -> c150
+	c331
+	c331 -> c331 [color=transparent labelangle=90 taillabel="neural controller"]
+	c331 -> c98
+	c331 -> c324
+	c332
+	c332 -> c4
+	c332 -> c184
+	c332 -> c185
+	c332 -> c289
+	c333
+	c333 -> c106
+	c333 -> c122
+	c333 -> c305
+	c334
+	c334 -> c107
+	c334 -> c305
+	c334 -> c308
+	c335
+	c335 -> c119
+	c335 -> c256
+	c336
+	c336 -> c148
+	c336 -> c150
+	c336 -> c256
+	c337
+	c337 -> c123
+	c337 -> c129
+	c337 -> c257
+	c338
+	c338 -> c38
+	c338 -> c308
+	c339
+	c339 -> c16
+	c339 -> c128
+	c339 -> c129
+	c339 -> c272
+	c340
+	c340 -> c137
+	c340 -> c189
+	c340 -> c269
+	c341
+	c341 -> c138
+	c341 -> c140
+	c341 -> c326
+	c342
+	c342 -> c342 [color=transparent labelangle=90 taillabel="company ip"]
+	c342 -> c142
+	c342 -> c313
+	c343
+	c343 -> c38
+	c343 -> c313
+	c344
+	c344 -> c344 [color=transparent labelangle=90 taillabel="ï»¿mathematical model"]
+	c344 -> c291
+	c344 -> c314
+	c345
+	c345 -> c345 [color=transparent labelangle=90 taillabel="deep learning research"]
+	c345 -> c42
+	c345 -> c163
+	c345 -> c164
+	c345 -> c284
+	c346
+	c346 -> c197
+	c346 -> c279
+	c346 -> c286
+	c347
+	c347 -> c57
+	c347 -> c196
+	c347 -> c279
+	c348
+	c348 -> c25
+	c348 -> c318
+	c349
+	c349 -> c349 [color=transparent labelangle=90 taillabel="hetero-associative memory"]
+	c349 -> c50
+	c349 -> c322
+	c350
+	c350 -> c350 [color=transparent labelangle=90 taillabel="cluster mining"]
+	c350 -> c320
+	c350 -> c332
+	c351
+	c351 -> c351 [color=transparent labelangle=90 taillabel="graphics processing unit"]
+	c351 -> c152
+	c351 -> c153
+	c351 -> c253
+	c351 -> c254
+	c351 -> c294
+	c352
+	c352 -> c352 [color=transparent labelangle=90 taillabel="ï»¿computer architecture"]
+	c352 -> c42
+	c352 -> c158
+	c352 -> c171
+	c352 -> c200
+	c352 -> c202
+	c352 -> c274
+	c353
+	c353 -> c173
+	c353 -> c347
+	c354
+	c354 -> c354 [color=transparent labelangle=90 taillabel="benchmark deep learning datasets"]
+	c354 -> c41
+	c354 -> c74
+	c354 -> c182
+	c354 -> c228
+	c355
+	c355 -> c69
+	c355 -> c229
+	c355 -> c230
+	c355 -> c239
+	c355 -> c240
+	c355 -> c241
+	c355 -> c243
+	c356
+	c356 -> c65
+	c356 -> c234
+	c356 -> c326
+	c357
+	c357 -> c357 [color=transparent labelangle=90 taillabel="biological system modeling"]
+	c357 -> c175
+	c357 -> c249
+	c357 -> c262
+	c357 -> c330
+	c358
+	c358 -> c358 [color=transparent labelangle=90 taillabel="data usability"]
+	c358 -> c143
+	c358 -> c176
+	c358 -> c178
+	c358 -> c181
+	c358 -> c343
+	c359
+	c359 -> c31
+	c359 -> c164
+	c359 -> c202
+	c359 -> c287
+	c359 -> c316
+	c359 -> c318
+	c360
+	c360 -> c168
+	c360 -> c169
+	c360 -> c200
+	c360 -> c287
+	c360 -> c319
+	c360 -> c320
+	c361
+	c361 -> c231
+	c361 -> c232
+	c361 -> c238
+	c361 -> c243
+	c361 -> c244
+	c361 -> c298
+	c361 -> c326
+	c362
+	c362 -> c362 [color=transparent labelangle=90 taillabel=effectiveness]
+	c362 -> c95
+	c362 -> c108
+	c362 -> c133
+	c362 -> c134
+	c362 -> c303
+	c362 -> c333
+	c362 -> c334
+	c363
+	c363 -> c363 [color=transparent labelangle=90 taillabel="recurrent neural networks"]
+	c363 -> c99
+	c363 -> c139
+	c363 -> c341
+	c363 -> c356
+	c364
+	c364 -> c7
+	c364 -> c163
+	c364 -> c166
+	c364 -> c168
+	c364 -> c315
+	c364 -> c347
+	c365
+	c365 -> c365 [color=transparent labelangle=90 taillabel="digital integrated circuits"]
+	c365 -> c114
+	c365 -> c115
+	c365 -> c142
+	c365 -> c263
+	c365 -> c339
+	c366
+	c366 -> c117
+	c366 -> c119
+	c366 -> c131
+	c366 -> c132
+	c366 -> c212
+	c366 -> c315
+	c367
+	c367 -> c367 [color=transparent labelangle=90 taillabel="deep reinforcement learning algorithm"]
+	c367 -> c266
+	c367 -> c267
+	c367 -> c355
+	c368
+	c368 -> c368 [color=transparent labelangle=90 taillabel="multidisciplined problem"]
+	c368 -> c267
+	c368 -> c268
+	c368 -> c341
+	c368 -> c361
+	c369
+	c369 -> c21
+	c369 -> c53
+	c369 -> c315
+	c369 -> c316
+	c369 -> c346
+	c370
+	c370 -> c370 [color=transparent labelangle=90 taillabel="artificial intelligence"]
+	c370 -> c178
+	c370 -> c348
+	c370 -> c359
+	c371
+	c371 -> c371 [color=transparent labelangle=90 taillabel="distributed databases"]
+	c371 -> c218
+	c371 -> c360
+	c372
+	c372 -> c40
+	c372 -> c141
+	c372 -> c220
+	c372 -> c288
+	c372 -> c314
+	c372 -> c340
+	c373
+	c373 -> c373 [color=transparent labelangle=90 taillabel="big data scheduling"]
+	c373 -> c1
+	c373 -> c104
+	c373 -> c152
+	c373 -> c272
+	c373 -> c307
+	c373 -> c335
+	c374
+	c374 -> c374 [color=transparent labelangle=90 taillabel="mean root mean squared error"]
+	c374 -> c111
+	c374 -> c126
+	c374 -> c215
+	c374 -> c262
+	c374 -> c263
+	c374 -> c307
+	c374 -> c333
+	c374 -> c336
+	c374 -> c337
+	c375
+	c375 -> c375 [color=transparent labelangle=90 taillabel=library]
+	c375 -> c268
+	c375 -> c295
+	c375 -> c372
+	c376
+	c376 -> c376 [color=transparent labelangle=90 taillabel="customer relationship management"]
+	c376 -> c146
+	c376 -> c153
+	c376 -> c271
+	c376 -> c337
+	c376 -> c338
+	c376 -> c339
+	c377
+	c377 -> c377 [color=transparent labelangle=90 taillabel="ï»¿sparks"]
+	c377 -> c130
+	c377 -> c134
+	c377 -> c271
+	c377 -> c294
+	c377 -> c366
+	c377 -> c369
+	c378
+	c378 -> c99
+	c378 -> c100
+	c378 -> c210
+	c378 -> c222
+	c378 -> c265
+	c378 -> c274
+	c378 -> c280
+	c378 -> c284
+	c378 -> c290
+	c378 -> c318
+	c378 -> c319
+	c378 -> c332
+	c378 -> c340
+	c378 -> c346
+	c378 -> c347
+	c379
+	c379 -> c379 [color=transparent labelangle=90 taillabel="analog storage"]
+	c379 -> c143
+	c379 -> c177
+	c379 -> c180
+	c379 -> c207
+	c379 -> c348
+	c379 -> c353
+	c379 -> c378
+	c380
+	c380 -> c380 [color=transparent labelangle=90 taillabel="algorithm design and analysis"]
+	c380 -> c103
+	c380 -> c113
+	c380 -> c116
+	c380 -> c135
+	c380 -> c149
+	c380 -> c162
+	c380 -> c214
+	c380 -> c247
+	c380 -> c248
+	c380 -> c250
+	c380 -> c254
+	c380 -> c259
+	c380 -> c264
+	c380 -> c301
+	c380 -> c303
+	c380 -> c330
+	c380 -> c335
+	c380 -> c336
+	c380 -> c353
+	c380 -> c364
+	c380 -> c366
+	c381
+	c381 -> c381 [color=transparent labelangle=90 taillabel="deep learning algorithm"]
+	c381 -> c60
+	c381 -> c186
+	c381 -> c194
+	c381 -> c211
+	c381 -> c217
+	c381 -> c218
+	c381 -> c226
+	c381 -> c235
+	c381 -> c237
+	c381 -> c242
+	c381 -> c295
+	c381 -> c296
+	c381 -> c297
+	c381 -> c299
+	c381 -> c300
+	c381 -> c317
+	c381 -> c322
+	c381 -> c323
+	c381 -> c324
+	c381 -> c325
+	c381 -> c354
+	c381 -> c355
+	c381 -> c356
+	c381 -> c361
+	c382
+	c382 -> c382 [color=transparent labelangle=90 taillabel=dcnn]
+	c382 -> c104
+	c382 -> c105
+	c382 -> c109
+	c382 -> c110
+	c382 -> c144
+	c382 -> c174
+	c382 -> c175
+	c382 -> c191
+	c382 -> c192
+	c382 -> c201
+	c382 -> c252
+	c382 -> c261
+	c382 -> c266
+	c382 -> c278
+	c382 -> c283
+	c382 -> c312
+	c382 -> c317
+	c382 -> c321
+	c382 -> c334
+	c382 -> c338
+	c382 -> c343
+	c382 -> c344
+	c382 -> c345
+	c382 -> c350
+	c382 -> c352
+	c382 -> c359
+	c382 -> c360
+	c382 -> c364
+	c382 -> c369
+	c382 -> c372
+	c382 -> c378
+	c383
+	c383 -> c55
+	c383 -> c79
+	c383 -> c81
+	c383 -> c82
+	c383 -> c83
+	c383 -> c84
+	c383 -> c85
+	c383 -> c86
+	c383 -> c87
+	c383 -> c88
+	c383 -> c89
+	c383 -> c94
+	c383 -> c96
+	c383 -> c102
+	c383 -> c118
+	c383 -> c120
+	c383 -> c124
+	c383 -> c127
+	c383 -> c145
+	c383 -> c147
+	c383 -> c151
+	c383 -> c154
+	c383 -> c157
+	c383 -> c159
+	c383 -> c165
+	c383 -> c167
+	c383 -> c179
+	c383 -> c193
+	c383 -> c199
+	c383 -> c203
+	c383 -> c209
+	c383 -> c221
+	c383 -> c246
+	c383 -> c251
+	c383 -> c255
+	c383 -> c258
+	c383 -> c260
+	c383 -> c270
+	c383 -> c275
+	c383 -> c281
+	c383 -> c282
+	c383 -> c285
+	c383 -> c302
+	c383 -> c304
+	c383 -> c306
+	c383 -> c309
+	c383 -> c310
+	c383 -> c311
+	c383 -> c327
+	c383 -> c328
+	c383 -> c329
+	c383 -> c331
+	c383 -> c342
+	c383 -> c349
+	c383 -> c351
+	c383 -> c357
+	c383 -> c358
+	c383 -> c362
+	c383 -> c363
+	c383 -> c365
+	c383 -> c367
+	c383 -> c368
+	c383 -> c370
+	c383 -> c371
+	c383 -> c373
+	c383 -> c374
+	c383 -> c375
+	c383 -> c376
+	c383 -> c377
+	c383 -> c379
+	c383 -> c380
+	c383 -> c381
+	c383 -> c382
+}

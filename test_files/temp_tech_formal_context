@@ -1,0 +1,70 @@
+// <Lattice object of 5 atoms 17 concepts 6 coatoms at 0x172bb525160>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c1
+	c1 -> c1 [color=transparent headlabel=project1 labelangle=270]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel=project6 labelangle=270]
+	c2 -> c2 [color=transparent labelangle=90 taillabel="frequent patterns"]
+	c2 -> c0
+	c3
+	c3 -> c3 [color=transparent headlabel=project7 labelangle=270]
+	c3 -> c0
+	c4
+	c4 -> c4 [color=transparent headlabel=project10 labelangle=270]
+	c4 -> c0
+	c5
+	c5 -> c5 [color=transparent labelangle=90 taillabel="neural chips"]
+	c5 -> c1
+	c5 -> c3
+	c6
+	c6 -> c6 [color=transparent labelangle=90 taillabel="flexible structures"]
+	c6 -> c1
+	c6 -> c4
+	c7
+	c7 -> c7 [color=transparent headlabel=project2 labelangle=270]
+	c7 -> c4
+	c8
+	c8 -> c8 [color=transparent headlabel=project3 labelangle=270]
+	c8 -> c8 [color=transparent labelangle=90 taillabel="core memory"]
+	c8 -> c4
+	c9
+	c9 -> c9 [color=transparent headlabel=project4 labelangle=270]
+	c9 -> c9 [color=transparent labelangle=90 taillabel="m-p model"]
+	c9 -> c3
+	c10
+	c10 -> c10 [color=transparent headlabel="project5 project9" labelangle=270]
+	c10 -> c10 [color=transparent labelangle=90 taillabel="manufacturing systems"]
+	c10 -> c0
+	c11
+	c11 -> c11 [color=transparent labelangle=90 taillabel="supervised learning"]
+	c11 -> c6
+	c11 -> c8
+	c12
+	c12 -> c3
+	c12 -> c7
+	c13
+	c13 -> c13 [color=transparent headlabel=project8 labelangle=270]
+	c13 -> c13 [color=transparent labelangle=90 taillabel=probability]
+	c13 -> c7
+	c14
+	c14 -> c14 [color=transparent labelangle=90 taillabel="data integration"]
+	c14 -> c8
+	c14 -> c12
+	c15
+	c15 -> c15 [color=transparent labelangle=90 taillabel=internet]
+	c15 -> c5
+	c15 -> c6
+	c15 -> c10
+	c15 -> c12
+	c16
+	c16 -> c2
+	c16 -> c9
+	c16 -> c11
+	c16 -> c13
+	c16 -> c14
+	c16 -> c15
+}

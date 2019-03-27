@@ -1,0 +1,1654 @@
+TITLE,ABSTRACT,IEEE KEYWORDS,INSPEC: Controlled Indexing,INSPEC: Non-Controlled Indexing,Author Keywords 
+20 ML,20 BIG DATA,25 DEEP LEARNING,25 NEURAL NETWORK
+structure:
+title - 1 blank line - Abstract - 2 blank lines - IEEE keywords - 2 blank lines - INSPEC: Controlled Indexing keywords - 2 blank lines - INSPEC: Non-Controlled Indexing keywords - 2 blank lines - Author keywords
+4 blank lines - next project
+10 blank lines - next topic
+
+
+
+
+Hybrid Machine Learning Approach in Data Mining
+
+In this paper we discuss various machine learning approaches used in mining of data. Further we distinguish between symbolic and sub-symbolic data mining methods. We also attempt to propose a hybrid method with the combination of Artificial Neural Network (ANN) and Cased Based Reasoning (CBR) in mining of data.
+
+
+Machine learning,Datamining,Artificial neural networks,Data analysis,Databases,Information systems,Learning systems,Classificationt reeanalysis,Data visualization,Hospitals
+
+
+case-based reasoning,data mining,learning (artificial intelligence),neural nets
+
+
+machine learning,subsymbolic data mining,artificial neural network,cased based reasoning
+
+
+Data Mining,Machine Learning,Artificial Neural Networ (ANN),Case Based Reasoning( CBR),Hybrid Approach
+
+	
+	
+	
+Boolean Factor Analysis for Data Preprocessing in Machine Learning
+
+We present two input data preprocessing methods for machine learning (ML). The first one consists in extending the set of attributes describing objects in input data table by new attributes and the second one consists in replacing the attributes by new attributes. The methods utilize formal concept analysis (FCA) and boolean factor analysis, recently described by FCA, in that the new attributes are defined by so-called factor concepts computed from input data table. The methods are demonstrated on decision tree induction. The experimental evaluation and comparison of performance of decision trees induced from original and preprocessed input data is performed with standard decision tree induction algorithms ID3 and C4.5 on several benchmark datasets.
+
+
+Decision trees,Machine learning,Matrix decomposition,Data preprocessing,Data mining,Learning systems,Bismuth
+
+
+Boolean functions,data handling,decision trees,formal concept analysis,learning (artificial intelligence)
+
+
+Boolean factor analysis,machine learning,input data preprocessing methods,input data table,formal concept analysis,factor concepts,decision tree induction algorithms ID3,decision tree induction algorithms C4.5
+
+
+data preprocessing,machine learning,decision trees,matrix decomposition,formal concept
+
+
+
+
+How to steal a machine learning classifier with deep learning
+
+This paper presents an exploratory machine learning attack based on deep learning to infer the functionality of an arbitrary classifier by polling it as a black box, and using returned labels to build a functionally equivalent machine. Typically, it is costly and time consuming to build a classifier, because this requires collecting training data (e.g., through crowdsourcing), selecting a suitable machine learning algorithm (through extensive tests and using domain-specific knowledge), and optimizing the underlying hyperparameters (applying a good understanding of the classifier's structure). In addition, all this information is typically proprietary and should be protected. With the proposed black-box attack approach, an adversary can use deep learning to reliably infer the necessary information by using labels previously obtained from the classifier under attack, and build a functionally equivalent machine learning classifier without knowing the type, structure or underlying parameters of the original classifier. Results for a text classification application demonstrate that deep learning can infer Naive Bayes and SVM classifiers with high accuracy and steal their functionalities. This new attack paradigm with deep learning introduces additional security challenges for online machine learning algorithms and raises the need for novel mitigation strategies to counteract the high fidelity inference capability of deep learning.
+
+
+Machine learning,Support vector machines,Training data,Neurons,Machine learning algorithms,Organizations,Security
+
+	
+inference mechanisms,learning (artificial intelligence),pattern classification,security of data,text analysis
+
+	
+machine learning classifier,deep learning,exploratory machine learning attack,functionally equivalent machine,training data,crowdsourcing,domain-specific knowledge,hyperparameter optimization,classifier structure,black-box attack approach,text classification application,Naive Bayes classifier,SVM classifier inference,security challenges,online machine learning algorithms,mitigation strategies,high fidelity inference capability
+
+	
+Machine learning,adversarial machine learning,classifier,deep learning,exploratory attacks
+
+	
+	
+	
+Determination of Vocational Fields with Machine Learning Algorithm
+
+The importance of vocational and technical training is growing day by day in parallel to the developing technology. It is inevitable to utilise opportunities presented by information and communication technologies in order to determine vocational fields in vocational and technical training in the most efficient manner. In this respect, it is possible to create a more efficient tool compared to the current methods by utilising machine learning which is an artificial intelligence model in energy applications that predicts events in the future depending on the past experiences. In the current study, a software is developed that ensures that the system learns about the successful and unsuccessful choices made in the past by applying “Naive Bayes” algorithm, which is a machine learning algorithm, to the data collected concerning the individuals who turned out to be successful or unsuccessful in the vocational technical training process in energy applications. In the software developed, it is aimed that the system recommends the most suitable vocational field for the individual by according to the data collected from the individual who is in the occupation selection process in field energy applications.
+
+
+Classification algorithms,Data mining,Prediction algorithms,Training data,Training,Machine learning algorithms,Probability
+
+	
+Bayes methods,data mining,educational administrative data processing,learning (artificial intelligence),vocational training
+
+	
+vocational field determination,machine learning,vocational training,technical training,information technology,communication technology,artificial intelligence,naive Bayes algorithm,occupation selection process,field energy application
+
+	
+Machine learning,vocational field selection,energy applications,Naïve Bayes,Data Mining
+
+	
+	
+	
+An incremental learning algorithm for support vector machine
+
+The traditional SVM does not support incremental learning. And the traditional training method of SVM is not working when the amount of training samples are so large that they can not be put into the RAM of computer. In order to solve this problem and improve the speed of training SVM, the natural characteristics of SV are analyzed in this paper. An incremental learning algorithm (I-SVM) for SVM with discarding part of history samples is presented. The theoretical analysis and experimental results show that this algorithm can not only speed up the training process, but also reduce the storage cost, while the classification precision is also guaranteed.
+
+
+Machine learning,Support vector machines,Support vector machine classification,Machine learning algorithms,Risk management,Quadratic programming,Equations,Systems engineering and theory,Read-write memory,History
+
+	
+support vector machines,learning (artificial intelligence)
+
+	
+classification incremental learning algorithm,support vector machine,traditional training method,SVM,storage cost,iteration algorithm
+
+	
+	
+	
+Separation theorem and maximal margin classification for fuzzy number spaces
+
+The theory of machine learning in metric space is a new research topic and has drawn much attention in recent years. The theoretical foundation of this topic is the question under which conditions two sample sets can be separated in this space. In this paper, motivated by developing a new support vector machine (SVM) in fuzzy number space, we present a necessary and sufficient condition of separating two finite classes of samples by a hyper-plane in n-dimensional fuzzy number space. We also present an attainable expression of maximal margin of the separating hyper-planes which includes some cases of the classes of infinite samples in n-dimensional fuzzy number space. These results generalize and improve the corresponding conclusions for the theory of SVM in Hilbert space to fuzzy number space.
+
+
+Machine learning,Support vector machines,Extraterrestrial measurements,Cybernetics,Hilbert space,Learning systems
+
+	
+fuzzy set theory,Hilbert spaces,learning (artificial intelligence),pattern classification,support vector machines
+
+	
+separation theorem,maximal margin classification,fuzzy number spaces,machine learning theory,metric space,support vector machine,hyper planes,Hilbert space
+
+	
+Classification,Separating Hyper-plane,Convex Hull,Extreme Point,Fuzzy Numbers
+
+	
+	
+	
+Multi-Layer Support Vector Machine and its Application
+
+Based on statistical learning theory (SLT), support vector machine (SVM), which is a new kind of machine learning method that is used for classification and regression. SVM is considered as two layers learning machine since it maps the original space into a high dimensional feature space, i.e., input layer and high dimensional feature space layer. If the high dimensional feature space layer is considered as a new problem's input layer and the new problem is also solved by SVM, the new problem can be solved by SVMs named multi-layer SVM (MLSVM). MLSVM is composed of input layer and at least one layer high dimensional feature space layer. In this paper, m-th order ordinary differential equations are solved by MLSVM for regression. Experimental results indicate that MLSVM can effectively solve the problem of ordinary differential equations. Thus, MLSVM exhibits its great potential to solve other complex problems
+
+
+Support vector machines,Quadratic programming,Support vector machine classification,Machine learning,Differential equations,Space technology,Learning systems,Risk management,Neural networks,Lagrangian functions
+
+	
+differential equations,learning (artificial intelligence),regression analysis,statistical analysis,support vector machines
+
+	
+multilayer support vector machine,statistical learning theory,machine learning method,classification method,regression method,high dimensional feature space,ordinary differential equation
+
+	
+Support Vector Machine,Multi-Layer SVM,m-th order ordinary differential equations,kernel function
+
+	
+	
+	
+A new method of early fault diagnosis based on machine learning
+
+A new method of early fault diagnosis for manufacturing system based on machine learning is presented. It is necessary for manufacturing enterprises to detect the states of production process in real time, in order to find the early faults in machines, so that the losses of production failure and investments of facility maintenance can be minimized. This paper proposes a new fault diagnosis model, which extracts multi-dimension features from the detected signal to supervise the different features of the signal simultaneously. Based on the model, the method of inductive learning is adopted to obtain the statistical boundary vectors of the signal automatically, and then a normal feature space is built, according to which an abnormal signal can be detected, and consequently the faults in a complicated system can be found easily. Furthermore, under the condition of without existing fault samples, the precise results of fault diagnosis can also be achieved in real time. The theoretical analysis and simulation example demonstrate the effectiveness of the method.
+
+
+Fault diagnosis,Machine learning,Fault detection,Production,Signal detection,Manufacturing systems,Manufacturing processes,Investments,Feature extraction,Computer vision
+
+	
+fault diagnosis,learning (artificial intelligence),signal detection,manufacturing systems,maintenance engineering
+
+	
+fault diagnosis model,machine learning,feature extraction,manufacturing system,statistical boundary vector,fault samples,theoretical analysis
+
+	
+Fault Diagnosis,Machine Learning,Feature Extraction
+
+	
+	
+	
+A method to choose kernel function and its parameters for support vector machines
+
+The support vector machines are the new statistical learning algorithm which is developed in recent years. They have some advantages in many regions like pattern recognition. The kernel function is important to its classification ability. This paper presents a crossbreed genetic algorithm based method to choose the kernel function and its parameters. The crossbreed genetic algorithm uses two fitness functions which are produced according to the two criterion of SVM's performance. The experiments proved that this algorithm can find effectively the optimal kernel function and its parameters, and it is helpful to increase the support vector machines' performance in fact.
+
+
+Kernel,Support vector machines,Support vector machine classification,Genetic algorithms,Educational institutions,Machine learning,Lagrangian functions,Statistical learning,Pattern recognition,Machine learning algorithms
+
+	
+support vector machines,genetic algorithms,learning (artificial intelligence),pattern classification
+
+	
+support vector machines,statistical learning algorithm,pattern recognition,pattern classification,crossbreed genetic algorithm,fitness function,optimal kernel function
+
+	
+Support vector machines,kernel function,genetic algorithm
+
+	
+	
+	
+Integrating Machine Learning Into a Medical Decision Support System to Address the Problem of Missing Patient Data
+
+In this paper, we present a framework which enables medical decision making in the presence of partial information. At its core is ontology-based automated reasoning, machine learning techniques are integrated to enhance existing patient datasets in order to address the issue of missing data. Our approach supports interoperability between different health information systems. This is clarified in a sample implementation that combines three separate datasets (patient data, drug-drug interactions and drug prescription rules) to demonstrate the effectiveness of our algorithms in producing effective medical decisions. In short, we demonstrate the potential for machine learning to support a task where there is a critical need from medical professionals by coping with missing or noisy patient data and enabling the use of multiple medical datasets.
+
+
+Machine learning,Drugs,Medical diagnostic imaging,Knowledge based systems,Decision making,Accuracy,Semantics
+
+	
+decision making,decision support systems,inference mechanisms,learning (artificial intelligence),medical information systems,ontologies (artificial intelligence),open systems
+
+	
+medical decision support system,missing patient data,medical decision making,ontology-based automated reasoning,machine learning techniques,patient datasets,interoperability,health information systems,drug-drug interactions,drug prescription rules,medical professionals
+
+	
+machine learning in medicine,knowledge representation and reasoning,feature extraction and classification
+
+	
+	
+	
+A training algorithm of incremental supprot vector machine with recombining method [supprot read support]
+
+Support vector machine (SVM) has become a popular tool of pattern recognition in recent years for its outstanding learning performance. When dealing with large-scale learning problems, incremental SVM framework is generally used because SVM can summarize the data space in a concise way. This paper proposes a training algorithm of incremental SVM with recombining method. Considering the differences of data distribution and the impact of new training data on history data, the history training dataset and the new training one are divided into independent groups and are recombined to train a classifier. In fact, this method can be implemented in a parallel structure for the actions of dividing may decrease the computation complexity of training a SVM. Meanwhile, the actions of recombining may weaken the potential impact caused by the difference of data distribution. The experiment results on a text dataset show that this training algorithm is effective and the classification accuracy of proposed incremental algorithm is superior to that using batch SVM model.
+
+
+Support vector machines,Support vector machine classification,Pattern recognition,Machine learning,Large-scale systems,Risk management,Space technology,Training data,History,Testing
+
+	
+support vector machines,learning (artificial intelligence),pattern classification,computational complexity
+
+	
+incremental supprot vector machine,recombining method,pattern recognition,incremental learning,data distribution,history training dataset,classifier training,parallel structure,computation complexity
+
+	
+Support Vector Machine,Incremental learning,dataset recombining,data distribution
+
+	
+	
+	
+Computer-aided diagnosis system for Rheumatoid Arthritis using machine learning
+
+There are 700,000 Rheumatoid Arthritis (RA) patients in Japan, and the number of patients is increased by 30,000 annually. The early detection and appropriate treatment according to the progression of RA are effective to improve the patient's prognosis. The modified Total Sharp (mTS) score is widely used for the progression evaluation of Rheumatoid Arthritis. The mTS score assessments on hand or foot X-ray image is required several times a year, and it takes very long time. The automatic mTS score calculation system is required. This paper proposes the finger joint detection method and the mTS score estimation method using support vector machine. Experimental results on 45 RA patient's X-ray images showed that the proposed method detects finger joints with accuracy of 81.4 %, and estimated the erosion and JSN score with accuracy of 50.9, 64.3 %, respectively.
+
+
+X-ray imaging,Estimation,Support vector machines,Arthritis,Training,Bones,Thumb
+
+	
+computerised tomography,diseases,learning (artificial intelligence),medical image processing,patient diagnosis,patient treatment,support vector machines
+
+	
+diagnosis system,machine learning,Rheumatoid Arthritis,hand X-ray image,foot X-ray image,finger joint detection,patient prognosis,Japan,computer-aided diagnosis system,support vector machine,progression evaluation,modified Total Sharp score
+
+	
+Rheumatoid arthritis,X-ray image,modified Total Sharp Score,Machine learning,Computer-aided diagnosis
+
+	
+	
+	
+Wavelet transform and unsupervised machine learning to detect insider threat on cloud file-sharing
+
+As increasingly more enterprises are deploying cloud file-sharing services, this adds a new channel for potential insider threats to company data and IPs. In this paper, we introduce a two-stage machine learning system to detect anomalies. In the first stage, we project the access logs of cloud file-sharing services onto relationship graphs and use three complementary graph-based unsupervised learning methods: OddBall, PageRank and Local Outlier Factor (LOF) to generate outlier indicators. In the second stage, we ensemble the outlier indicators and introduce the discrete wavelet transform (DWT) method, and propose a procedure to use wavelet coefficients with the Haar wavelet function to identify outliers for insider threat. The proposed system has been deployed in a real business environment, and demonstrated effectiveness by selected case studies.
+
+
+Discrete wavelet transforms,Time series analysis,Learning systems,Machine learning algorithms,Wavelet analysis
+
+	
+cloud computing,discrete wavelet transforms,graph theory,Haar transforms,peer-to-peer computing,security of data,unsupervised learning
+
+	
+insider threat detection,cloud file-sharing services,company data,company IP,two-stage machine learning system,relationship graphs,graph-based unsupervised machine learning methods,OddBall,PageRank,local-outlier factor,LOF,discrete wavelet transform,DWT,Haar wavelet function,wavelet coefficients
+
+	
+discrete wavelet transform,Haar wavelet,insider threat detection,cloud file-sharing,graph-based unsupervised learning
+
+	
+	
+	
+Recent trends in classification of remote sensing data: active and semisupervised machine learning paradigms
+
+This paper addresses the recent trends in machine learning methods for the automatic classification of remote sensing (RS) images. In particular, we focus on two new paradigms: semisupervised and active learning. These two paradigms allow one to address classification problems in the critical conditions where the available labeled training samples are limited. These operational conditions are very usual in RS problems, due to the high cost and time associated with the collection of labeled samples. Semisupervised and active learning techniques allow one to enrich the initial training set information and to improve classification accuracy by exploiting unlabeled samples or requiring additional labeling phases from the user, respectively. The two aforementioned strategies are theoretically and experimentally analyzed considering SVM-based techniques in order to highlight advantages and disadvantages of both strategies.
+
+
+Training,Accuracy,Support vector machines,Classification algorithms,Remote sensing,Semisupervised learning,Machine learning
+
+	
+geophysical image processing,image classification,learning (artificial intelligence),remote sensing,support vector machines
+
+	
+remote sensing data classification,image classification,semisupervised machine learning,active learning,training samples,training set information,classification accuracy,support vector machines
+
+	
+Machine learning,supervised classification,support vector machines,semisupervised learning,active learning,remote sensing
+
+	
+	
+	
+Comparison of machine learning algorithms in Chinese Web filtering
+
+Web filtering based on user's demand has witnessed a booming interest due to the development of Internet In the research community the dominant approach to this problem is based on machine learning algorithms. Web filtering is an inductive process which automatically builds a filter by learning from a set of pre-assigned document and the description of user's interest, and then uses it to assign unfiltered Web pages. This survey compares four main machine learning algorithms (decision tree, rule induction, Bayesian algorithm and support vector machines) on Chinese web pages set of their filtering effectiveness and computer resources consumed, focusing on the influence of feature set size and training set size. It induces that support vector machines earn high score in Chinese Web filtering applications.
+
+
+Machine learning algorithms,Information filtering,Information filters,Web pages,Support vector machines,Internet,Decision trees,Bayesian methods,Filtering algorithms,Application software
+
+	
+learning (artificial intelligence),information filters,Internet,decision trees,Bayes methods,support vector machines
+
+	
+machine learning algorithm,Chinese Web filtering,Internet,unfiltered Web page,decision tree,rule induction,Bayesian algorithm,support vector machine,computer resource
+
+	
+	
+	
+Parallel classifiers ensemble with hierarchical machine learning for imbalanced classes
+
+Imbalanced distributions and mis-classified costs of two classes made conventional classification methods suffered. This paper proposed a new fast parallel classification method for imbalanced classes. Considering imbalanced distributions, the approach adopted a fast simple classifier with less features input working parallel with a complicated one. Most samples would be correctly recognized by the first classifier, and the second relatively slower classifier could be ended. The second one was only trained and worked for less difficult samples. Experimental results in machine vision quality inspection showed that the approach could effectively improve classification speed and decrease total risk for imbalanced classespsila classification.
+
+
+Accuracy,Machine learning,Inspection,Training,Cybernetics,Assembly,Indexes
+
+	
+learning (artificial intelligence),pattern classification
+
+	
+parallel classifiers ensemble,hierarchical machine learning,imbalanced distributions,machine vision quality inspection
+
+	
+Pattern recognition,Imbalanced classes,Hierarchical machine learning,Parallel processing,ROC
+
+	
+	
+	
+Chinese New Words Extraction Based on Machine Learning Approach
+
+Chinese new words extraction is an important problem for Chinese information processing. In this paper a new words extraction method based on machine learning is proposed, where the context information, the word construction rules and statistic information are combined to extract new words. An experiment, based on two-character-nouns, shows that this method can well improve the efficiency and accuracy of extracting new words
+
+
+Machine learning,Data mining,Educational institutions,Statistics,Dictionaries,Mathematics,Information processing,Natural languages,Text processing,Probability
+
+	
+dictionaries,learning (artificial intelligence),natural languages,text analysis
+
+	
+Chinese new word extraction,machine learning approach,Chinese information processing,context information,word construction rules,two-character-nouns,statistic information,dictionary
+
+	
+New words extraction,word segmentation,machine learning,word construction rules
+
+	
+	
+	
+Analysis for Status of the Road Accident Occurance and Determination of the Risk of Accident by Machine Learning in Istanbul
+
+The traffic has been transformed into the difficult structure in points of designing and managing by the reason of increasing number of vehicle. This situation has discovered road accidents problem, influenced public health and country economy and done the studies on solution of the problem. Large calibrated data agglomerations have increased by the reasons of the technological improvements and data storage with low cost. Arising the need of accession to information from this large calibrated data obtained the corner stone of the data mining. In this study, assignment of the most compatible machine learning classification techniques for road accidents estimation by data mining has been intended.
+
+
+Road accidents,Classification algorithms,Data mining,Data models,Algorithm design and analysis,Machine learning algorithms
+
+	
+data mining,learning (artificial intelligence),pattern classification,risk analysis,road accidents,road traffic,traffic engineering computing
+
+	
+road accident occurance status analysis,accident risk determination,Istanbul,road traffic,public health,country economy,calibrated data agglomerations,data storage,data mining,machine learning classification techniques
+
+	
+Machine learning,data mining,classification techniques,road accident
+
+	
+	
+	
+Machine learning and radio emitter threat degree judgment based on fuzzy neural network
+
+Modern electronic warfare system must judge the threat degree of coming radio emitters correctly in order to counter them by the limited jamming resource effectively. This article puts forward a new strategy to judge the radio emitter threat degree (RETD) based on machine learning. It firstly gets the membership degrees of the input data. Then the input data is classified. A trained fuzzy neural network (FNN) with approaching ability gives the threat degree. The RETD judgment rules could be mined from the network. The correctness and effectiveness are proved in the experiment.
+
+
+Machine learning,Fuzzy neural networks,Databases,Fuzzy control,Phase change materials,Radar,Counting circuits,Command and control systems,Electronic mail,Electronic warfare
+
+	
+jamming,radio transmitters,data mining,military computing,learning (artificial intelligence),fuzzy neural nets,fuzzy reasoning
+
+	
+machine learning,radio emitter threat degree judgment,fuzzy neural network,electronic warfare system,jamming,membership degree,data classification,judgment rule mining,fuzzy inference
+
+	
+Machine learning,fuzzy neural network,threat degree judgment
+
+	
+	
+	
+Prediction of post-operative implanted knee function using machine learning in clinical big data
+
+Total knee arthroplasty (TKA) is one of the common knee surgeries. Because there are some types of TKA implant, it is hard to select appropriate type of TKA implant for individual patient. For the sake of pre-operative planning, this study presents a novel approach, which predicts post-operative implanted knee function of individuals. It is based on a clinical big data analysis. The big data is composed by a set of pre-operative knee mobility function and post-operative knee function. The method constructs a post-operative knee function prediction model by means of a machine learning approach. It extracts features using principal component analysis, and constructs a mapping function from pre-operative feature space to post-operative feature space. The method was validated by applying to prediction of post-operative anterior-posterior translation in 52 TKA operated knees. Leave-one-out cross validation test revealed the prediction performances with a mean correlation coefficients of 0.79 and a mean root-mean-squared-error of 3.44 mm.
+
+
+Kinematics,Knee,Eigenvalues and eigenfunctions,Principal component analysis,Big data,Feature extraction,Machine learning algorithms
+
+	
+Big Data,data analysis,feature extraction,learning (artificial intelligence),mean square error methods,medical computing,principal component analysis,prosthetics,surgery
+
+	
+post operative implanted knee function prediction,machine learning,clinical Big Data analysis,total knee arthroplasty,TKA,knee surgeries,preoperative planning,feature extraction,principal component analysis,mean correlation,mean root mean squared error
+
+	
+Predictive medicine,Total knee arthroplasty,Clinical big data,Machine learning,Principal component analysis
+
+	
+	
+	
+
+	
+	
+	
+	
+
+1A study on big data I/O performance with modern storage systems
+
+High-performance I/O is essential for big-data analyses. Modern storage systems utilize HDDs and SSDs mainly for achieving large capacity and high performance, respectively. Using an SSD as a cache for accesses to HDDs is one of the promising methods for improving large-scale I/O performance in modern computers. In addition, M.2 is increasing its importance in high-performance I/O processing. In this paper, we investigate the I/O performance of storage systems including M.2 SSD and SSD cache. Our experimental results show that big-data processing performance can improve significantly by using an M.2 SSD cache
+
+
+Performance evaluation,Big Data,Computers,Hard disks,Solids,Information management,Conferences
+
+	
+Big Data,cache storage,data analysis,disc drives,hard discs,parallel processing,storage management
+
+	
+1A study,big data I/O performance,M.2 SSD cache,big-data processing performance,modern computers,high performance,HDDs,big-data analyses,high-performance,modern storage systems
+
+	
+big data,M.2,hard disk drive,solid state disk,SSD cache,sequential access,Hadoop
+
+	
+	
+	
+Big data and HPC collocation: Using HPC idle resources for Big Data analytics
+
+Executing Big Data workloads upon High Performance Computing (HPC) infrastractures has become an attractive way to improve their performances. However, the collocation of HPC and Big Data workloads is not an easy task, mainly because of their core concepts' differences. This paper focuses on the challenges related to the scheduling of both Big Data and HPC workloads on the same computing platform. In classic HPC workloads, the rigidity of jobs tends to create holes in the schedule: we can use those idle resources as a dynamic pool for Big Data workloads. We propose a new idea based on Resource and Job Management System's (RJMS) configuration, that makes HPC and Big Data systems to communicate through a simple prolog/epilog mechanism. It leverages the built-in resilience of Big Data frameworks, while minimizing the disturbance on HPC workloads. We present the first study of this approach, using the production RJMS middleware OAR and Hadoop YARN from the HPC and Big Data ecosystems respectively. Our new technique is evaluated with real experiments upon the Grid5000 platform. Our experiments validate our assumptions and show promising results. The system is capable of running an HPC workload with 70% cluster utilization, with a Big Data workload that fills the schedule holes to reach a full 100% utilization. We observe a penalty on the mean waiting time for HPC jobs of less than 17% and a Big Data effectiveness of more than 68% in average.
+
+
+Big Data,Tools,Schedules,Resource management,File systems,Dynamic scheduling
+
+	
+Big Data,data analysis,middleware,parallel processing,resource allocation,scheduling
+
+	
+Big Data systems,HPC workload,HPC jobs,HPC collocation,HPC idle resources,Big Data analytics,Executing Big Data workloads,high performance computing infrastractures,Big Data scheduling,Resource and Job Management System,production RJMS middleware OAR,Hadoop YARN,cluster utilization
+
+	
+HPC and Big Data Convergence,Infrastructure,Scheduling,Best Effort,Resource Management
+
+	
+	
+	
+MOOC for Medical Big Data Research: An Important Role in Hypertension Big Data Research
+
+Due to limited technical and social resources, many physician practices fall short on accurate blood pressure measurement to carry out large-scale hypertension research projects. The accuracy and standard of data acquisition are very important when data sources are diverse in medical big data research. This paper proposes Massive Online Open Course (MOOC) is appropriate approach to teach volunteers necessary knowledge and skills of blood pressure measurement for hypertension research. It introduces a new citizen science "paradigm" to support big data research such as hypertension. MOOC is a new type online course that provides a combination of short video lectures, frequent comprehension quizzes and active participation in discussion forum. The well-trained data collectors by MOOC will be granted to collect and publish data of hypertension research. The process of medical big data research based on MOOC was introduced.
+
+
+Blood pressure,Pressure measurement,Biomedical monitoring,Big data,Hypertension,Standards
+
+	
+Big Data,biomedical education,blood pressure measurement,computer aided instruction,data acquisition,educational courses,medical computing,medical information systems,research and development
+
+	
+MOOC,medical big data research,hypertension big data research,physician,blood pressure measurement,large-scale hypertension research project,data acquisition,data source,massive online open course,citizen science paradigm,online course,video lecture,comprehension quizzes,discussion forum,data collector
+
+	
+medical big data research,Massive Online Open Course,hypertension
+
+	
+	
+	
+Semantics for Big Data access & integration: Improving industrial equipment design through increased data usability
+
+With the advent of Big Data technologies, organizations can efficiently store and analyze more data than ever before. However, extracting maximal value from this data can be challenging for many reasons. For example, datasets are often not stored using human-understandable terms, making it difficult for a large set of users to benefit from them. Further, given that different types of data may be best stored using different technologies, datasets that are closely related may be stored separately with no explicit linkage. Finally, even within individual data stores, there are often inconsistencies in data representations, whether introduced over time or due to different data producers. These challenges are further compounded by frequent additions to the data, including new raw data as well as results produced by large-scale analytics. Thus, even within a single Big Data environment, it is often the case that multiple rich datasets exist without the means to access them in a unified and cohesive way, often leading to lost value. This paper describes the development of a Big Data management infrastructure with semantic technologies at its core to provide a unified data access layer and a consistent approach to analytic execution. Semantic technologies were used to create domain models describing mutually relevant datasets and the relationships between them, with a graphical user interface to transparently query across datasets using domain-model terms. This prototype system was built for GE Power & Water's Power Generation Products Engineering Division, which has produced over 50TB of gas turbine and component prototype test data to date. The system is expected to result in significant savings in productivity and expenditure.
+
+
+Big data,Semantics,Time series analysis,Data models,Databases,Wind turbines
+
+	
+Big Data,data integration,design engineering,gas turbines,graphical user interfaces,production engineering computing,production equipment
+
+	
+Big Data access,Big Data integration,industrial equipment design,data usability,Big Data technologies,data stores,data representation,Big Data management infrastructure,semantic technologies,graphical user interface,dataset query,domain-model terms,gas turbine,GE Power and Water,Power Generation Products Engineering Division
+
+	
+semantics,ontology,domain model,big data,time series data,data management,engineering
+
+	
+	
+	
+Big data, big data quality problem
+
+A USAF sponsored MITRE research team undertook four separate, domain-specific case studies about Big Data applications. Those case studies were initial investigations into the question of whether or not data quality issues encountered in Big Data collections are substantially different in cause, manifestation, or detection than those data quality issues encountered in more traditionally sized data collections. The study addresses several factors affecting Big Data Quality at multiple levels, including collection, processing, and storage. Though not unexpected, the key findings of this study reinforce that the primary factors affecting Big Data reside in the limitations and complexities involved with handling Big Data while maintaining its integrity. These concerns are of a higher magnitude than the provenance of the data, the processing, and the tools used to prepare, manipulate, and store the data. Data quality is extremely important for all data analytics problems. From the study's findings, the "truth about Big Data" is there are no fundamentally new DQ issues in Big Data analytics projects. Some DQ issues exhibit return-s-to-scale effects, and become more or less pronounced in Big Data analytics, though. Big Data Quality varies from one type of Big Data to another and from one Big Data technology to another.
+
+
+Big data,Biomedical imaging,Personnel,Complexity theory,Bioinformatics,Process control,Instruments
+
+	
+Big Data,data analysis
+
+	
+big data quality problem,USAF,MITRE research team,domain-specific case studies,big data collections,data analytics problems,DQ issues,returns-to-scale effects
+
+	
+Big Data,Data Quality,Returns to Scale
+
+	
+	
+	
+SCEM: Smart & effective crowd management with a novel scheme of big data analytics
+
+The proposed paper presents a novel scheme that can perform a precise extraction of knowledge from the complex and massive streaming of live data of the scene from the crowded place. The prime contribution of the proposed system is to perform enough processing over the raw and unstructured distributed data from multiple locations so that processing over distributed storage and mining can be done with lesser processing time and higher degree of accuracy. An experimental research methodology has been adopted to capture signal using Logitech HD C920 and processed over Intel Xeon E5540 processors with 2 GPbs connectivity. The raw data is subjected to pre-processing, segmentation, scene profiling, in order to get convolved data that are stored in distributive manner using Hadoop and mined using MapReduce. The comparative study outcome shows lesser processing time and higher accuracy as compared to existing relevant analytics.
+
+
+Big data,Data mining,Cloud computing,Data analysis,Algorithm design and analysis,Correlation,Feature extraction
+
+	
+Big Data,data analysis,data mining,parallel processing
+
+	
+smart & effective crowd management,SCEM,Big Data analytics,knowledge extraction,live data massive streaming,distributed storage,distributed mining,signal capturing,Logitech HD C920,Intel Xeon E5540 processors,Hadoop,MapReduce
+
+	
+Big Data Analytics,Hadoop,MapReduce,Dynamic Data Management,Live Data Analysis
+
+	
+	
+	
+Challenges of data integration and interoperability in big data
+
+The enormous volumes of data created and maintained by industries, research institutions are on the verge of outgrowing its infrastructure. The advancements in the organization's work flow include data storage, data management, data maintenance, data integration, and data interoperability. Among these levels, data integration and data interoperability can be the two major focus areas for the organizations which tend to implement advancements in their workflow. Overall, data integration and data interoperability influence the organization's performance. The data integration and data interoperability are complex challenges for the organizations deploying big data architectures due to the heterogeneous nature of data used by them. Therefore, it requires a comprehensive approach to negotiate the challenges in integration and interoperability. This paper focuses on the challenges of data integration and data interoperability in big data.
+
+
+Data integration,Organizations,Interoperability,Big data,Aging,Standards organizations,Data mining
+
+	
+Big Data,data integration,organisational aspects,storage management
+
+	
+research institutions,organization work flow,data storage,data management,data maintenance,data interoperability,organization performance,big data architectures,data integration
+
+	
+Data Integration,Data Interoperability
+
+	
+	
+	
+Conceptual design for comprehensive research support platform: Successful research data management generating big data from little data
+
+Data sharing, which is hot issues in scholarly communication, is regarded as generating big data from little data in little science. In this article, a conceptual framework for research support platform in university is proposed, by the survey of two cases of representative and subject-based data archives in Japan; Data Integration and Analysis System Program (DIAS) and Inter-university Upper atmosphere Global Observation Network (IUGONET).
+
+
+Big Data,Terrestrial atmosphere,Metadata,Software,Databases,Earth,Data integration
+
+	
+Big Data,data analysis,information retrieval systems,research and development
+
+	
+big data,Data sharing,scholarly communication,conceptual design,comprehensive research support platform,data integration and analysis system program,DIAS,inter-university upper atmosphere global observation network,IUGONET,subject-based data archives,Japan,research data management
+
+	
+research data management,data sharing,data archive,scholarly communication,open science
+
+
+	
+	
+An open source framework to add spatial extent and geospatial visibility to Big Data
+
+Advancement in the field of computing and remote handheld devices has made the process of collecting geospatial data easy. Most of the time researchers and scientists have easy access to these data as well. However, the process of extracting and processing a large volume of data from several sources can be very time consuming and difficult. In most cases scientists rely on expensive proprietary software [1]. This paper discusses how Computational Scientists at Oak Ridge National Laboratory are extracting, normalizing, and processing millions of geospatial data points from multiple data sources and integrating them into a common data format which helps user to find and access these data using a flexible visualization-based user interface.
+
+
+Geospatial analysis,Heating,Big data,Data mining,Software,Spatial databases,Laboratories
+
+
+Big Data,geographic information systems,public domain software
+
+
+open source framework,Big Data geospatial visibility,Big Data spatial extent,geospatial data point extraction,geospatial data point normalization,geospatial data point processing,data format,flexible visualization-based user interface
+
+
+Big data,Geospatial search,Biodiversity data,BISON,GBIF
+
+
+
+
+An effective selecting approach for social media big data analysis — Taking commercial hotspot exploration with Weibo check-in data as an example
+
+According to the problem that efficient datasets cannot be quickly obtained from social media big data of social networks in the process of focused mining and analysis. An effective selection method for clustering mining with spacetime large data is proposed. The effective selection method of clustering mining divides the spatiotemporal large data from the dimension of space, time or attribute. Then do exploratory spatial data analysis(ESDA) to the obtained subsets to get the datasets with the potential of clustering mining quickly. the proposed method is verified by using the Weibo check-in data in Wuhan which is between 2011 and 2015 to mine commercial hotspots. The experimental results show that the method can quickly and effectively excavate datasets from Weibo check-in data that can reflect the distribution of Wuhan business circle, and the excavate d datasets have the characteristics of high clustering, small volume, high precision. The effective selection method of clustering mining for spatiotemporal data can provide fast and effective methods and ideas for the process of crowd sourcing geographic data today.
+
+
+Data mining,Spatiotemporal phenomena,Social network services,Correlation,Big Data,Crowdsourcing,Spatial databases
+
+
+Big Data,data analysis,data mining,pattern clustering,social networking (online)
+
+
+Weibo check-in data,spatiotemporal data,crowd sourcing geographic data today,commercial hotspot exploration,social networks,focused mining,spacetime large data,exploratory spatial data analysis,social media Big Data analysis,clustering mining,ESDA,Wuhan,commercial hotspots mining
+
+
+social media big data,spatiotemporal data,cluster mining,efficient selection,ESDA,commercial hotspots
+
+
+
+
+Big Data Validation Case Study
+
+With the advent of big data, data is being generated, collected, transformed, processed and analyzed at an unprecedented scale. Since data is created at a fast velocity and with a large variety, the quality of big data is far from perfect. Recent studies have shown that poor quality can bring serious erroneous data costs on the result of big data analysis. Data validation is an important process to recognize and improve data quality. In this paper, a case study that is relevant to big data quality is designed to study original big data quality, data quality dimension, data validation process and tools.
+
+
+Big Data,Tools,Databases,Electronic mail,Reliability,Temperature measurement,Null value
+
+
+Big Data
+
+
+Big Data quality,data quality dimension,data validation process
+
+
+big data quality,big data validation,data checklist,big data tool,case study
+
+
+
+
+Next-gen tools for big scientific data: ARM data center example
+
+The Atmospheric Radiation Measurement (ARM) Climate Research Facility (www.arm.gov) provides atmospheric observations from diverse climatic regimes around the world. Currently, ARM archives over 22 million user assessable data files, primarily stored in NetCDF file format, with total data volumes close to one Petabyte. In this paper, we will discuss how ARM is currently storing, distributing, cataloging and visualizing such large volumes of multi-dimensional climate observations and model data and also describe their future plan.
+
+
+Data visualization,Meteorology,Distributed databases,Servers,Big data,Atmospheric measurements,Data models
+
+
+Big Data,computer centres
+
+
+next-gen tools,Big Scientific Data,ARM data center,atmospheric radiation measurement climate research facility,NetCDF file format,user assessable data files,multidimensional climate observations
+
+
+ARM Archive,Big Data Discovery,Metadata Management
+
+
+
+
+Intelligent Big Data Analysis Architecture Based on Automatic Service Composition
+
+Big Data contains massive information, which are generating from heterogeneous, autonomous sources with distributed and anonymous platforms. Since, it raises extreme challenge to organizations to store and process these data. Conventional pathway of store and process is happening as collection of manual steps and it is consuming various resources. An automated real-time and online analytical process is the most cognitive solution. Therefore it needs state of the art approach to overcome barriers and concerns currently facing by the Big Data industry. In this paper we proposed a novel architecture to automate data analytics process using Nested Automatic Service Composition (NASC) and CRoss Industry Standard Platform for Data Mining (CRISP-DM) as main based technologies of the solution. NASC is well defined scalable technology to automate multi-disciplined problems domains. Since CRISP-DM also a well-known data science process which can be used as innovative accumulator of multi-dimensional data sets. CRISP-DM will be mapped with Big Data analytical process and NASC will automate the CRISP-DM process in an intelligent and innovative way.
+
+
+Computer architecture,Big data,Data mining,Unified modeling language,Real-time systems,Planning,Industries
+
+
+Big Data,data mining
+
+
+intelligent Big Data analysis architecture,heterogeneous source,autonomous source,distributed platform,anonymous platform,online analytical process,cognitive solution,Big Data industry,data analytics process,nested automatic service composition,NASC,cross industry standard platform for data mining,multidisciplined problem,data science process,innovative accumulator,multidimensional data set,Big Data analytical process,CRISP-DM process
+
+
+Big data analytics,Nested Automatic Service composition,Data mining,Architecture,CRSIP-DM
+
+
+
+
+Big data machine learning using apache spark MLlib
+
+Artificial intelligence, and particularly machine learning, has been used in many ways by the research community to turn a variety of diverse and even heterogeneous data sources into high quality facts and knowledge, providing premier capabilities to accurate pattern discovery. However, applying machine learning strategies on big and complex datasets is computationally expensive, and it consumes a very large amount of logical and physical resources, such as data file space, CPU, and memory. A sophisticated platform for efficient big data analytics is becoming more important these days as the data amount generated in a daily basis exceeds over quintillion bytes. Apache Spark MLlib is one of the most prominent platforms for big data analysis which offers a set of excellent functionalities for different machine learning tasks ranging from regression, classification, and dimension reduction to clustering and rule extraction. In this contribution, we explore, from the computational perspective, the expanding body of the Apache Spark MLlib 2.0 as an open-source, distributed, scalable, and platform independent machine learning library. Specifically, we perform several real world machine learning experiments to examine the qualitative and quantitative attributes of the platform. Furthermore, we highlight current trends in big data machine learning research and provide insights for future work.
+
+
+Sparks,Big Data,Libraries,Data models,Computer architecture,Machine learning algorithms
+
+
+Big Data,data analysis,data mining,learning (artificial intelligence)
+
+
+diverse data sources,premier capabilities,machine learning strategies,big datasets,complex datasets,logical resources,physical resources,big data analysis,Apache Spark MLlib 2,big data machine learning research,artificial intelligence,research community,heterogeneous data sources,pattern discovery,big data analytics,computational perspective,platform independent machine learning library,qualitative attribute,quantitative attribute
+
+
+Apache Spark MLlib,Big Data Machine Learning,Big Data Analytics,Machine Learning
+
+
+
+
+Scheduling of Big Data application workflows in cloud and inter-cloud environments
+
+Large amount of data is being generated every day and is creating new challenges and opportunities which lead to extraordinary new knowledge and discoveries in many application domains ranging from science and engineering to business. One of the main challenges in this era of Big Data is how to efficiently manage and analyse such scale of data. This is challenging not only due to the size of the data, but also due to its heterogeneous nature and geographic location. In this sense, clouds are becoming an increasingly popular infrastructure for enabling large-scale data intensive scientific and business applications. Cloud provides a suitable environment for processing Big Data applications to process large volumes of data and parallel processing of data. Due to the geographical distribution of data different varieties of data it is of more advantage to use a federated Inter-Cloud environment where moving of large volumes of data can be avoided. Workflows are used to allocate and schedule execution of Big Data applications in an optimized manner. In this paper we present the need of execution of Big Data Application workflows on Cloud and Inter-Cloud environments.
+
+
+Cloud computing,Big data,Libraries,Parallel processing,Computer science,Computational modeling,Scalability
+
+
+Big Data,cloud computing,parallel processing,resource allocation,scheduling
+
+
+Big Data application workflow,data management,data analysis,geographic location,large-scale data intensive scientific application,business application,parallel data processing,data geographical distribution,federated intercloud environment,application allocation,application execution scheduling
+
+
+Big Data,Cloud,Workflow,Scheduling,Inter-Cloud
+
+
+
+
+Research on counter-terrorism based on big data
+
+In the area of big data, people have a new perspective on counter-terrorism research. In this paper, we have carried out a systematic research on the applications of big data in counter-terrorism field by using quantitative analysis method. And then we have demonstrated effect of big data on counter-terrorism research from data collection and preprocessing, data mining and analysis, monitoring and warning three aspects. After that, we have used all the data of The Times and The New York Times about WUC in 2012 for analysis and argument. Finally, it concludes the deficiencies of the research on the territory of counter-terrorism by using big data and the problems worth studying in the future.
+
+
+Terrorism,Organizations,Big data,Data mining,Social network services,Monitoring,Internet
+
+
+Big Data,data analysis,data mining,terrorism
+
+
+Big Data,counter-terrorism research,counter-terrorism field,quantitative analysis method,data collection,data mining,data analysis,data monitoring,data warning,The New York Times,The Times,WUC
+
+
+big data,Counter-terrorism,Data mining
+
+
+
+
+Platforms for big data analytics: Trend towards hybrid era
+
+The primary objective of this paper is to present detailed analysis of various platforms suitable for Big Data processing. In this paper, various software frameworks available for Big Data analytics are surveyed and in-detail assessment of their strengths and weaknesses is discussed. In addition to this, widely used data mining algorithm are discussed for their adaptation for Big Data analysis w.r.t their suitability for handling real-world application problems. Future trends of Big Data processing and analytics can be predicted with effective implementation of these well established and widely used data mining algorithms by considering the strengths of software frameworks and platforms available. Hybrid approaches (integration of two or more platforms) may be more appropriate for a specific data mining algorithm and can be highly adaptable as well as perform real-time processing.
+
+
+Big Data,Data mining,Cloud computing,Machine learning algorithms,Data analysis,Programming
+
+
+Big Data,data analysis,data mining
+
+
+big data analytics,hybrid era,Big Data processing,software frameworks,data mining algorithm,Big Data analysis
+
+
+Big Data,Big Data Analytics,Cloud computing,Data Mining,Machine Learning,Big Data Platforms
+
+
+
+
+Reducing the Search Space for Big Data Mining for Interesting Patterns from Uncertain Data
+
+Many existing data mining algorithms search interesting patterns from transactional databases of precise data. However, there are situations in which data are uncertain. Items in each transaction of these probabilistic databases of uncertain data are usually associated with existential probabilities, which express the likelihood of these items to be present in the transaction. When compared with mining from precise data, the search space for mining from uncertain data is much larger due to the presence of the existential probabilities. This problem is worsened as we are moving to the era of Big data. Furthermore, in many real-life applications, users may be interested in a tiny portion of this large search space for Big data mining. Without providing opportunities for users to express the interesting patterns to be mined, many existing data mining algorithms return numerous patterns -- out of which only some are interesting. In this paper, we propose an algorithm that (i) allows users to express their interest in terms of constraints and (ii) uses the MapReduce model to mine uncertain Big data for frequent patterns that satisfy the user-specified constraints. By exploiting properties of the constraints, our algorithm greatly reduces the search space for Big data mining of uncertain data, and returns only those patterns that are interesting to the users for Big data analytics.
+
+
+Data mining,Databases,Big data,Data models,Computational modeling,Partitioning algorithms,Program processors
+
+
+Big Data,data analysis,data mining
+
+
+search space reduction,uncertain Big Data mining,uncertain data,MapReduce model,frequent patterns,user-specified constraints,Big Data analytics
+
+
+Big data models and algorithms,algorithms and programming techniques for Big data processing,Big data analytics,Big data search and mining,frequent patterns,constraints,uncertain data
+
+
+
+
+Forecasting Nike's sales using Facebook data
+
+This paper tests whether accurate sales forecasts for Nike are possible from Facebook data and how events related to Nike affect the activity on Nike's Facebook pages. The paper draws from the AIDA sales framework (Awareness, Interest, Desire, and Action) from the domain of marketing and employs the method of social set analysis from the domain of computational social science to model sales from Big Social Data. The dataset consists of (a) selection of Nike's Facebook pages with the number of likes, comments, posts etc. that have been registered for each page per day and (b) business data in terms of quarterly global sales figures published in Nike's financial reports. An event study is also conducted using the Social Set Visualizer (SoSeVi). The findings suggest that Facebook data does have informational value. Some of the simple regression models have a high forecasting accuracy. The multiple regressions have a lower forecasting accuracy and cause analysis barriers due to data set characteristics such as perfect multicollinearity. The event study found abnormal activity around several Nike specific events but inferences about those activity spikes, whether they are purely event-related or coincidences, can only be determined after detailed case-by-case text analysis. Our findings help assess the informational value of Big Social Data for a company's marketing strategy, sales operations and supply chain.
+
+
+Facebook,Forecasting,Google,Data analysis,Companies,Data models,Market research
+
+
+Big Data,business data processing,marketing data processing,regression analysis,sales management,social networking (online),text analysis
+
+
+Nike sales forecasting,Facebook data,AIDA sales framework,awareness-interest-desire-action,marketing,social set analysis,computational social science,big social data,business data,social set visualizer,SoSeVi,regression models,text analysis
+
+
+Predictive analytics,Big Data Analytics,Big Social Data,Event study,Nike,Facebook Data Analytics
+
+
+
+
+Toward big data risk analysis
+
+The advent of social networks and Internet-of-Things has resulted in unprecedented capability of collecting, sharing and analyzing massive amounts of data. From a security perspective, Big Data may seriously weaken confidentiality, as techniques for improving Big Data analytics performance-including early fusion of heterogeneous data sources - increase the hidden redundancy of data representation, generating ill-protected copies. This gray area of redundancy triggers new disclosure threats that challenge traditional techniques to protect privacy and confidentiality. This position paper starts by proposing a definition of the Big Data Leak threat (as opposed to the one of data breach) and its role as a component of disclosure risk. Then, it discusses how a paradigm of Known, Detect, Contain and Recover could be used to establish Big Data security practices for containing disclosure risks connected to Big Data analytics.
+
+
+Big data,Data models,Redundancy,Security,Companies,ISO Standards,Taxonomy
+
+
+Big Data,data privacy,Internet of Things,social networking (online)
+
+
+big data risk analysis,social network,Internet-of-things,big data analytics,data representation,big data leak threat,disclosure risk,big data security,ill-protected copies,privacy protection
+
+
+Big Data,Threat analysis,Internet-of-things,Big Data Analytics
+
+
+
+
+
+
+
+
+
+
+Improving deep learning performance using random forest HTM cortical learning algorithm
+
+Deep Learning is an artificial intelligence function that imitates the mechanisms of the human mind in processing records and developing shapes to be used in selection construction. The objective of the paper is to improve the performance of the deep learning using a proposed algorithm called RFHTMC. This proposed algorithm is a merged version from Random Forest and HTM Cortical Learning Algorithm. The methodology for improving the performance of Deep Learning depends on the concept of minimizing the mean absolute percentage error which is an indication of the high performance of the forecast procedure. In addition to the overlap duty cycle which its high percentage is an indication of the speed of the processing operation of the classifier. The outcomes depict that the proposed set of rules reduces the absolute percent errors by using half of the value. And increase the percentage of the overlap duty cycle with 15%.
+
+
+Mathematical model,Machine learning,Prediction algorithms,Predictive models,Vegetation,Classification algorithms,Data models
+
+
+learning (artificial intelligence)
+
+
+artificial intelligence function,random forest,HTM Cortical Learning Algorithm,high performance,deep learning performance,record processing,selection construction,RFHTMC,mean absolute percentage error
+
+
+Deep learning,Random Forest algorithm,HTM algorithm,mean absolute percentage error,duty cycle
+
+
+
+
+Cognitive foundations of knowledge science and deep knowledge learning by cognitive robots
+
+Recent basic studies reveal that novel solutions to fundamental AI problems are deeply rooted in both the understanding of the natural intelligence and the maturity of suitable mathematical means for rigorously modeling the brain in machine understandable forms. Learning is a cognitive process of knowledge and behavior acquisition. Learning can be classified into five categories known as object identification, cluster classification, functional regression, behavior generation, and knowledge acquisition. The latest discovery in knowledge science by Wang revealed that the basic unit of knowledge is a binary relation (bir) as that of bit for information and data. A fundamental challenge to knowledge learning different from those of deep and recurring neural network technologies has led to the emergence of the field of cognitive machine learning on the basis of recent breakthroughs in denotational mathematics and mathematical engineering. This keynote lecture presents latest advances in formal brain studies and cognitive systems for deep reasoning and deep learning. It is recognized that key technologies enabling cognitive robots mimicking the brain rely not only on deep learning, but also on deep reasoning and thinking towards machinable thoughts and cognitive knowledge bases built by cognitive systems. Fundamental theories and novel technologies for implementing deep thinking robots are demonstrated based on concept algebra, semantics algebra and inference algebra.
+
+
+Handheld computers,Cognitive informatics,Software,Mathematics
+
+
+algebra,cognitive systems,inference mechanisms,intelligent robots,knowledge acquisition,learning (artificial intelligence),neural nets
+
+
+cognitive foundations,knowledge science,deep knowledge learning,cognitive robots,fundamental AI problems,natural intelligence,machine understandable forms,cognitive process,behavior acquisition,object identification,cluster classification,behavior generation,knowledge acquisition,binary relation,neural network technologies,cognitive machine learning,denotational mathematics,mathematical engineering,formal brain studies,cognitive systems,deep reasoning,deep learning,machinable thoughts,cognitive knowledge bases,fundamental theories,deep thinking robots
+
+
+Cognitive informatics,cognitive computers,cognitive robotics,brain-inspired systems,deep learning,deep reasoning,deep thinking,knowledge learning,denotational mathematics,mathematical engineering,semantic computing,cognitive linguistics,applications
+
+
+
+
+Distributed Deep Reinforcement Learning using TensorFlow
+
+Deep Reinforcement Learning is the combination of Reinforcement Learning algorithms with Deep neural network, which had recent success in learning complicated unknown environments. The trained model is a Convolutional Neural Network trained using Q-Learning Loss value. The agent takes in observation, i.e. raw pixel image and reward from the environment for each step as input. The deep Q-learning algorithm gives out the optimal action for every observation and reward pair. The hyperparameters of Deep Q-Network remain unchanged for any environment. TensorFIow, an open source machine learning and numerical computation library is used to implement the deep Q-Learning algorithm on GPU. The distributed TensorFIow architecture is used to maximize the hardware resource utilization and reduce the training time. The usage of Graphics Processing Unit (GPU) in the distributed environment accelerated the training of deep Q-network. On implementing the deep Q-learning algorithm for many environments from OpenAI Gym, the agent outperforms a decent human reference player with few days of training.
+
+
+Machine learning,Learning (artificial intelligence),Training,Graphics processing units,Neural networks,Software algorithms,Dynamic programming
+
+
+graphics processing units,learning (artificial intelligence),neural nets,numerical analysis,public domain software
+
+
+open source machine learning,distributed environment,OpenAI Gym,graphics processing unit,hardware resource utilization,distributed TensorFIow architecture,GPU,numerical computation library,hyperparameters,Q-learning loss value,training,deep convolutional neural network,deep Q-learning network algorithm
+
+
+Deep Reinforcement Learning,Tensorflow,Deep Q-Networks,Deep Q-Learning,Artificial Generalized Intelligence
+
+
+
+
+Deep multiple instance learning for image classification and auto-annotation
+
+The recent development in learning deep representations has demonstrated its wide applications in traditional vision tasks like classification and detection. However, there has been little investigation on how we could build up a deep learning framework in a weakly supervised setting. In this paper, we attempt to model deep learning in a weakly supervised learning (multiple instance learning) framework. In our setting, each image follows a dual multi-instance assumption, where its object proposals and possible text annotations can be regarded as two instance sets. We thus design effective systems to exploit the MIL property with deep learning strategies from the two ends; we also try to jointly learn the relationship between object and annotation proposals. We conduct extensive experiments and prove that our weakly supervised deep learning framework not only achieves convincing performance in vision tasks including classification and image annotation, but also extracts reasonable region-keyword pairs with little supervision, on both widely used benchmarks like PASCAL VOC and MIT Indoor Scene 67, and also a dataset for image-and patch-level annotations.
+
+
+Machine learning,Proposals,Visualization,Feature extraction,Noise measurement,Neural networks,Supervised learning
+
+
+image classification,learning (artificial intelligence)
+
+
+deep multiple instance learning,MIL,image classification,image annotation,supervised deep learning framework
+
+
+
+
+Improving deep convolutional neural networks with unsupervised feature learning
+
+The latest generation of Deep Convolutional Neural Networks (DCNN) have dramatically advanced challenging computer vision tasks, especially in object detection and object classification, achieving state-of-the-art performance in several computer vision tasks including text recognition, sign recognition, face recognition and scene understanding. The depth of these supervised networks has enabled learning deeper and hierarchical representation of features. In parallel, unsupervised deep learning such as Convolutional Deep Belief Network (CDBN) has also achieved state-of-the-art in many computer vision tasks. However, there is very limited research on jointly exploiting the strength of these two approaches. In this paper, we investigate the learning capability of both methods. We compare the output of individual layers and show that many learnt filters and outputs of the corresponding level layer are almost similar for both approaches. Stacking the DCNN on top of unsupervised layers or replacing layers in the DCNN with the corresponding learnt layers in the CDBN can improve the recognition/classification accuracy and training computational expense. We demonstrate the validity of the proposal on ImageNet dataset.
+
+
+Training,Machine learning,Computer architecture,Unsupervised learning,Neural networks,Supervised learning,Convolutional codes
+
+
+computer vision,feature extraction,image classification,image representation,learning (artificial intelligence),neural nets,object detection
+
+
+ImageNet dataset,hierarchical feature representation,scene understanding,face recognition,sign recognition,text recognition,object classification,object detection,computer vision,DCNN,unsupervised feature learning,deep convolutional neural network
+
+
+Deep learning,Convolutional Neural Network,Deep Convolutional Belief Network,Unsupervised deep learning,Supervised deep learning
+
+
+
+
+Noisy deep dictionary learning: Application to Alzheimer's Disease classification
+
+A recent work introduced the concept of deep dictionary learning. In deep dictionary learning, the first level proceeds like standard dictionary learning; in sub-sequent layers the (scaled) output coefficients from the previous layer are used as inputs for dictionary learning. This is an unsupervised deep learning approach. The features from the final / deepest layer are employed for subsequent analysis and classification. The seminal paper of stacked denoising autoencoders have shown that robust deep models can be learnt when noisy data is used for training stacked autoencoders instead of clean data. We adopt this idea into the deep dictionary learning framework; instead of using only clean data we augment the training dataset by adding noise; this improves robustness. Experimental evaluation on benchmark deep learning datasets and real world problem of AD classification show that our proposal yields considerable improvement.
+
+
+Dictionaries,Training,Machine learning,Noise measurement,Robustness,Benchmark testing,Noise reduction
+
+
+diseases,medical computing,pattern classification,unsupervised learning
+
+
+noisy deep dictionary learning,Alzheimers disease classification,unsupervised deep learning approach,stacked denoising autoencoders,robust deep models,clean data,deep dictionary learning framework,benchmark deep learning datasets,AD classification
+
+
+dictionary learning,deep learning,AD classification
+
+
+
+
+Deep reasoning and thinking beyond deep learning by cognitive robots and brain-inspired systems
+
+Summary form only given. Recent basic studies reveal that AI problems are deeply rooted in both the understanding of the natural intelligence and the adoption of suitable mathematical means for rigorously modeling the brain in machine understandable forms. Learning is a cognitive process of knowledge and behavior acquisition. Learning can be classified into five categories known as object identification, cluster classification, functional regression, behavior generation, and knowledge acquisition. A fundamental challenge to knowledge learning different from the deep and recurring neural network technologies has led to the emergence of the field of cognitive machine learning on the basis of recent breakthroughs in denotational mathematics and mathematical engineering. This keynote lecture presents latest advances in formal brain studies and cognitive systems for deep reasoning and deep learning. It is recognized that key technologies enabling cognitive robots mimicking the brain rely not only on deep learning, but also on deep reasoning and thinking towards machinable thoughts and cognitive knowledge bases built by a cognitive systems. A fundamental theory and novel technology for implementing deep thinking robots are demonstrated based on concept algebra, semantics algebra, and inference algebra.
+
+
+cognitive systems,humanoid robots,inference mechanisms,knowledge acquisition,knowledge based systems,learning (artificial intelligence)
+
+
+deep reasoning,deep learning,cognitive robots,brain-inspired systems,natural intelligence,cognitive process,knowledge acquisition,behavior acquisition,object identification,cluster classification,functional regression,behavior generation,knowledge learning,cognitive machine learning,denotational mathematics,mathematical engineering,formal brain studies,cognitive systems,cognitive knowledge bases,concept algebra,semantics algebra,inference algebra
+
+
+Cognitive informatics,cognitive computers,cognitive robotics,brain-inspired systems,deep learning,deep reasoning,deep thinking,knowledge learning,denotational mathematics,mathematical engineering
+
+
+
+
+Deep learning based recommender systems
+
+In parallel with the rapid development of prospective systems in the last 20 years, many methods have been applied to this field. One of them is the deep learning networks that have attracted the interest of researchers in recent years. The DBN (Deep Belief Network), which trains one layer at a time greedily, uses unsupervised learning for each layer and is composed of RBMs (Restricted Boltzman Machine), has become a turning point in this area. In this study, the deep learning method is applied to the recommender system problem. The Python-based deep learning library, Keras, is used and the existing learning algorithms are compared.
+
+
+Economic indicators
+
+
+belief networks,Boltzmann machines,recommender systems,unsupervised learning
+
+
+prospective systems,deep learning networks,unsupervised learning,deep learning method,recommender system problem,Python-based deep learning library,deep learning based recommender systems,deep belief network,DBN,RBM,restricted Boltzman machine,Keras,time 20.0 year
+
+
+recommender systems,deep learning,gradient based learning algorithms,ADAM,Keras
+
+
+
+
+Predicting financial market in big data: Deep learning
+
+Deep Learning is appealing for learning from large amounts of unlabeled/unsupervised data, making it attractive for extracting meaningful representations and patterns from big data. Deep learning, by its simplest definition, is expressed as the application of machine learning methods to the big data. In this study, it was investigated how to apply hierarchical deep learning models for the problems in finance such as prediction and classification. The Design and pricing of securities, construction of portfolios, risk management and stock market forecasting are some of important prediction problems in finance. These kind of problems include large data sets with complex relationship among data and events. It is very difficult or sometimes impossible to represent these complex relationships in a full economic model. Deep learning methods, by representing complex relationships among data, allows the production of more useful results than standard methods in finance. In this study, we introduced and applied deep learning methods to stock market prediction problem and obtained successful results.
+
+
+Recurrent neural networks,Machine learning,Learning (artificial intelligence),Big Data,Finance,Artificial neural networks
+
+
+Big Data,learning (artificial intelligence),risk management,stock markets
+
+
+unlabeled/unsupervised data,hierarchical deep learning models,risk management,stock market forecasting,stock market prediction problem,big data,portfolios,machine learning,financial market
+
+
+Deep Learning,Machine Learning,Big Data,Artificial Intelligence,Finance,Market Prediction
+
+
+
+
+Kernel-based deep learning for intelligent data analysis
+
+Machine learning, especially neural networks, has attracted more and more attention in the past few decades. With the further research of intelligent algorithms and network structures, machine learning has been widely used in data mining, computer vision, data recognition and classification. Because the target data is nonlinear and complex, the research needs to extract accurate feature space from the data space. This process relies on machine learning to perform better because manual rules do not achieve the most efficient functions. The researchers combine the kernel approach with the deep neural network to maintain their advantages and compensate for their defects, and then apply depth kernel learning to improve the performance of the algorithm. In this paper, we present an overview of the progress and applications of deep core learning. We introduce the basic theory and their fusion to form several deep core learning structures to improve the performance and performance of the algorithm in practice.
+
+
+Kernel,Feature extraction,Machine learning,Training,Support vector machines,Classification algorithms,Machine learning algorithms
+
+
+data analysis,learning (artificial intelligence),neural nets
+
+
+intelligent data analysis,machine learning,intelligent algorithms,network structures,target data,data space,deep neural network,deep core learning,feature space,Kernel-based deep learning,depth kernel learning
+
+
+kernel method,deep neural network,deep kernel learning
+
+
+
+
+Poster Abstract: DeepRT: A Predictable Deep Learning Inference Framework for IoT Devices
+
+Recently, deep learning is emerging as a state-of-the-art approach in delivering robust and highly accurate inference in many domains, including Internet-of-Things (IoT). Deep learning is already changing the way computers embedded in IoT devices to make intelligent decisions using sensor feeds in the real world. There have been significant efforts to develop light-weight and highly efficient deep learning inference mechanisms for resource-constrained mobile and IoT devices. Some approaches propose a hardware-based accelerator, and some approaches propose to reduce the amount of computation of deep learning models using various model compression techniques. Even though these efforts have demonstrated significant gains in performance and efficiency, they are not aware of the Quality-of-Service (QoS) requirements of various IoT applications, and, hence manifest unpredictable 'best-effort' performance in terms of inference latency, power consumption, resource usage, etc. In IoT devices with temporal constraints, such unpredictability might result in undesirable effects such as compromising safety. In this work, we present a novel deep learning inference runtime called, DeepRT. Unlike previous inference accelerators, DeepRT focuses on supporting predictable inference performance both temporally and spatially.
+
+
+Machine learning,Quality of service,Task analysis,Computational modeling,Time factors,Performance evaluation
+
+
+data compression,inference mechanisms,Internet,Internet of Things,learning (artificial intelligence),quality of service
+
+
+IoT devices,robust inference,highly accurate inference,highly efficient deep learning inference mechanisms,deep learning models,IoT applications,deep learning inference runtime,DeepRT,predictable inference performance,inference framework,Quality-of-Service,QoS requirements
+
+
+deep learning,IoT,embedded systems,real time,QoS,Quality of Service,machine learning
+
+
+
+
+BAIPAS: Distributed Deep Learning Platform with Data Locality and Shuffling
+
+In this paper, we introduce a distributed deep learning platform, BAIPAS, Big Data and AI based Predication and Analysis System. In the case of deep learning using big data, it takes much time to train with data. To reduce training time, there is a method that uses distributed deep learning. When big data exists in external storage, training takes a long time because it takes a lot of network I/O time when data is loaded during deep learning operations. We propose data locality management as a way to reduce training time with big data. BAIPAS is a distributed deep learning platform that aims to provide quick learning from big data, easy installation and monitoring of the platform, and convenience for developers of deep learning models. In order to provide fast training using big data, data is distributed and stored in worker-server storage using a data locality and shuffling, and then training is performed. The data locality manager analyzes the training data and the state information of the worker servers. This distributes the data scheduling according to the available storage space of the worker server and the learning performance of the worker server. However, if each worker server conducts deep learning using the distributed training data, model overfitting may occur as compared with the method of learning with the full training data set. To solve this problem, we applied a shuffling method that moves already learned data to another worker server when training is performed. Thereby, each worker server can contain the full training data set. BAIPAS uses Kubernetes and Docker to provide easy installation and monitoring of the platform. It also provides pre-processing modules, management tools, automation of cluster creation, resource monitoring, and other resources; so developers can easily develop deep learning models.
+
+
+Machine learning,Servers,Training,Big Data,Distributed databases,Training data,Libraries
+
+
+Big Data,learning (artificial intelligence)
+
+
+big data,BAIPAS,distributed deep learning platform,deep learning models,data scheduling,distributed training data,deep learning operations,data locality management,data locality manager,shuffling method,Kubernetes,Docker
+
+
+Distributed Deep Larning Platform,Data Locality,Deep Learning,Distributed TensorFlow,Data Shuffling
+
+
+
+
+Deep reinforcement learning with experience replay based on SARSA
+
+SARSA, as one kind of on-policy reinforcement learning methods, is integrated with deep learning to solve the video games control problems in this paper. We use deep convolutional neural network to estimate the state-action value, and SARSA learning to update it. Besides, experience replay is introduced to make the training process suitable to scalable machine learning problems. In this way, a new deep reinforcement learning method, called deep SARSA is proposed to solve complicated control problems such as imitating human to play video games. From the experiments results, we can conclude that the deep SARSA learning shows better performances in some aspects than deep Q learning.
+
+
+Learning (artificial intelligence),Games,Training,Neural networks,Machine learning,Feature extraction
+
+
+computer games,learning (artificial intelligence),neural nets
+
+
+deep reinforcement learning,on-policy reinforcement learning,video games control problems,deep convolutional neural network,scalable machine learning problems,deep SARSA learning,Q learning
+
+
+SARSA learning,Q learning,experience replay,deep reinforcement learning,deep learning
+
+
+
+
+Preview on structures and algorithms of deep learning
+
+Deep learning proposed by Hinton et al is a new learning algorithm of multi-layer neural network, and it is also a new study field in machine learning. This paper describes the structures and advantages to shallow learning of deep learning, and analyzes current popular learning algorithm in detail. Finally, this paper analyzes research directions and future prospects of deep learning.
+
+
+Training,Biological neural networks,Feature extraction,Convolution,Machine learning algorithms,Visualization
+
+
+learning (artificial intelligence),multilayer perceptrons
+
+
+deep learning structure,deep learning algorithm,multilayer neural network,machine learning,shallow learning,learning algorithm
+
+
+Deep learning,learning algorithm,machine learning
+
+
+
+
+Deep divergence-based clustering
+
+A promising direction in deep learning research is to learn representations and simultaneously discover cluster structure in unlabeled data by optimizing a discriminative loss function. Contrary to supervised deep learning, this line of research is in its infancy and the design and optimization of a suitable loss function with the aim of training deep neural networks for clustering is still an open challenge. In this paper, we propose to leverage the discriminative power of information theoretic divergence measures, which have experienced success in traditional clustering, to develop a new deep clustering network. Our proposed loss function incorporates explicitly the geometry of the output space, and facilitates fully unsupervised training end-to-end. Experiments on real datasets show that the proposed algorithm achieves competitive performance with respect to other state-of-the-art methods.
+
+
+Probability density function,Machine learning,Neural networks,Geometry,Training,Seals,Loss measurement
+
+
+learning (artificial intelligence),neural nets,optimisation,pattern clustering
+
+
+deep learning research,deep divergence-based clustering,representations learning,discriminative loss function optimization,deep clustering network,information theoretic divergence measures,deep neural networks,unlabeled data,cluster structure
+
+
+Deep learning,clustering,information theoretic learning
+
+
+
+
+The Research of Feedback-Feedforward Iterative Learning Control in Hydrodynamic Deep Drawing Process
+
+This paper firstly introduces the characteristics of hydrodynamic deep drawing (HDD), which is an important sheet metal forming technology, then points out the necessity of the chamber pressure control. Secondly considering the characteristics of the drawing action is repeated, iterative learning control (ILC) is the proper algorithm. Then introduces the concept of iterative learning control and feedback - feed forward iterative learning control to solve the delay and improve system robustness. Finally, the computer iterative learning control algorithm implementation process is given and the effectiveness of the algorithm is verified by simulation.
+
+
+Iterative learning control,Feedforward neural networks,Hydrodynamics,Process control,Trajectory,Robustness,Algorithm design and analysis
+
+
+deep drawing,feedback,feedforward,hydrodynamics,iterative learning control,pressure control,sheet metal processing
+
+
+feedback-feedforward iterative learning control,hydrodynamic deep drawing process,HDD,sheet metal forming technology,chamber pressure control,ILC
+
+
+Feedback,feedforward,Iterative Learning Control,hydrodynamic deep drawing,pressure control
+
+
+
+
+Chest pathology detection using deep learning with non-medical training
+
+In this work, we examine the strength of deep learning approaches for pathology detection in chest radiographs. Convolutional neural networks (CNN) deep architecture classification approaches have gained popularity due to their ability to learn mid and high level image representations. We explore the ability of CNN learned from a non-medical dataset to identify different types of pathologies in chest x-rays. We tested our algorithm on a 433 image dataset. The best performance was achieved using CNN and GIST features. We obtained an area under curve (AUC) of 0.87-0.94 for the different pathologies. The results demonstrate the feasibility of detecting pathology in chest x-rays using deep learning approaches based on non-medical learning. This is a first-of-its-kind experiment that shows that Deep learning with ImageNet, a large scale non-medical image database may be a good substitute to domain specific representations, which are yet to be available, for general medical image recognition tasks.
+
+
+Pathology,Machine learning,Visualization,X-rays,Biomedical imaging,Diagnostic radiography,Feature extraction
+
+
+convolution,diagnostic radiography,diseases,feature extraction,image classification,image representation,learning (artificial intelligence),medical image processing,neural nets
+
+
+chest pathology detection,deep learning,nonmedical training,chest radiograph,convolutional neural network,CNN deep architecture classification,mid level image representation learning,high level image representation learning,CNN learning,pathology identification,pathology type,chest X-ray image dataset,CNN algorithm,GIST feature,area under curve,AUC,nonmedical learning,ImageNet,large scale nonmedical image database,domain specific representation,general medical image recognition task
+
+
+Chest Radiography,Computer-Aided Diagnosis Disease Categorization,Deep Learning,Deep Networks,CNN
+
+
+
+
+Computer vision approaches based on deep learning and neural networks: Deep neural networks for video analysis of human pose estimation
+
+Deep architectures with convolution structure have been found highly effective and commonly used in computer vision. With the introduction of Graphics Processing Unit (GPU) for general purpose issues, there has been an increasing attention towards exploiting GPU processing power for deep learning algorithms. Also, large amount of data online has made possible to train deep neural networks efficiently. The aim of this paper is to perform a systematic mapping study, in order to investigate existing research about implementations of computer vision approaches based on deep learning algorithms and Convolutional Neural Networks (CNN). We selected a total of 119 papers, which were classified according to field of interest, network type, learning paradigm, research and contribution type. Our study demonstrates that this field is a promising area for research. We choose human pose estimation in video frames as a possible computer vision task to explore in our research. After careful studying we propose three different research direction related to: improving existing CNN implementations, using Recurrent Neural Networks (RNNs) for human pose estimation and finally relying on unsupervised learning paradigm to train NNs.
+
+
+Pose estimation,Computer vision,Heating systems,Neural networks,Systematics,Gesture recognition,Machine learning
+
+
+computer vision,feedforward neural nets,graphics processing units,neural net architecture,pose estimation,recurrent neural nets,unsupervised learning,video signal processing
+
+
+deep architectures,convolution structure,computer vision,graphics processing unit,GPU processing power,deep learning algorithms,online data,deep neural network training,convolution neural networks,network type,learning paradigm,human pose estimation,video frames,video analysis,CNN implementations,recurrent neural networks,unsupervised learning
+
+
+convolutional neural network,deep learning algorithm,computer vision,human pose estimation
+
+
+
+
+Learning to Coordinate with Deep Reinforcement Learning in Doubles Pong Game
+
+This paper discusses the emergence of cooperative and coordinated behaviors between joint and concurrent learning agents using deep Q-learning. Multi-agent systems (MAS) arise in a variety of domains. The collective effort is one of the main building blocks of many fundamental systems that exist in the world, and thus, sequential decision making under uncertainty for collaborative work is one of the important and challenging issues for intelligent cooperative multiple agents. However, the decisions for cooperation are highly sophisticated and complicated because agents may have a certain shared goal or individual goals to achieve and their behavior is inevitably influenced by each other. Therefore, we attempt to explore whether agents using deep Q-networks (DQN) can learn cooperative behavior. We use doubles pong game as an example and we investigate how they learn to divide their works through iterated game executions. In our approach, agents jointly learn to divide their area of responsibility and each agent uses its own DQN to modify its behavior. We also investigate how learned behavior changes according to environmental characteristics including reward schemes and learning techniques. Our experiments indicate that effective cooperative behaviors with balanced division of workload emerge. These results help us to better understand how agents behave and interact with each other in complex environments and how they coherently choose their individual actions such that the resulting joint actions are optimal.
+
+
+Games,Multi-agent systems,Markov processes,Machine learning,Learning (artificial intelligence),Neural networks
+
+
+computer games,decision making,groupware,learning (artificial intelligence),multi-agent systems
+
+
+deep reinforcement learning,doubles pong game,coordinated behaviors,joint learning agents,concurrent learning agents,deep Q-learning,multiagent systems,collective effort,main building blocks,fundamental systems,collaborative work,intelligent cooperative multiple agents,shared goal,individual goals,deep Q-networks,DQN,iterated game executions,behavior changes,reward schemes,learning techniques,effective cooperative behaviors,resulting joint actions,sequential decision making,cooperative behaviors,MAS,cooperative behavior,environmental characteristics,workload balanced division
+
+
+Artificial Intelligence,Deep Reinforcement Learning,Multi agent systems,Cooperative Systems
+
+
+
+
+Deep Belief Networks and deep learning
+
+Deep Belief Network is an algorithm among deep learning. It is an effective method of solving the problems from neural network with deep layers, such as low velocity and the overfitting phenomenon in learning. In this paper, we will introduce how to process a Deep Belief Network by using Restricted Boltzmann Machines. What is more, we will combine the Deep Belief Network together with softmax classifier, and use it in the recognition of handwritten numbers.
+
+
+Neural networks,Training,Feature extraction,Unsupervised learning,Classification algorithms,Fitting,Mathematical model
+
+
+belief networks,Boltzmann machines,learning (artificial intelligence)
+
+
+deep belief networks,deep learning,neural network,deep layers,restricted Boltzmann machines,softmax classifier,handwritten number recognition
+
+
+Deep learning,Deep Belief Network,classify Introduction
+
+
+
+
+Pattern recognition of human arm movement using deep reinforcement learning
+
+Hand gesture recognition is one of the major research areas in the field of Human computer interaction (HCl). This paper proposes a deep reinforcement learning algorithm to recognize the human arm movement patterns using an IoT sensor device. Recent studies have explored supervised learning based methods, such as CNN and RNN to implement the HCl device. On the other hand, the deep reinforcement learning approach has also been investigated. Algorithms using this approach, learn the patterns from sensors using only the reward feedback with no class labels. This allows users to control the IoT device and produce the desired arm movement patterns without creating any labels. In this paper, the performance of convolutional neural network (CNN) with the DQN model was compared with that of long short-term memory (LSTM) models with DQN. Results show that the CNN based DQN model was more stable compared to the LSTM based model, and yielded a high classification accuracy of 98.33% to predict the arm movement patterns.
+
+
+Learning (artificial intelligence),Machine learning,Electromyography,Pattern recognition,Sensors,Accelerometers,Quaternions
+
+
+gesture recognition,human computer interaction,Internet of Things,learning (artificial intelligence),neural nets,pattern classification
+
+
+deep reinforcement learning algorithm,human arm movement patterns,IoT sensor device,supervised learning based methods,CNN,HCl device,deep reinforcement learning approach,class labels,IoT device,desired arm movement patterns,DQN model,LSTM based model,pattern recognition,hand gesture recognition,human computer interaction,long short-term memory models
+
+
+Human-Computer Interaction (HCl),patterin recognition,deep reinforcemnet learning,deep Q-Netn'rok,Myo armband
+
+
+
+
+Dynamic Security-Level Maximization for Stabilized Parallel Deep Learning Architectures in Surveillance Applications
+
+This paper introduces a new surveillance platform which is equipped with multiple parallel deep learning frameworks. The deep learning frameworks are used for the face recognition of input image and video streams from CCTV cameras in security applications. Each deep learning framework has its own accuracy (related to recognition performance) and operation time (related to system stability) those are in tradeoff relationship. Based on this system architecture, a new dynamic control algorithm which selects one deep learning framework for time-average security-level (i.e., machine learning accuracy for recognition and classification) maximization under the consideration of system stability. The performance of the proposed algorithm was evaluated and also verified that it achieves desired performance.
+
+
+Machine learning,Stability analysis,Heuristic algorithms,Streaming media,Surveillance,Security,Machine learning algorithms
+
+
+closed circuit television,face recognition,learning (artificial intelligence),surveillance,video streaming
+
+
+dynamic security-level maximization,stabilized parallel deep learning architectures,multiple parallel deep learning frameworks,security applications,system stability,time-average security-level,machine learning accuracy,surveillance platform,face recognition,video streams,CCTV cameras,dynamic control algorithm
+
+
+Deep Learning,Security,Lyapunov Optimization
+
+
+
+
+Performance comparision of different momentum techniques on deep reinforcement learning
+
+Increase in popularity of deep convolutional neural networks in many different areas leads to increase in the use of these networks in reinforcement learning. Training a huge deep neural network structure by using simple gradient descent learning can take quite a long time. Some additional learning approaches should be utilized to solve this problem. One of these techniques is use of momentum which accelerates gradient descent learning. Although momentum techniques are mostly developed for supervised learning problems, it can also be used for reinforcement learning problems. However, its efficiency may vary due to the dissimilarities in two training learning processes. In this paper, the performances of different momentum techniques are compared for one of the reinforcement learning problems; Othello game benchmark. Test results show that the Nesterov accelerated momentum technique provided a more effective generalization on benchmark.
+
+
+Games,Neural networks,Training,Learning (artificial intelligence),Machine learning,Acceleration,Supervised learning
+
+
+convolution,game theory,gradient methods,learning (artificial intelligence),momentum,neural nets
+
+
+deep reinforcement learning,deep convolutional neural networks,gradient descent learning,supervised learning,Nesterov accelerated momentum
+
+
+Deep reinforcement learning,momentum techniques,nesterov momentum
+
+
+
+
+Alleviating Credit Assignment problem using deep representation learning with application to Push Recovery learning
+
+we propose two new methods to accelerate the learning of a task using Q-learning algorithm. We focus specifically on learning of a task, which has the Credit Assignment (CA) problem. A Reinforcement Algorithm (RL) agent is performing this task in high dimensional state-space. The main idea of this paper is to use latent variables that deep autoencoders provide, to make a better rewarding system. We show that using these new rewards speeds up learning of the task in the similar circumstances. The task chosen for the algorithm is Push Recovery (PR) in a simulated environment.
+
+
+Feature extraction,Benchmark testing,Force,Trajectory,Approximation algorithms,Robots,Learning (artificial intelligence)
+
+
+learning (artificial intelligence)
+
+
+credit assignment problem,CA problem,deep representation learning,RL agent,push recovery learning,PR learning,task learning acceleration,Q-learning algorithm,high dimensional state-space,deep autoencoders,rewarding system
+
+
+Deep learning,push recovery,credit assignment problem,latent variable,rewarding system
+
+
+
+
+Deep Q-learning using redundant outputs in visual doom
+
+Recently, there is a growing interest in applying deep learning in game AI domain. Among them, deep reinforcement learning is the most famous in game AI communities. In this paper, we propose to use redundant outputs in order to adapt training progress in deep reinforcement learning. We compare our method with general ε-greedy in ViZDoom platform. Since AI player should select an action only based on visual input in the platform, it is suitable for deep reinforcement learning research. Experimental results show that our proposed method archives competitive performance to ε-greedy without parameter tuning.
+
+
+Games,Learning (artificial intelligence),Training,Visualization,Machine learning,Convolution
+
+
+computer games,learning (artificial intelligence)
+
+
+deep Q-learning,redundant outputs,Visual Doom AI game,game AI domain,deep reinforcement learning,game AI communities,training progress
+
+
+deep reinforcement learning,reinforcement learning,vizdoom,first-person perspective game
+
+
+
+
+
+
+
+
+
+
+Neural network hardware
+
+Summary form only given, as follows. The author describes recent advances in the hardware implementation of neural networks, and gives his expectations for the future in this aspect of neural network technology.<>
+
+
+Neural network hardware,Neural networks
+
+
+neural chips,neural nets
+
+
+neural net hardware,hardware implementation,neural networks,neural network technology
+
+
+
+
+An extended BAM neural network model
+
+Proposes an extended bidirectional associative memory (BAM) neural network model which can do auto- and hetero-associative memory. The theoretical proof for this neural network model's stability is given. Experiments show that this neural network model is much more powerful than the M-P model, discrete Hopfield neural network, continuous Hopfield neural network, discrete bidirectional associative memory neural network, continuous and adaptive bidirectional associative memory neural network, backpropagation neural network and optimal designed nonlinear continuous neural network. Experimental results also show that, when it does auto-associative memory, the power of this model is the same as the loop neural network model which can only do auto-associative memory.
+
+
+Magnesium compounds,Neural networks,Hopfield neural networks,Associative memory,Stability,Artificial neural networks,Neurofeedback,Information science,Adaptive systems,Intelligent control
+
+
+neural nets,content-addressable storage
+
+
+extended BAM neural network model,extended bidirectional associative memory neural network,hetero-associative memory,auto-associative memory,model stability,M-P model,discrete Hopfield neural network,continuous Hopfield neural network,discrete bidirectional associative memory neural network,backpropagation neural network,optimal designed nonlinear continuous neural network
+
+
+
+
+FEN (fuzzy expert network) learning architecture; generalization of self adjusting fuzzy modeling on event-driven acyclic neural networks using expert networks backpropagation learning
+
+FEN (fuzzy expert network) is a new network architecture of neural objects for fuzzy modeling. The neural objects process information through node functions that are different from a typical sigmoidal node processor for an analog perceptron. By connecting a few types of node processors on an event driven acyclic (feedforward) neural network, FEN represents the fuzzy modeling with self adjustment. Weights on this network imply fuzzy parameters to be adjusted with no restriction of layered topology by learning. FEN offers automated tuning from input-output data for membership functions on which the performance of fuzzy modeling depends. And especially using the enhanced idea of a dynamic backward error assignment for learning, FEN is effective for tuning parameters for nonsmooth membership functions, for example, symmetric triangular functions of an antecedent part. Results of testing FEN are presented to demonstrate learning performance and adaptability.
+
+
+Fuzzy neural networks,Neural networks,Network topology,Feedforward neural networks,Artificial neural networks,Feeds,Fuzzy systems,Error correction,Computer architecture,Fuzzy control
+
+
+fuzzy neural nets,feedforward neural nets,backpropagation,modelling
+
+
+fuzzy expert network learning architecture,self adjusting fuzzy modeling,event-driven acyclic neural networks,backpropagation learning,neural objects,feedforward neural network,layered topology,dynamic backward error assignment,nonsmooth membership functions,learning performance,adaptability
+
+
+
+
+Backpropagation learning in analog T-Model neural network hardware
+
+In this paper, we describe VLSI implementation of a modified backpropagation learning in the T-Model neural networks. A digitally-controlled synapse circuit and an adaptation rule circuit with a R-2R ladder network, a simple control logic circuit and an UP/DOWN counter are implemented to realize the modified backpropagation of error technique. We also present the adaptive learning using digitally-controlled synapse to the T-Model networks for several examples in order to study the learning capabilities of the analog T-Model neural hardware. These experiments show that the T-Model adaptive neural networks using the modified backpropagation can perform learning procedure quite well.
+
+
+Backpropagation,Intelligent networks,Neural network hardware,Neural networks,Counting circuits,Digital control,Very large scale integration,Logic circuits,Error correction,Hopfield neural networks
+
+
+neural nets,backpropagation,analogue integrated circuits,VLSI,ladder networks
+
+
+modified backpropagation learning,analog T-Model neural network hardware,VLSI implementation,digitally-controlled synapse circuit,adaptation rule circuit,R-2R ladder network,control logic circuit,UP/DOWN counter,modified error backpropagation technique,digitally-controlled synapse
+
+
+
+
+Subthreshold MOS implementation of neural networks with on-chip error backpropagation learning
+
+Subthreshold analog circuits for MOS implementation of artificial neural networks are presented with on-chip learning capability. Each synapse circuits consist of a storage capacitor and 3 analog multiplier, i.e. one for signal feedforward, one for outer-product synaptic weight adjustments, and one for error backpropagation. While all the 3 multipliers are used for error backpropagation learning, only the first 2 multipliers are used for Hebbian learning. Each neuron circuits are composed of a sigmoid circuit and a sigmoid derivative circuit, which show near ideal sigmoid characteristics and provide external gain-control capability. All the circuits incorporate modular architecture, and are designed to increase the numbers of neurons and layers with multiple chips. Also, the subthreshold operation provides low power consumption and large scale implementation.
+
+
+Neural networks,Network-on-a-chip,Backpropagation,Artificial neural networks,Neurons,Analog circuits,MOS capacitors,Hebbian theory,Energy consumption,Large-scale systems
+
+
+neural chips,CMOS analogue integrated circuits,analogue multipliers,multiplying circuits,backpropagation,Hebbian learning,large scale integration
+
+
+subthreshold MOS,neural networks,on-chip error backpropagation learning,synapse circuits,storage capacitor,analog multiplier,signal feedforward,outer-product synaptic weight adjustments,Hebbian learning,sigmoid circuit,modular architecture,large scale integration
+
+
+
+
+Neural network routing for multiple stage interconnection networks
+
+Summary form only given, as follows. A Hopfield model neural network can be useful as a form of parallel computer. Such a neural network may be capable of arriving at a problem solution which much more speed than conventional, sequential approaches. This concept has been applied to the problem of generating control bits for a multistage interconnection network. A Hopfield model neural network has been designed that is capable of routing a set of messages. This neural network solution is especially useful for interconnection networks that are not self-routing and interconnection networks that have an irregular structure. Furthermore, the neural network routing scheme is fault-tolerant. Results were obtained on generating routes in a 4*4 Benes interconnection network.<>
+
+
+Neural networks,Routing,Multiprocessor interconnection networks,National electric code,Electronic mail,Hopfield neural networks,Computer networks,Concurrent computing,Fault tolerance
+
+
+fault tolerant computing,multiprocessor interconnection networks,neural nets,optical information processing,parallel processing
+
+
+multiple stage interconnection networks,Hopfield model neural network,parallel computer,generating control bits,self-routing,fault-tolerant,Benes interconnection network
+
+
+
+
+Disturbance-rejection neural network control
+
+A disturbance-rejection neural network control scheme is presented for control of an unknown nonlinear plant. In the scheme, a multilayer neural network is employed to learn the inverse dynamics of the unknown plant and acts as a feedforward controller to control the plant. The effect of disturbances on the output is suppressed by using a paralleled closed-loop control system. The design technique of the compensator in the closed-loop system is discussed. Simulation results show that the presented control scheme works well in the presence of disturbances.
+
+
+Neural networks,Control systems,Open loop systems,Multi-layer neural network,Automatic control,Feedforward neural networks,Automation,Nonlinear dynamical systems,Neural network hardware,Extrapolation
+
+
+nonlinear control systems,feedforward neural nets,neurocontrollers,closed loop systems,learning (artificial intelligence),compensation,feedforward
+
+
+disturbance-rejection neural network control,unknown nonlinear plant,multilayer neural network,inverse dynamics,feedforward controller,learning,paralleled closed-loop control system,compensator
+
+
+
+
+Stabilization of flexible structures using artificial neural networks
+
+A method of using artificial neural networks to stabilize large flexible space structures is presented. The neural controller learns the dynamics of the structure to be controlled and constructs a control signal to stabilize structural vibrations. The network consists of a three layer feedforward network; the input layer receives the displacement and velocity information from sensors located at various points in the structure, and the output layer generates control signals that are applied to the structure through suitable actuators. Sequential updating of the network weights continues, forcing the structure follow a trajectory that eventually leads to complete stabilization. Simulation results on the stabilization of a flexible beam are presented.
+
+
+Flexible structures,Artificial neural networks,Control systems,Adaptive control,Neural networks,Vibration control,Satellites,Multi-layer neural network,Signal generators,Actuators
+
+
+stability,flexible structures,aerospace control,vibration control,neurocontrollers,feedforward neural nets,multilayer perceptrons
+
+
+stabilization,artificial neural networks,large flexible space structures,neural controller,dynamics,control signal,structural vibrations,three layer feedforward network,sequential updating,network weights,flexible beam
+
+
+
+
+An approximate equivalence neural network to conventional neural network for the worst-case identification and control of nonlinear system
+
+In this paper, we propose an approximate equivalence neural network model with a fast learning speed as well as a good function approximation capability, and a new objective function, which satisfies the H/sup /spl infin// induced norm to solve the worst-case identification and control of nonlinear problems. The approximate equivalence neural network not only has the same capability of universal approximator, but also has a faster learning speed than the conventional feedforward/recurrent neural networks. Based on this approximate transformable technique, the relationship between the single-layered neural network and multilayered perceptrons neural network is derived. It is shown that a approximate equivalence neural network can be represented as a functional link network that is based on Chebyshev polynomials. We also derive a new learning algorithm such that the infinity norm of the transfer function from the input to the output is under a prescribed level. It turns out that the approximate equivalence neural network can be extended to do the worst-case problem, in the identification and control of nonlinear problems.
+
+
+Neural networks,Chebyshev approximation,Function approximation,Recurrent neural networks,Multi-layer neural network,Feedforward neural networks,Multilayer perceptrons,Polynomials,H infinity control,Transfer functions
+
+
+nonlinear control systems,identification,learning (artificial intelligence),function approximation,H/sup /spl infin control,neural nets
+
+
+approximate equivalence neural network,worst-case identification,worst-case control,nonlinear system,fast learning,function approximation capability,objective function,H/sup /spl infin// induced norm,approximate transformable technique,single-layered neural network,multilayered perceptron neural network,functional link network,Chebyshev polynomials,infinity norm,transfer function
+
+
+
+
+Continual neural networks
+
+It is necessary to introduce many parameters describing structure and input signal of pattern recognition system during construction of open-loop structures of multilayer neural networks in order to provide maximum probability of correcting recognition in practice. Availability of great number of parameters, viz. hundreds and thousands, rouses some difficulties for learning and technical implementation of such multilayer neural network. Essence of introduction of continual properties of multilayer neural network characteristics includes the following: vector {x/sub i/, i=1, ..., I} replaces by function x(i) of continued argument, i.e. during transition to continuum of characteristic value. Transition to attributes continuum and continuum of neurons in layer is considered on the concrete examples of neural networks structures.
+
+
+Neural networks,Neurons,Multi-layer neural network,Pattern recognition,Signal generators,Pulse modulation,Concrete,Artificial neural networks,Image sampling,Artificial intelligence
+
+
+feedforward neural nets,probability,pattern recognition,vectors
+
+
+continual neural networks,pattern recognition,open-loop structures,multilayer neural networks,maximum probability,vector,feature continuum
+
+
+
+
+Flash-based programmable nonlinear capacitor for switched-capacitor implementations of neural networks
+
+The use of flash devices for both analog storage and analog computation can result in highly efficient switched-capacitor implementations of neural networks. The standard flash device suffers from severe limitations in this application due to relatively large parasitic overlap capacitances. This paper introduces the computational concept, circuit and architecture we are exploring as well as a novel flash-based programmable nonlinear capacitor with much improved charge domain characteristics for our application. These devices are demonstrated in a novel circuit consisting of only two devices and capable of computing a 5-bit absolute-value-of-difference at an energy consumption of less than 1 pJ.<>
+
+
+Capacitors,Neural networks,Analog computers,Circuits,Parasitic capacitance,Computer architecture,Energy consumption,Computer networks,Concurrent computing,Large-scale systems
+
+
+EPROM,analogue storage,analogue processing circuits,neural chips,neural net architecture,MOS capacitors,switched capacitor networks,analogue computer circuits
+
+
+flash-based capacitor,programmable nonlinear capacitor,switched-capacitor implementations,SC implementation,neural networks,charge domain characteristics,analog storage,analog computation,CAPFLASH
+
+
+
+
+A neural network approach to inference mechanism for logic programming language
+
+Presents an inference mechanism for logic programming languages using neural networks that is flexible and suited for fine-grain parallel computing. The authors approach is radically different from the conventional methods based on refutation processes. Programs written in the logic programming language are transformed into a Hopfield-type neural network and relaxation techniques are applied to this network to inference solutions. The authors propose an algorithm to transform logic programs into Hopfield-type neural networks and implement a prototype of the inference system based on this mechanism. The authors tested the system with some preliminary problems. Preliminary results confirm that the algorithm is correct.
+
+
+Neural networks,Inference mechanisms,Logic programming,Hopfield neural networks,Neurons,Parallel processing,Inference algorithms,Engines,Artificial neural networks,Prototypes
+
+
+logic programming languages,inference mechanisms,Hopfield neural nets,relaxation theory
+
+
+neural network approach,inference mechanism,logic programming language,fine-grain parallel computing,Hopfield-type neural network,relaxation techniques
+
+
+
+
+Digital hardware implementation of 2D compatible neural networks
+
+The work described in this paper aims at developing neural architectures that are easy to map onto FPGA, thanks to a simplified topology and an original data exchange scheme, without significant loss of approximation capability. It has been achieved thanks to the definition of a set of neural models called field programmable neural arrays (FPNA). FPNA may lead to the definition of neural networks adapted to hardware topological constraints. Different such neural networks may be derived from a given FPNA. They are called field programmed neural networks (FPNN). They reconcile the high connection density of neural architectures with the need of a limited interconnection scheme in hardware implementations. This paper focuses on the definition and implementation of FPNN parallel computation. It briefly defines the FPNA-FPNN concept. It introduces a parallel form of FPNN computation, for feedforward and recurrent FPNN. It describes a FPGA-based modular implementation based on asynchronous blocks. A few results of FPNN applications are briefly discussed.
+
+
+Neural network hardware,Neural networks,Field programmable gate arrays,Neurons,Computer architecture,Concurrent computing,Multicast protocols,Communication standards,Computer science,Software prototyping
+
+
+Neural net architecture,Field programmable gate arrays,Neural chips,Digital integrated circuits,Feedforward neural nets,Recurrent neural nets
+
+
+digital hardware implementation,2D compatible neural networks,neural architectures,FPGA,data exchange scheme,field programmable neural arrays,FPNA,hardware topological constraints,FPNN,field programmed neural networks,limited interconnection scheme,feedforward neural nets,recurrent neural nets,asynchronous blocks
+
+
+
+
+What can we expect from neural network models?
+
+Summary form only given. In each area of the brain, numerous neurons constitute elaborate networks. These networks are linked through numerous connections, and compose large-scaled neural systems. The neural systems generate major brain functions such as movement, cognition, emotion, and memory-learning. The brain as such has extensively been studied anatomically, physiologically and chemically, and our knowledge ever grows to cover every details of the brain. Important principles such as activity-dependent synaptic plasticity, multilayered integration of neuronal networks, modular organization of brain tissues have been revealed. Yet, shortage of knowledge is obvious when one tries to reproduce brain functions with models. While the simple perceptron model, adaptive filter model, feedforward adaptive control system model have successfully reproduced functions of the cerebellum, efforts to model other parts of the brain have met greater difficulties. It is still difficult to answer fundamental questions such as what is meant by the intricate structure of the basal ganglia? How the hippocampal circuit serves for cognitive memory and learning? How language is encoded within the neocortical network? Structures of motor, cognitive and emotional systems in the brain have been dissected to some extent, but it is yet difficult to figure out where and how our volition emerges, how we sense beauty, truth and virtue intuitively, and where in our brain consciousness resides. Complete understanding of the brain could be achieved only when one successfully models neural networks and systems so as to reproduce entire aspects of brain functions.
+
+
+Neural networks,Brain modeling,Biological neural networks,Neurons,Cognition,Chemicals,Adaptive filters,Adaptive control,Basal ganglia,Circuits
+
+
+brain models,neural nets,psychology
+
+
+neural network models,brain,large-scaled neural systems,major brain functions,basal ganglia,hippocampal circuit,cognitive memory,learning,neocortical network,language,emotional systems
+
+
+
+
+Building a 2D-compatible multilayer neural network
+
+Neural network hardware implementations have to reconcile simple hardware topologies with often complex neural architectures. Field programmable neural arrays (FPNA) are defined for that. Their computation scheme creates numerous virtual neural links by means of a limited set of communication links, whatever the device, the arithmetic, and the neural structure. Their concrete use has proved that they allow to have the computation power of standard neural models with a reduced set of neural resources easy to map directly to digital hardware. A simple pattern classification problem is chosen in this paper so as to show how FPNA allow to replace complex standard neural architectures by hardware-friendly neural structures. FPNA have been applied to numerous other problems with similar benefits. They are now applied to high-dimensional real-world applications, such as multiband speech recognition.
+
+
+Multi-layer neural network,Neural networks,Neural network hardware,Computer architecture,Buildings,Network topology,Arithmetic,Concrete,Pattern classification,Speech recognition
+
+
+multilayer perceptrons,neural chips,field programmable gate arrays,neural net architecture,pattern classification
+
+
+2D-compatible multilayer neural network,neural network hardware implementations,hardware topologies,neural architectures,field programmable neural arrays,FPNA,FPGA,virtual neural links,communication links,pattern classification,hardware-friendly neural structures,high-dimensional real-world applications,multiband speech recognition
+
+
+
+
+Artificial neural networks for diagnosis of hepatitis disease
+
+Recently, neural networks have become a very important method in the field of medical diagnostics. The objective of this work is to diagnose hepatitis disease by using different neural network architectures. Standard feedforward networks and a hybrid network were investigated. Results obtained show that especially the hybrid network can be successfully used for diagnosing of hepatitis.
+
+
+Artificial neural networks,Liver diseases,Neural networks,Backpropagation algorithms,Feedforward neural networks,Proteins,Medical diagnosis,Medical diagnostic imaging,Databases,Electronic mail
+
+
+radial basis function networks,liver,backpropagation,neural net architecture,patient diagnosis,diseases,multilayer perceptrons,sampling methods,medical diagnostic computing
+
+
+artificial neural networks,ordinary least squares algorithm,hepatitis disease diagnosis,medical diagnostics,neural network architectures,standard feedforward networks,hybrid network,multilayer perceptron structure,standard backpropagation,radial basis function network structure,OLS algorithm,conic section function neural network,adaptive learning
+
+
+
+
+Routing in Optical Networks by Using Neural Network
+
+Routing in optical, especially wavelength division multiplexing networks, is very hard task. This paper defines a new routing algorithm, based on Hopfield neural network. It is improvement of previous research, now applied to optical communications
+
+
+Optical fiber networks,Neural networks,Wavelength routing,Wavelength division multiplexing,Hopfield neural networks,Optical fiber communication,Communication networks,High speed optical techniques,Optical computing,WDM networks
+
+
+Hopfield neural nets,optical fibre networks,telecommunication network routing,wavelength division multiplexing
+
+
+optical networks,wavelength division multiplexing,routing algorithm,Hopfield neural network
+
+
+optical networks,wavelength division multiplexing,routing,Hopfield neural network
+
+
+
+
+Information storage mechanism of the biological neural network
+
+The information storage mechanism of the biological neural network is the most important problem in neuroscience. Our observations showed that the structure of the hippocampus, the core memory of the brain, is very similar to the Hopfield's neural network. An electronic neuronic model was constructed to simulate the dynamic process of the hippocampal LTP process. The kinetic process of the post synaptic potentials and the synaptic-synaptic interaction equations were also discussed. We proposed a dual coding theory of biological neural information and assumed that the messy fiber synaptic glomerulus may be the chief storage medium of the neural information. A geometrical mapping of N dimensional unitron was constructed to analyse the distribution of the computation energy and to trace the dynamic loci in memory retrieve process.
+
+
+Biological neural networks,Biological system modeling,Neuroscience,Hippocampus,Hopfield neural networks,Brain modeling,Kinetic theory,Equations,Codes,Optical fiber theory
+
+
+brain models,neurophysiology,Hopfield neural nets,dual codes
+
+
+information storage mechanism,biological neural network,neuroscience,hippocampus,core memory,brain,Hopfield neural network,electronic neuronic model,hippocampal LTP process,post synaptic potentials,synaptic-synaptic interaction equations,dual coding theory,mossy fiber synaptic glomerulus,geometrical mapping,multidimensional unitron,computation energy distribution,dynamic loci,memory retrieval process
+
+
+
+
+Dynamical process of learning chaotic time series by neural networks
+
+We report the result of computer simulations on the learning process of temporal series by artificial neural networks. In our simulation, we used a feedforward neural network model with 4-layers to study the capability and dynamical learning process of chaotic time series produced by triangular maps. We found a critical time (t/sub cr/) at which the learning process proceeds abruptly. We also found that the critical time (t/sub cr/) is shorter, the larger the initial deviation from the target of learning. We provide detailed discussion about the learning process to explain these interesting phenomena, and a new order parameter coherency is introduced to characterize these processes.
+
+
+Chaos,Neural networks,Artificial neural networks,Chaotic communication,Computer simulation,Computational modeling,Feedforward neural networks,Recurrent neural networks,Limit-cycles,Logistics
+
+
+feedforward neural nets,chaos,learning (artificial intelligence),time series
+
+
+chaos,chaotic time series,feedforward neural network,temporal series,dynamical learning process,triangular maps,critical time,order parameter coherency
+
+
+
+
+A hybrid neural network using fuzzy reference points as hidden units
+
+In this paper, a hybrid multilayer feedforward neural network in which hidden units are defined as fuzzy reference points, and a general feedback learning method are presented. This model has been used in a DSS. Results of an experiment on process identification are given. The proposed model is able to overcome some limitations of conventional multilayer feedforward neural networks applied in expert systems.
+
+
+Neural networks,Fuzzy neural networks,Multi-layer neural network,Feedforward neural networks,Neurofeedback,Decision support systems,Expert systems,Fuzzy sets,Power generation economics,Systems engineering and theory
+
+
+feedforward neural nets,multilayer perceptrons,feedback,learning (artificial intelligence),fuzzy logic,identification
+
+
+fuzzy reference points,hidden units,hybrid multilayer feedforward neural network,general feedback learning method,DSS,process identification,expert systems
+
+
+
+
+Weighting function in neural network
+
+The recurrent correlation neural networks have high-capacity associative memory when the weighting function satisfies certain condition. But this always causes the high dynamics in the neural network and the hardware realization is difficult. This paper gives the relationship between the capacity and dynamics and provides a general principle for the choice of the weighting function and give a kind of weighting function. It has high-capacity and avoids the high dynamics. Finally, the simulated results are given.
+
+
+Intelligent networks,Neural networks,Biological neural networks,Equations,Tellurium,Recurrent neural networks,Neural network hardware,Neurons,Identity-based encryption,State estimation
+
+
+recurrent neural nets,correlation theory,content-addressable storage
+
+
+weighting function,recurrent correlation neural networks,high-capacity associative memory
+
+
+
+
+Neurite Networks: the genetic programming of cellular automata based neural nets which GROW
+
+This paper proposes a new branch of neural networks, called "neurite networks", it is a neural network that grows, i.e. it has an embryological component. The artificial neurite network introduced is based on a cellular automata (CA) network whose branchings are genetically programmed (i.e. they are grown under the control of a genetic algorithm). A sequence of CA signals is sent down the middle of a CA "trail". When a signal hits the end of a trail, it can make the trail extend, turn left, turn right, branch left, branch right, split, etc., depending upon the state of the CA signal. These signal sequences are treated as the chromosomes of a genetic algorithm. Once the CA network is formed, a second set of CA state transition rules is switched on to make it behave like a neural network. The fitness of this CA based neural network is measured in terms of how well it controls some behavior of a biological robot.
+
+
+Genetic programming,Cellular neural networks,Neural networks,Artificial neural networks,Genetic algorithms,Embryo,Automatic control,Biological cells,Biological control systems,Robots
+
+
+genetic algorithms,cellular automata,programming,cellular neural nets
+
+
+neurite networks,genetic programming,cellular automata,neural nets,genetic algorithms,GenNets,Darwin machines
+
+
+
+
+A filter neural network
+
+This paper proposes to add a filter layer to a dot product matching neural network. The purpose of the filter layer is to discard those unfavourable choices by checking the lower and upper bounds of each exemplar with the test pattern. The product is a supervised, fast learning filter neural network. It has a better generalisation capability than an ordinary dot product matching neural network. The new neural network is tested for speaker-independent spoken number (in English) recognition. An accuracy of 96.5% is reported for the test data. Without the filter layer, the recognition rate falls to 94.0%.
+
+
+Neural networks,Testing,Filtering,Matched filters,Upper bound,Feeds,Feedforward neural networks,Pattern recognition,Energy states,Pattern matching
+
+
+learning (artificial intelligence),generalisation (artificial intelligence),feedforward neural nets,pattern classification,speech recognition,filtering theory
+
+
+filter neural network,dot product matching neural network,test pattern,supervised fast learning filter neural network,generalisation capability,speaker-independent spoken number recognition,recognition rate
+
+
+
+
+Digital architecture for neural networks
+
+Discussing a new architecture for high performance computers based on transputers and dedicated VLSI. The author proposes a new general purpose custom-made digital neurochip for flexible implementation multilayer neural networks with programmable bits weights and inputs signals. The neuroTRAM consists of transputers, memory and neurochips for neurocomputer implementation.
+
+
+Neural networks,Multi-layer neural network,Computer architecture,Very large scale integration,Signal processing,Neurons,High performance computing,Kernel,Signal processing algorithms,Application software
+
+
+neural net architecture,parallel architectures,transputers,neural chips,VLSI,feedforward neural nets
+
+
+digital architecture,neuroboard,transputers,dedicated VLSI,digital neurochip,multilayer neural networks,programmable bits weights,neurochips,neurocomputer
+
+
+
+
+A genetic method for optimization of asynchronous random neural networks and its application to action control
+
+A genetic method is proposed to optimize random neural networks composed of asynchronous thresholding neural units. Each unit belongs to one of three categories, input units, hidden units and output units, and any kinds of connections among units including feedforward, feedback and mutual connections are allowable except connections to input units. Several virtual living things whose genotype are the connections among neural units are randomly generated, and generation iteration is repeated in order to optimize them. In the generation iteration, individuals adequate to a given problem make their children and inferior ones are removed from the population. Optimized neural networks are obtained as evolved individuals. An action control problem for a computer game is treated as an application of this method.
+
+
+Optimization methods,Neural networks,Biological neural networks,Application software,Genetic engineering,Laboratories,Output feedback,Neurofeedback,Feedforward neural networks,Learning systems
+
+
+neural nets,genetic algorithms,computer games
+
+
+genetic method,asynchronous random neural networks,action control,asynchronous thresholding neural units,input units,hidden units,output units,feedforward,feedback,mutual connections,virtual living things,generation iteration,computer game
+
+
+
+
