@@ -108,3 +108,23 @@ function()
 
 	return 1;
 }();
+
+
+var fun=function(data){
+	var file = new Blob([data], {type: "utf-8"});
+    if (window.navigator.msSaveOrOpenBlob) // IE10+
+        window.navigator.msSaveOrOpenBlob(file, "project_abstracts_ml_.txt");
+    else { // Others
+        var a = document.createElement("a"),
+                url = URL.createObjectURL(file);
+        a.href = url;
+        a.download = "project_abstracts_ml_.txt";
+        document.body.appendChild(a);
+        a.click();
+        setTimeout(function() {
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
+        }, 0);
+    }
+
+}

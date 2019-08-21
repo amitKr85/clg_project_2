@@ -11,30 +11,30 @@ def extended_sma(pref_1, pref_2):
 
         # for each hospital
         for h, pref in pref_1.items():
-            # print("for h=",h)
+            print("for h=",h)
             # for each resident in pref.
             for r in pref:
                 # if already paired with ith hospital
-                # print("for r=",r)
+                print("for r=",r)
                 if (h, r) in pairs:
-                    # print("already found!")
+                    print("already found!")
                     continue
                 elif r in res_partner:
-                    # print("pair found n breaking")
+                    print("pair found n breaking")
                     pairs.remove((res_partner[r], r))
                     res_partner.pop(r)
                     res_count_in_pref += 1
-                # print("paired",(h,r))
+                print("paired",(h,r))
                 pairs.append((h, r))
                 res_partner[r] = h
                 res_count_in_pref -= 1
 
                 # for each successor h_ of h in r's pref. remove h_ and r from each other
                 # using index from h+1 to end of r's pref
-                # print("h found in r's pref. at ",pref_2[r].index(h),"len of r's pref. is",len(pref_2[r]))
+                print("h found in r's pref. at ",pref_2[r].index(h),"len of r's pref. is",len(pref_2[r]))
                 hpos = pref_2[r].index(h)
                 for h_i in range(hpos + 1, len(pref_2[r])):
-                    # print("removing h_(s) n r h_=",pref_2[r][hpos+1],"h_i=",h_i,"pref.=",pref_2[r])
+                    print("removing h_(s) n r h_=",pref_2[r][hpos+1],"h_i=",h_i,"pref.=",pref_2[r])
                     # removing r from h_'s pref
                     pref_1[pref_2[r][hpos + 1]].remove(r)
                     res_count_in_pref -= 1
@@ -44,3 +44,21 @@ def extended_sma(pref_1, pref_2):
                 break
 
     return pairs
+
+
+if __name__ == "__main__":
+    pref__2 = {0:[0, 1, 3, 2],
+               1:[2, 1, 0, 3],
+               2:[2, 1, 0, 3],
+               3:[2, 1, 0, 3],
+               4:[2, 1, 0, 3],
+               5:[2, 1, 3, 0],
+               6:[2, 1, 0, 3]
+               }
+
+    pref__1 = {0:[6, 2, 3, 4, 1, 5, 0],
+               1:[3, 6, 4, 2, 1, 5, 0],
+               2:[6, 3, 4, 2, 1, 5, 0],
+               3:[6, 3, 4, 2, 5, 1, 0]
+               }
+    print(extended_sma(pref__1,pref__2))

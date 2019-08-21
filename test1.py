@@ -26,7 +26,7 @@ def allletter(s,str):
 str="qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM "
 
 
-skill_set_file = open("pickled_data/all_skill_set.pickle","rb")
+skill_set_file = open("pickled_data/final_skill_dict_2.pickle","rb")
 # skill_set is a set() containing skills from linkedIn and wiki
 counter =0
 skill_set = pickle.load(skill_set_file)

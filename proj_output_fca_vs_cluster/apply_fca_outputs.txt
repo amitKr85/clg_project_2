@@ -1,0 +1,222 @@
+abstract concepts:
+c0 = () > ('data integration', 'frequent patterns', 'supervised learning', 'neural chips', 'core memory', 'manufacturing systems', 'time management', 'core management skills', 'entrepreneurial skills', 'communication skills')
+c1 = ('project1',) > ('supervised learning', 'neural chips', 'core management skills', 'communication skills')
+c2 = ('project2',) > ('data integration', 'time management', 'entrepreneurial skills')
+c3 = ('project4',) > ('core management skills', 'entrepreneurial skills')
+c4 = ('project5',) > ('manufacturing systems', 'communication skills')
+c5 = ('project6',) > ('frequent patterns', 'time management')
+c6 = ('project7',) > ('data integration', 'neural chips', 'entrepreneurial skills', 'communication skills')
+c7 = ('project10',) > ('data integration', 'supervised learning', 'core memory', 'time management', 'core management skills', 'communication skills')
+c8 = ('project1', 'project7') > ('neural chips', 'communication skills')
+c9 = ('project1', 'project10') > ('supervised learning', 'core management skills', 'communication skills')
+c10 = ('project2', 'project7') > ('data integration', 'entrepreneurial skills')
+c11 = ('project2', 'project10') > ('data integration', 'time management')
+c12 = ('project3', 'project10') > ('data integration', 'supervised learning', 'core memory')
+c13 = ('project5', 'project9') > ('manufacturing systems',)
+c14 = ('project7', 'project10') > ('data integration', 'communication skills')
+c15 = ('project1', 'project3', 'project10') > ('supervised learning',)
+c16 = ('project1', 'project4', 'project10') > ('core management skills',)
+c17 = ('project2', 'project4', 'project7') > ('entrepreneurial skills',)
+c18 = ('project1', 'project5', 'project7', 'project10') > ('communication skills',)
+c19 = ('project2', 'project3', 'project7', 'project10') > ('data integration',)
+c20 = ('project2', 'project6', 'project8', 'project10') > ('time management',)
+c21 = ('project1', 'project2', 'project3', 'project4', 'project5', 'project6', 'project7', 'project8', 'project9', 'project10') > ()
+abstract concept matrix
+[0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+[1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+[1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+[0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+[1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+[1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+[1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1]
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1]
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1]
+
+student concepts:
+c0 = () > ('data integration', 'frequent patterns', 'supervised learning', 'neural chips', 'core memory', 'manufacturing systems', 'time management', 'core management skills', 'entrepreneurial skills', 'communication skills')
+c1 = ('student1',) > ('frequent patterns', 'supervised learning', 'manufacturing systems', 'core management skills', 'communication skills')
+c2 = ('student3',) > ('frequent patterns', 'entrepreneurial skills', 'communication skills')
+c3 = ('student5',) > ('data integration', 'frequent patterns', 'core memory', 'manufacturing systems', 'communication skills')
+c4 = ('student6',) > ('core memory', 'time management')
+c5 = ('student8',) > ('data integration', 'supervised learning')
+c6 = ('student1', 'student5') > ('frequent patterns', 'manufacturing systems', 'communication skills')
+c7 = ('student1', 'student10') > ('supervised learning', 'core management skills', 'communication skills')
+c8 = ('student5', 'student6') > ('core memory',)
+c9 = ('student6', 'student9') > ('time management',)
+c10 = ('student1', 'student3', 'student5') > ('frequent patterns', 'communication skills')
+c11 = ('student1', 'student7', 'student10') > ('core management skills',)
+c12 = ('student2', 'student5', 'student8') > ('data integration',)
+c13 = ('student1', 'student3', 'student5', 'student10') > ('communication skills',)
+c14 = ('student1', 'student4', 'student8', 'student10') > ('supervised learning',)
+c15 = ('student1', 'student2', 'student3', 'student4', 'student5', 'student6', 'student7', 'student8', 'student9', 'student10') > ()
+student concept matrix
+[0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+[1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+[1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+[0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+[0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1]
+[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1]
+[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1]
+
+aff matrix : project-concepts vs student-concepts:
+  4| -6|  0|  4|  0| -4|  0|  0|  6| -4| -4| -2|  2|  0|  2|  2| -2|  2| -2| -2|
+  0|  2|  4|  4|  4|  4| -4|  4|  2|  4|  0| -2|  2|  4|  2|  2|  6|  6|  2|  2|
+ -4| -2| -4|  4|  0|  0|  0|  0| -2|  0|  0|  2|  2|  4| -2| -2| -2|  2|  2| -2|
+ -2|  4|  2|  2|  6| -2|  2|  2|  0|  2|  6|  4|  4|  2|  4|  4|  4|  4|  4|  8|
+  2|  4|  2|  2|  2|  2|  2|  2|  4|  6|  6|  8|  4|  6|  8|  4|  4|  4|  8|  4|
+  0| -2|  0|  8|  4|  0| -4|  4|  2|  0|  0| -2|  6|  4|  2|  2|  2|  6|  2|  2|
+  8| -2|  4|  4|  0|  0|  4|  4| 10|  0|  0|  2|  2|  4|  6|  6|  2|  6|  2|  2|
+  0|  2|  4|  4|  4|  0|  0|  4|  2|  4|  4|  6|  6|  4|  6|  6|  6|  6|  6|  6|
+  0|  6|  4|  4|  8|  0|  0|  4|  2|  4|  8|  2|  6|  4|  6|  6|  6|  6|  6| 10|
+  2|  0|  2|  6|  6|  2| -2|  6|  4|  2|  2|  0|  4|  6|  4|  4|  4|  8|  4|  4|
+  4|  2|  8|  4|  4|  0|  0|  4|  6|  4|  4|  2|  6|  4|  6| 10|  6|  6|  6|  6|
+  0|  6|  4|  4|  4|  4|  0|  4|  2|  8|  8|  6|  6|  8|  6|  6|  6|  6| 10|  6|
+  4|  2|  4|  8|  4|  4|  0|  8|  6|  4|  4|  2|  6|  8|  6|  6|  6| 10|  6|  6|
+  4|  2|  4|  4|  4|  0|  0|  4|  6|  4|  4|  6|  6|  4| 10|  6|  6|  6|  6|  6|
+  
+ ---------------------------------------------------------------------------
+student preferences
+0 [8, 0, 3, 12, 14, 15, 17, 2, 4, 6, 7, 13, 11, 16, 18, 19, 5, 9, 10, 1]
+1 [16, 17, 2, 3, 4, 5, 7, 9, 13, 1, 8, 12, 14, 15, 18, 19, 0, 10, 11, 6]
+2 [3, 13, 11, 12, 17, 18, 4, 5, 6, 7, 9, 10, 1, 8, 14, 15, 16, 19, 0, 2]
+3 [19, 4, 10, 1, 11, 12, 14, 15, 16, 17, 18, 2, 3, 6, 7, 9, 13, 8, 0, 5]
+4 [11, 14, 18, 9, 10, 13, 1, 8, 12, 15, 16, 17, 19, 0, 2, 3, 4, 5, 6, 7]
+5 [3, 12, 17, 4, 7, 13, 8, 14, 15, 16, 18, 19, 0, 2, 5, 9, 10, 1, 11, 6]
+6 [8, 0, 14, 15, 17, 2, 3, 6, 7, 13, 11, 12, 16, 18, 19, 4, 5, 9, 10, 1]
+7 [11, 12, 14, 15, 16, 17, 18, 19, 2, 3, 4, 7, 9, 10, 13, 1, 8, 0, 5, 6]
+8 [19, 4, 10, 1, 12, 14, 15, 16, 17, 18, 2, 3, 7, 9, 13, 8, 11, 0, 5, 6]
+9 [17, 3, 4, 7, 13, 8, 12, 14, 15, 16, 18, 19, 0, 2, 5, 9, 10, 1, 11, 6]
+10 [15, 2, 8, 12, 14, 16, 17, 18, 19, 0, 3, 4, 7, 9, 10, 13, 1, 11, 5, 6]
+11 [18, 9, 10, 13, 1, 11, 12, 14, 15, 16, 17, 19, 2, 3, 4, 5, 7, 8, 0, 6]
+12 [17, 3, 7, 13, 8, 12, 14, 15, 16, 18, 19, 0, 2, 4, 5, 9, 10, 1, 11, 6]
+13 [14, 8, 11, 12, 15, 16, 17, 18, 19, 0, 2, 3, 4, 7, 9, 10, 13, 1, 5, 6]
+project preferences
+0 [6, 0, 10, 12, 13, 4, 9, 1, 5, 7, 8, 11, 3, 2]
+1 [8, 11, 3, 4, 1, 7, 10, 12, 13, 9, 2, 5, 6, 0]
+2 [10, 1, 6, 7, 8, 11, 12, 13, 3, 4, 9, 0, 5, 2]
+3 [5, 12, 9, 0, 1, 2, 6, 7, 8, 10, 11, 13, 3, 4]
+4 [8, 3, 9, 1, 5, 7, 10, 11, 12, 13, 4, 0, 2, 6]
+5 [1, 11, 12, 4, 9, 2, 5, 6, 7, 8, 10, 13, 3, 0]
+6 [6, 3, 4, 0, 2, 7, 8, 10, 11, 12, 13, 9, 1, 5]
+7 [12, 9, 1, 5, 6, 7, 8, 10, 11, 13, 3, 4, 0, 2]
+8 [6, 0, 10, 12, 13, 4, 9, 1, 5, 7, 8, 11, 3, 2]
+9 [11, 4, 1, 7, 8, 10, 12, 13, 3, 9, 2, 5, 6, 0]
+10 [8, 11, 3, 4, 7, 10, 12, 13, 9, 1, 2, 5, 6, 0]
+11 [4, 7, 11, 13, 3, 2, 6, 8, 10, 12, 9, 0, 1, 5]
+12 [5, 7, 8, 10, 11, 12, 13, 3, 4, 9, 0, 1, 2, 6]
+13 [11, 12, 4, 9, 1, 2, 5, 6, 7, 8, 10, 13, 3, 0]
+14 [13, 4, 6, 7, 8, 10, 11, 12, 3, 9, 0, 1, 5, 2]
+15 [10, 6, 7, 8, 11, 12, 13, 3, 4, 9, 0, 1, 5, 2]
+16 [1, 7, 8, 10, 11, 12, 13, 3, 4, 9, 5, 6, 0, 2]
+17 [12, 9, 1, 5, 6, 7, 8, 10, 11, 13, 3, 4, 0, 2]
+18 [11, 4, 7, 8, 10, 12, 13, 3, 9, 1, 2, 5, 6, 0]
+19 [8, 3, 7, 10, 11, 12, 13, 4, 9, 1, 5, 6, 0, 2]
+
+---------------------------------------------------------------------------
+task_concept-student_concept pairs
+[(3, 5), (8, 6), (11, 4), (14, 13), (15, 10), (16, 1), (17, 12), (18, 11), (19, 8), (8, 0), (11, 7), (17, 9), (19, 3), (3, 2)]
+for pair ( 3 , 5 )
+stable percentage: 0.6666666666666666
+for pair ( 8 , 6 )
+stable percentage: 1.0
+for pair ( 11 , 4 )
+stable percentage: 0.6666666666666666
+for pair ( 14 , 13 )
+stable percentage: 1.0
+for pair ( 15 , 10 )
+stable percentage: 1.0
+for pair ( 16 , 1 )
+stable percentage: 0.3333333333333333
+for pair ( 17 , 12 )
+stable percentage: 1.0
+for pair ( 18 , 11 )
+stable percentage: 1.0
+for pair ( 19 , 8 )
+stable percentage: 1.0
+for pair ( 8 , 0 )
+stable percentage: 0.6
+for pair ( 11 , 7 )
+stable percentage: 0.3333333333333333
+for pair ( 17 , 9 )
+stable percentage: 0.5
+for pair ( 19 , 3 )
+stable percentage: 0.5
+for pair ( 3 , 2 )
+stable percentage: 0.4
+---------------------------------------------------------------------------
+average stable percentage: 0.7142857142857143
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+project part ....
+p0 ( 7 , 0.8 ) >{s0,s2,s3,s4,s6,s7,s9,}
+p1 ( 6 , 1.0 ) >{s1,s2,s4,s5,s7,s8,}
+p2 ( 7 , 1.0 ) >{s0,s1,s3,s4,s5,s7,s9,}
+p3 ( 4 , 1.0 ) >{s0,s9,s2,s6,}
+p4 ( 4 , 1.0 ) >{s0,s9,s2,s4,}
+p5 ( 2 , 0.5 ) >{s8,s5,}
+p6 ( 6 , 0.8 ) >{s0,s1,s2,s4,s7,s9,}
+p7 ( 2 , 1.0 ) >{s8,s5,}
+p8 ( 0 , 0.0 ) >{}
+p9 ( 10 , 1.0 ) >{s0,s1,s2,s3,s4,s5,s6,s7,s8,s9,}
+percentage of skill covered: 0.80
+---------------------------------------------------------------------------
+student part ....
+s0 ( 6 , 0.8 ) >{p0,p2,p3,p4,p6,p9,}
+s1 ( 4 , 1.0 ) >{p1,p2,p6,p9,}
+s2 ( 6 , 0.7 ) >{p0,p1,p3,p4,p6,p9,}
+s3 ( 3 , 1.0 ) >{p0,p9,p2,}
+s4 ( 6 , 0.8 ) >{p0,p1,p2,p4,p6,p9,}
+s5 ( 5 , 1.0 ) >{p1,p2,p5,p7,p9,}
+s6 ( 3 , 1.0 ) >{p0,p9,p3,}
+s7 ( 5 , 1.0 ) >{p0,p1,p2,p6,p9,}
+s8 ( 4 , 1.0 ) >{p1,p5,p9,p7,}
+s9 ( 6 , 1.0 ) >{p0,p2,p3,p4,p6,p9,}
+percentage of skill utilized: 0.93
+
+after limiting projects
+---------------------------------------------------------------------------
+project part ....
+p0 ( 1 , 0.8 ) >{s9,}
+p1 ( 1 , 0.3 ) >{s1,}
+p2 ( 3 , 1.0 ) >{s1,s3,s5,}
+p3 ( 2 , 1.0 ) >{s2,s6,}
+p4 ( 1 , 1.0 ) >{s4,}
+p5 ( 1 , 0.5 ) >{s8,}
+p6 ( 3 , 0.8 ) >{s0,s2,s7,}
+p7 ( 1 , 1.0 ) >{s8,}
+p8 ( 0 , 0.0 ) >{}
+p9 ( 7 , 1.0 ) >{s0,s3,s4,s5,s6,s7,s9,}
+percentage of skill covered: 0.73
+---------------------------------------------------------------------------
+student part ....
+s0 ( 2 , 0.6 ) >{p6,p9,}
+s1 ( 2 , 1.0 ) >{p1,p2,}
+s2 ( 2 , 0.7 ) >{p3,p6,}
+s3 ( 2 , 1.0 ) >{p9,p2,}
+s4 ( 2 , 0.8 ) >{p4,p9,}
+s5 ( 2 , 1.0 ) >{p2,p9,}
+s6 ( 2 , 1.0 ) >{p9,p3,}
+s7 ( 2 , 1.0 ) >{p6,p9,}
+s8 ( 2 , 1.0 ) >{p5,p7,}
+s9 ( 2 , 1.0 ) >{p0,p9,}
+percentage of skill utilized: 0.91
+

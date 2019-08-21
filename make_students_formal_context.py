@@ -2,17 +2,17 @@ import random
 import pickle
 import csv
 
-csvfile = open("test_files/student_formal_context_350.csv","w",encoding="utf-8",newline="")
+csvfile = open("testing/student_formal_context_4.csv","w",encoding="utf-8",newline="")
 csvwriter = csv.writer(csvfile)
 
 # table = list()
-pick_file = open("pickled_data/tech_skills.pickle","rb")
+pick_file = open("testing/all_skills.pickle","rb")
 skills = list(pickle.load(pick_file))
 pick_file.close()
 
 col = len(skills)
 # col_headers = [str(i) for i in range(col)]
-no_of_students = 350
+no_of_students = 4
 
 # for i in range(no_of_students):
 #     val = random.randint(1, 2**col-1)
@@ -31,7 +31,7 @@ for i in range(no_of_students):
     row = list()
     row.append("student" + str(i + 1))
     for j in range(col):
-        row.append("X" if random.randint(0,10000) > 9900 else "")
+        row.append("X" if random.random() > 0.99 else "")
     # if random.randint(0,10) > 5:
     #     row.append("student"+str(i+1))
     #     total_skill = random.randint(1,10)

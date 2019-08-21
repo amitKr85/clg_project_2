@@ -1,0 +1,53 @@
+// <Lattice object of 5 atoms 14 concepts 4 coatoms at 0x1f9d0b1df60>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c1
+	c1 -> c1 [color=transparent headlabel=student1 labelangle=270]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel=student2 labelangle=270]
+	c2 -> c0
+	c3
+	c3 -> c3 [color=transparent headlabel=student3 labelangle=270]
+	c3 -> c0
+	c4
+	c4 -> c4 [color=transparent headlabel=student4 labelangle=270]
+	c4 -> c0
+	c5
+	c5 -> c5 [color=transparent headlabel=student5 labelangle=270]
+	c5 -> c0
+	c6
+	c6 -> c1
+	c6 -> c3
+	c7
+	c7 -> c1
+	c7 -> c5
+	c8
+	c8 -> c8 [color=transparent labelangle=90 taillabel="supervised learning"]
+	c8 -> c2
+	c8 -> c4
+	c9
+	c9 -> c9 [color=transparent labelangle=90 taillabel="neural chips"]
+	c9 -> c3
+	c9 -> c5
+	c10
+	c10 -> c10 [color=transparent labelangle=90 taillabel="frequent patterns"]
+	c10 -> c2
+	c10 -> c7
+	c11
+	c11 -> c11 [color=transparent labelangle=90 taillabel="data integration"]
+	c11 -> c4
+	c11 -> c6
+	c12
+	c12 -> c12 [color=transparent labelangle=90 taillabel="core memory"]
+	c12 -> c6
+	c12 -> c7
+	c12 -> c9
+	c13
+	c13 -> c8
+	c13 -> c10
+	c13 -> c11
+	c13 -> c12
+}

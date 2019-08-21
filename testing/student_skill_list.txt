@@ -1,0 +1,83 @@
+for student 0
+gradient based learning algorithms
+distributed environment
+Nonlinear systems 
+graphical user interfaces
+ Sensitivity 
+Information processing
+data interoperability
+biomedical education
+Field programmable gate arrays
+case-based reasoning
+analogue processing circuits
+deep neural network training
+machine learning strategies
+metric space
+cluster mining
+wavelet coefficients
+ Context modeling 
+
+for student 1
+SSD cache
+Social network services
+record processing
+CA problem
+Image sampling
+deep knowledge learning
+ Data analysis 
+Big Data processing
+Convolutional codes
+Lagrangian functions
+hardware implementation
+ Least squares methods 
+dataset query
+
+for student 2
+qualitative attribute
+medical diagnostics
+radial basis function network structure
+Big data
+medical information systems
+﻿Sparks
+DSS
+Redundancy
+computer centres
+ Computer science 
+online machine learning algorithms
+graph-based unsupervised machine learning methods
+multilayer perceptron structure
+mean absolute percentage error
+Multi-agent systems
+WUC
+neocortical network
+algebra
+Training data
+Artificial neural networks
+road accidents
+Time factors
+Estimation
+
+for student 3
+aerospace control
+high-capacity associative memory
+
+classifier training
+LSTM based model
+Feature extraction
+Tools
+cache storage
+uncertain data
+
+computer centres
+data usability
+﻿cognitive systems
+PageRank
+game AI domain
+word segmentation
+Filtering
+switched capacitor networks
+theoretical analysis
+SARSA learning
+ordinary least squares algorithm
+Data Locality
+Feedforward neural nets

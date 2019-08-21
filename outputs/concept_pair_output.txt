@@ -1,0 +1,697 @@
+---------------------------------------------------------------------------
+average stable percentage: 0.04589409957645074
+---------------------------------------------------------------------------
+spatiotemporal data | neural architectures | abstract55 |  > spatiotemporal data | student16 | student23 | 
+database | abstract1 | abstract16 |  > noise measurement | student1 | student9 | 
+mean square error methods | abstract1 | abstract76 |  > optimal kernel function | mean square error methods | student8 | student87 | 
+matched filters | algorithm design and analysis | abstract9 | abstract45 |  > matched filters | student26 | student51 | 
+digital architecture | abstract10 | abstract51 |  > digital architecture | student16 | student56 | 
+effectiveness | force | abstract13 | abstract51 |  > force | student27 | student88 | 
+gas turbines | abstract15 | abstract71 |  > gas turbines | student24 | student74 | 
+prototype | customer relationship management | abstract16 | abstract51 |  > prototype | student48 | student64 | 
+fuzzy logic | abstract19 | abstract50 |  > fuzzy logic | student3 | student12 | student95 | 
+software prototyping | dcnn | abstract30 | abstract33 |  > software prototyping | student47 | student89 | 
+portfolio | deep learning algorithm | abstract65 | abstract66 |  > portfolio | student60 | student65 | 
+trajectory | abstract10 | abstract13 | abstract78 |  > trajectory | student40 | student98 | 
+coordinated behaviors | abstract15 | abstract63 | abstract74 |  > coordinated behaviors | student16 | student87 | 
+field programmable neural arrays | observatory | abstract19 | abstract44 | abstract49 |  > field programmable neural arrays | student27 | student64 | student92 | 
+standard backpropagation | abstract28 | abstract68 | abstract73 |  > standard backpropagation | student41 | student58 | 
+knee surgeries | deep learning algorithm | abstract58 | abstract62 | abstract72 |  > knee surgeries | student52 | student74 | 
+instrument | deep learning algorithm | abstract70 | abstract73 | abstract76 |  > instrument | student25 | student39 | 
+wavelength division multiplexing | abstract9 | abstract13 | abstract16 | abstract33 |  > wavelength division multiplexing | student6 | student19 | 
+big social data | abstract13 | abstract32 | abstract37 | abstract43 |  > big social data | student2 | student16 | 
+decision making | deep learning algorithm | abstract58 | abstract64 | abstract67 | abstract73 |  > decision making | student43 | student55 | student94 | 
+auto-associative memory | abstract2 | abstract3 | abstract12 | abstract19 | abstract36 |  > auto-associative memory | student48 | student57 | 
+dcnn | deep learning research | abstract22 | abstract28 | abstract37 | abstract42 | abstract43 |  > deep learning research | student22 | student54 | 
+recurrent neural networks | abstract4 | abstract14 | abstract62 | abstract63 | abstract65 | abstract73 | abstract74 | abstract77 |  > recurrent neural networks | student11 | student29 | 
+deep reinforcement learning algorithm | abstract14 | abstract20 | abstract61 | abstract69 | abstract70 | abstract71 | abstract72 | abstract76 |  > deep reinforcement learning algorithm | student2 | student87 | 
+deep learning algorithm | abstract28 | abstract31 | abstract41 | abstract56 | abstract58 | abstract59 | abstract60 | abstract61 | abstract62 | abstract63 | abstract64 | abstract65 | abstract66 | abstract67 | abstract69 | abstract70 | abstract71 | abstract72 | abstract73 | abstract74 | abstract75 | abstract76 | abstract77 |  > deep learning algorithm | student25 | student49 | 
+dcnn | abstract4 | abstract7 | abstract8 | abstract11 | abstract14 | abstract15 | abstract20 | abstract21 | abstract22 | abstract23 | abstract24 | abstract26 | abstract28 | abstract29 | abstract30 | abstract31 | abstract32 | abstract33 | abstract34 | abstract35 | abstract37 | abstract38 | abstract39 | abstract40 | abstract42 | abstract43 | abstract46 | abstract51 | abstract53 | abstract56 | abstract57 | abstract68 | abstract76 | abstract78 |  > dcnn | student12 | student70 | student89 | 
+database | abstract1 | abstract16 |  > high fidelity inference capability | student1 | student32 | 
+decision making | deep learning algorithm | abstract58 | abstract64 | abstract67 | abstract73 |  > decision making | data preprocessing | student55 | student94 | 
+database | abstract1 | abstract16 |  > convolution | student1 | student63 | 
+database | abstract1 | abstract16 |  > big data processing | student1 | student89 | 
+database | abstract1 | abstract16 |  > search space reduction | student1 | student91 | 
+database | abstract1 | abstract16 |  > pattern discovery | student1 | student96 | 
+database | abstract1 | abstract16 |  > classification tree analysis | student2 | student6 | 
+database | abstract1 | abstract16 |  > fpna | student2 | student14 | 
+database | abstract1 | abstract16 |  > fuzzy neural network | student2 | student37 | 
+database | abstract1 | abstract16 |  > modelling | student2 | student68 | 
+database | abstract1 | abstract16 |  > stock markets | student3 | student32 | 
+database | abstract1 | abstract16 |  > resource and job management system | student3 | student68 | 
+database | abstract1 | abstract16 |  > business data | student3 | student89 | 
+database | abstract1 | abstract16 |  > datamining | student4 | student8 | 
+database | abstract1 | abstract16 |  > numerical simulation | student4 | student29 | 
+database | abstract1 | abstract16 |  > live data massive streaming | student4 | student70 | 
+database | abstract1 | abstract16 |  > hepatitis disease diagnosis | student4 | student84 | 
+database | abstract1 | abstract16 |  > supervised deep learning framework | student5 | student6 | 
+database | abstract1 | abstract16 |  > online data | student5 | student11 | 
+database | abstract1 | abstract16 |  > crossbreed genetic algorithm | student5 | student19 | 
+database | abstract1 | abstract16 |  > file systems | student5 | student38 | 
+database | abstract1 | abstract16 |  > semantic technologies | student5 | student44 | 
+database | abstract1 | abstract16 |  > data archive | student5 | student47 | 
+database | abstract1 | abstract16 |  > data quality dimension | student5 | student63 | 
+database | abstract1 | abstract16 |  > analogue processing circuits | student6 | student23 | 
+database | abstract1 | abstract16 |  > boolean factor analysis | student6 | student30 | 
+database | abstract1 | abstract16 |  > arthritis | student6 | student58 | 
+database | abstract1 | abstract16 |  > big data quality | student6 | student84 | 
+database | abstract1 | abstract16 |  > infinity norm | student6 | student97 | 
+database | abstract1 | abstract16 |  > multiplying circuits | student7 | student48 | 
+database | abstract1 | abstract16 |  > insurance | student7 | student66 | 
+database | abstract1 | abstract16 |  > computer resource | student8 | student17 | 
+database | abstract1 | abstract16 |  > groupware | student8 | student33 | 
+database | abstract1 | abstract16 |  > discrete hopfield neural network | student8 | student37 | 
+database | abstract1 | abstract16 |  > production engineering computing | student8 | student41 | 
+database | abstract1 | abstract16 |  > myo armband | student8 | student53 | 
+database | abstract1 | abstract16 |  > stock market forecasting | student8 | student65 | 
+database | abstract1 | abstract16 |  > subthreshold mos | student8 | student75 | 
+database | abstract1 | abstract16 |  > social media big data | student8 | student95 | 
+database | abstract1 | abstract16 |  > deeprt | student9 | student11 | 
+database | abstract1 | abstract16 |  > fast learning | student9 | student21 | 
+database | abstract1 | abstract16 |  > cnn | student9 | student55 | 
+database | abstract1 | abstract16 |  > deep q-learning network algorithm | student9 | student64 | 
+database | abstract1 | abstract16 |  > compensator | student9 | student80 | 
+database | abstract1 | abstract16 |  > computer game | student9 | student92 | 
+database | abstract1 | abstract16 |  > dispatching | student10 | student16 | 
+database | abstract1 | abstract16 |  > company | student10 | student28 | 
+database | abstract1 | abstract16 |  > ethic | student10 | student38 | 
+database | abstract1 | abstract16 |  > output units | student10 | student52 | 
+database | abstract1 | abstract16 |  > recurrent neural nets | student11 | student35 | 
+database | abstract1 | abstract16 |  > kernel function | student11 | student57 | 
+database | abstract1 | abstract16 |  > filtering | student11 | student80 | 
+database | abstract1 | abstract16 |  > shuffling method | student11 | student93 | 
+database | abstract1 | abstract16 |  > flash-based capacitor | student11 | student100 | 
+database | abstract1 | abstract16 |  > fuzzy neural nets | student12 | student13 | 
+database | abstract1 | abstract16 |  > open source framework | student12 | student21 | 
+database | abstract1 | abstract16 |  > hardware implementation | student12 | student39 | 
+database | abstract1 | abstract16 |  > machine learning classification techniques | student12 | student43 | 
+database | abstract1 | abstract16 |  > highly efficient deep learning inference mechanisms | student12 | student49 | 
+database | abstract1 | abstract16 |  > arm data center | student12 | student53 | 
+database | abstract1 | abstract16 |  > fault diagnosis | student12 | student56 | 
+database | abstract1 | abstract16 |  > disc drives | student12 | student83 | 
+database | abstract1 | abstract16 |  > domain model | student12 | student99 | 
+database | abstract1 | abstract16 |  > actuator | student13 | student48 | 
+database | abstract1 | abstract16 |  > logic circuits | student13 | student69 | 
+database | abstract1 | abstract16 |  > cased based reasoning | student13 | student78 | 
+database | abstract1 | abstract16 |  > solid state disk | student13 | student89 | 
+database | abstract1 | abstract16 |  > data analytics process | student14 | student21 | 
+database | abstract1 | abstract16 |  > three layer feedforward network | student14 | student27 | 
+database | abstract1 | abstract16 |  > neuroboard | student15 | student27 | 
+database | abstract1 | abstract16 |  > business application | student15 | student55 | 
+database | abstract1 | abstract16 |  > hazard | student15 | student82 | 
+database | abstract1 | abstract16 |  > medical information systems | student15 | student87 | 
+database | abstract1 | abstract16 |  > fault tolerant computing | student16 | student19 | 
+database | abstract1 | abstract16 |  > shared goal | student16 | student41 | 
+database | abstract1 | abstract16 |  > multimedia databases | student16 | student52 | 
+database | abstract1 | abstract16 |  > cognition | student16 | student57 | 
+database | abstract1 | abstract16 |  > function approximation | student16 | student95 | 
+database | abstract1 | abstract16 |  > copyright protection | student17 | student44 | 
+database | abstract1 | abstract16 |  > sign recognition | student17 | student49 | 
+database | abstract1 | abstract16 |  > storage cost | student18 | student19 | 
+database | abstract1 | abstract16 |  > mathematics | student18 | student24 | 
+database | abstract1 | abstract16 |  > big data analytics | student18 | student53 | 
+database | abstract1 | abstract16 |  > functional regression | student18 | student55 | 
+database | abstract1 | abstract16 |  > reliability | student18 | student69 | 
+database | abstract1 | abstract16 |  > hierarchical deep learning models | student18 | student73 | 
+database | abstract1 | abstract16 |  > big data | student19 | student27 | 
+database | abstract1 | abstract16 |  > accident risk determination | student19 | student66 | 
+database | abstract1 | abstract16 |  > medical diagnosis | student19 | student77 | 
+database | abstract1 | abstract16 |  > dynamic | student19 | student83 | 
+database | abstract1 | abstract16 |  > owl | student20 | student29 | 
+database | abstract1 | abstract16 |  > protein | student20 | student37 | 
+database | abstract1 | abstract16 |  > numerical analysis | student20 | student52 | 
+database | abstract1 | abstract16 |  > computer-aided diagnosis | student20 | student76 | 
+database | abstract1 | abstract16 |  > hand x-ray image | student21 | student77 | 
+database | abstract1 | abstract16 |  > logistics | student21 | student100 | 
+database | abstract1 | abstract16 |  > control signal | student22 | student49 | 
+database | abstract1 | abstract16 |  > automation | student22 | student74 | 
+database | abstract1 | abstract16 |  > modified total sharp score | student22 | student77 | 
+database | abstract1 | abstract16 |  > scalable machine learning problems | student23 | student77 | 
+database | abstract1 | abstract16 |  > arm archive | student24 | student35 | 
+database | abstract1 | abstract16 |  > neural chips | student24 | student38 | 
+database | abstract1 | abstract16 |  > conference | student24 | student70 | 
+database | abstract1 | abstract16 |  > factor concepts | student24 | student82 | 
+database | abstract1 | abstract16 |  > chinese web filtering | student24 | student84 | 
+database | abstract1 | abstract16 |  > analog t-model neural network hardware | student25 | student64 | 
+database | abstract1 | abstract16 |  > learning algorithm | student25 | student87 | 
+database | abstract1 | abstract16 |  > fitness function | student25 | student97 | 
+database | abstract1 | abstract16 |  > big data application workflow | student26 | student38 | 
+database | abstract1 | abstract16 |  > deep learning inference runtime | student26 | student40 | 
+database | abstract1 | abstract16 |  > middleware | student26 | student57 | 
+database | abstract1 | abstract16 |  > digital control | student26 | student58 | 
+database | abstract1 | abstract16 |  > arithmetic | student26 | student60 | 
+database | abstract1 | abstract16 |  > tellurium | student26 | student61 | 
+database | abstract1 | abstract16 |  > alzheimers disease classification | student26 | student90 | 
+database | abstract1 | abstract16 |  > hyperparameters | student26 | student100 | 
+database | abstract1 | abstract16 |  > open-loop structures | student27 | student53 | 
+database | abstract1 | abstract16 |  > algorithm | student27 | student57 | 
+database | abstract1 | abstract16 |  > major brain functions | student28 | student63 | 
+database | abstract1 | abstract16 |  > large-scale data intensive scientific application | student28 | student73 | 
+database | abstract1 | abstract16 |  > cross industry standard platform for data mining | student29 | student60 | 
+database | abstract1 | abstract16 |  > uncertainty | student29 | student70 | 
+database | abstract1 | abstract16 |  > two-character-nouns | student29 | student87 | 
+database | abstract1 | abstract16 |  > belief networks | student29 | student95 | 
+database | abstract1 | abstract16 |  > big data search and mining | student30 | student32 | 
+database | abstract1 | abstract16 |  > scem | student30 | student69 | 
+database | abstract1 | abstract16 |  > game ai domain | student30 | student92 | 
+database | abstract1 | abstract16 |  > standard feedforward networks | student30 | student99 | 
+database | abstract1 | abstract16 |  > protocol | student31 | student38 | 
+database | abstract1 | abstract16 |  > ﻿cloud computing | student31 | student64 | 
+database | abstract1 | abstract16 |  > redundant outputs | student31 | student70 | 
+database | abstract1 | abstract16 |  > metric space | student31 | student96 | 
+database | abstract1 | abstract16 |  > fpga | student32 | student46 | 
+database | abstract1 | abstract16 |  > ordinary least squares algorithm | student32 | student47 | 
+database | abstract1 | abstract16 |  > learning paradigm | student32 | student54 | 
+database | abstract1 | abstract16 |  > video analysis | student33 | student54 | 
+database | abstract1 | abstract16 |  > mean absolute percentage error | student33 | student69 | 
+database | abstract1 | abstract16 |  > iterated game executions | student33 | student85 | 
+database | abstract1 | abstract16 |  > server | student34 | student47 | 
+database | abstract1 | abstract16 |  > maximum probability | student34 | student55 | 
+database | abstract1 | abstract16 |  > deep representation learning | student34 | student94 | 
+database | abstract1 | abstract16 |  > basal ganglia | student35 | student45 | 
+database | abstract1 | abstract16 |  > text analysis | student35 | student53 | 
+database | abstract1 | abstract16 |  > flexible beam | student35 | student99 | 
+database | abstract1 | abstract16 |  > road accident | student36 | student64 | 
+database | abstract1 | abstract16 |  > training | student36 | student69 | 
+database | abstract1 | abstract16 |  > htm algorithm | student36 | student74 | 
+database | abstract1 | abstract16 |  > patient datasets | student37 | student44 | 
+database | abstract1 | abstract16 |  > mitre research team | student37 | student50 | 
+database | abstract1 | abstract16 |  > concurrent learning agents | student37 | student63 | 
+database | abstract1 | abstract16 |  > ols algorithm | student37 | student73 | 
+database | abstract1 | abstract16 |  > architecture | student37 | student80 | 
+database | abstract1 | abstract16 |  > deep knowledge learning | student38 | student41 | 
+database | abstract1 | abstract16 |  > nonlinear dynamical systems | student38 | student49 | 
+database | abstract1 | abstract16 |  > subject-based data archives | student38 | student60 | 
+database | abstract1 | abstract16 |  > internet of things | student38 | student65 | 
+database | abstract1 | abstract16 |  > intelligent data analysis | student39 | student43 | 
+database | abstract1 | abstract16 |  > geographic location | student39 | student77 | 
+database | abstract1 | abstract16 |  > material | student39 | student78 | 
+database | abstract1 | abstract16 |  > discrete wavelet transform | student39 | student93 | 
+database | abstract1 | abstract16 |  > deep neural networks | student39 | student96 | 
+database | abstract1 | abstract16 |  > representations learning | student40 | student79 | 
+database | abstract1 | abstract16 |  > fault-tolerant | student40 | student90 | 
+database | abstract1 | abstract16 |  > rewarding system | student41 | student53 | 
+database | abstract1 | abstract16 |  > optical fiber theory | student41 | student61 | 
+database | abstract1 | abstract16 |  > accelerometer | student41 | student90 | 
+database | abstract1 | abstract16 |  > backpropagation neural network | student41 | student92 | 
+database | abstract1 | abstract16 |  > data distribution | student41 | student100 | 
+database | abstract1 | abstract16 |  > preoperative planning | student42 | student75 | 
+database | abstract1 | abstract16 |  > loss measurement | student42 | student83 | 
+database | abstract1 | abstract16 |  > robust deep models | student43 | student81 | 
+database | abstract1 | abstract16 |  > record processing | student44 | student48 | 
+database | abstract1 | abstract16 |  > distributed storage | student44 | student53 | 
+database | abstract1 | abstract16 |  > eigenvalues and eigenfunctions | student44 | student56 | 
+database | abstract1 | abstract16 |  > computer games | student44 | student90 | 
+database | abstract1 | abstract16 |  > mooc | student46 | student62 | 
+database | abstract1 | abstract16 |  > synchronization | student46 | student69 | 
+database | abstract1 | abstract16 |  > video frames | student47 | student57 | 
+database | abstract1 | abstract16 |  > ﻿probability density function | student48 | student72 | 
+database | abstract1 | abstract16 |  > benes interconnection network | student48 | student80 | 
+database | abstract1 | abstract16 |  > data analysis | student49 | student59 | 
+database | abstract1 | abstract16 |  > weibo check-in data | student49 | student82 | 
+database | abstract1 | abstract16 |  > industry | student50 | student70 | 
+database | abstract1 | abstract16 |  > metadata management | student50 | student79 | 
+database | abstract1 | abstract16 |  > information management | student51 | student67 | 
+database | abstract1 | abstract16 |  > big data i/o performance | student52 | student93 | 
+database | abstract1 | abstract16 |  > search methods | student54 | student82 | 
+database | abstract1 | abstract16 |  > ma | student54 | student88 | 
+database | abstract1 | abstract16 |  > psychology | student55 | student66 | 
+database | abstract1 | abstract16 |  > intel xeon e5540 processors | student56 | student68 | 
+database | abstract1 | abstract16 |  > space technology | student56 | student75 | 
+database | abstract1 | abstract16 |  > biodiversity data | student57 | student87 | 
+database | abstract1 | abstract16 |  > cognitive robotics | student59 | student68 | 
+database | abstract1 | abstract16 |  > bismuth | student59 | student91 | 
+database | abstract1 | abstract16 |  > software | student60 | student63 | 
+database | abstract1 | abstract16 |  > social networks | student61 | student74 | 
+database | abstract1 | abstract16 |  > inter-cloud | student61 | student95 | 
+database | abstract1 | abstract16 |  > fault tolerance | student63 | student68 | 
+database | abstract1 | abstract16 |  > machine learning theory | student63 | student69 | 
+database | abstract1 | abstract16 |  > big data management infrastructure | student63 | student70 | 
+database | abstract1 | abstract16 |  > embedded systems | student63 | student87 | 
+database | abstract1 | abstract16 |  > case-based reasoning | student63 | student100 | 
+database | abstract1 | abstract16 |  > worst-case identification | student64 | student68 | 
+database | abstract1 | abstract16 |  > user assessable data files | student64 | student77 | 
+database | abstract1 | abstract16 |  > data integration | student65 | student77 | 
+database | abstract1 | abstract16 |  > ﻿x-ray imaging | student65 | student80 | 
+database | abstract1 | abstract16 |  > ﻿intelligent networks | student65 | student90 | 
+database | abstract1 | abstract16 |  > ﻿dictionaries | student66 | student68 | 
+database | abstract1 | abstract16 |  > iugonet | student66 | student81 | 
+database | abstract1 | abstract16 |  > deep learning performance | student66 | student92 | 
+database | abstract1 | abstract16 |  > cooperative behaviors | student69 | student77 | 
+database | abstract1 | abstract16 |  > predictive models | student69 | student78 | 
+database | abstract1 | abstract16 |  > iteration algorithm | student70 | student72 | 
+database | abstract1 | abstract16 |  > nasc | student70 | student75 | 
+database | abstract1 | abstract16 |  > switched capacitor networks | student70 | student84 | 
+database | abstract1 | abstract16 |  > oddball | student70 | student88 | 
+database | abstract1 | abstract16 |  > process identification | student71 | student94 | 
+database | abstract1 | abstract16 |  > simulated annealing | student73 | student79 | 
+database | abstract1 | abstract16 |  > crsip-dm | student74 | student75 | 
+database | abstract1 | abstract16 |  > clinical big data analysis | student74 | student80 | 
+database | abstract1 | abstract16 |  > quaternion | student74 | student90 | 
+database | abstract1 | abstract16 |  > qos | student75 | student82 | 
+database | abstract1 | abstract16 |  > road accident occurance status analysis | student75 | student98 | 
+database | abstract1 | abstract16 |  > multiple parallel deep learning frameworks | student76 | student93 | 
+database | abstract1 | abstract16 |  > sales management | student76 | student98 | 
+database | abstract1 | abstract16 |  > approximate equivalence neural network | student77 | student82 | 
+database | abstract1 | abstract16 |  > domain-specific knowledge | student77 | student84 | 
+database | abstract1 | abstract16 |  > iot applications | student77 | student99 | 
+database | abstract1 | abstract16 |  > algebra | student81 | student93 | 
+database | abstract1 | abstract16 |  > atmospheric radiation measurement climate research facility | student82 | student95 | 
+database | abstract1 | abstract16 |  > gesture recognition | student87 | student99 | 
+database | abstract1 | abstract16 |  > brain | student88 | student99 | 
+database | abstract1 | abstract16 |  > threat judgment | student1 | student6 | student16 | 
+database | abstract1 | abstract16 |  > pattern matching | student1 | student20 | student83 | 
+database | abstract1 | abstract16 |  > correctness | student1 | student25 | student68 | 
+database | abstract1 | abstract16 |  > information processing | student1 | student27 | student87 | 
+dcnn | deep learning research | abstract22 | abstract28 | abstract37 | abstract42 | abstract43 |  > ports (computers) | facebook data analytics | ma | video analysis | crowd sourcing geographic data today | cctv cameras | hard disk drive | rule induction | doubles pong game | search methods | big data access | learning paradigm | foot x-ray image | deep learning research | sigmoid circuit | continual neural networks | student54 | 
+database | abstract1 | abstract16 |  > mapreduce | student1 | student45 | student49 | 
+database | abstract1 | abstract16 |  > brain modeling | student1 | student74 | student81 | 
+database | abstract1 | abstract16 |  > probability | student3 | student9 | student69 | 
+database | abstract1 | abstract16 |  > object detection | student3 | student34 | student96 | 
+database | abstract1 | abstract16 |  > mil | student4 | student52 | student94 | 
+database | abstract1 | abstract16 |  > big data platforms | student4 | student74 | student81 | 
+decision making | deep learning algorithm | abstract58 | abstract64 | abstract67 | abstract73 |  > surveillance platform | robust deep models | commercial hotspots | electromyography | intelligent data analysis | real-time systems | taxonomy | decision making | semantics | frequency | asynchronous random neural networks | machine learning classification techniques | learning | convolutional codes | student43 | 
+﻿mathematical model | dcnn | abstract15 | abstract29 | abstract35 | abstract46 | abstract78 |  > time series analysis | switched capacitor networks | nasc | dwt | iteration algorithm | ﻿mathematical model | industry | visual doom ai game | live data massive streaming | uncertainty | dcnn | ﻿decision trees | inference algorithms | big data management infrastructure | conference | oddball | petroleum | high dimensional state-space | redundant outputs | student70 | 
+database | abstract1 | abstract16 |  > federated intercloud environment | student5 | student26 | student71 | 
+database | abstract1 | abstract16 |  > feature extraction and classification | student5 | student42 | student94 | 
+database | abstract1 | abstract16 |  > quality assessment | student6 | student11 | student81 | 
+database | abstract1 | abstract16 |  > test pattern | student6 | student12 | student69 | 
+knee surgeries | deep learning algorithm | abstract58 | abstract62 | abstract72 |  > big data i/o performance | rheumatoid arthritis | clean data | knee surgeries | automatic control | numerical analysis | multimedia databases | big scientific data | output units | mil | polynomial | high dimensional feature space | student52 | 
+database | abstract1 | abstract16 |  > matrix decomposition | student6 | student49 | student88 | 
+database | abstract1 | abstract16 |  > hippocampal circuit | student7 | student17 | student38 | 
+database | abstract1 | abstract16 |  > dynamic backward error assignment | student7 | student55 | student56 | 
+instrument | deep learning algorithm | abstract70 | abstract73 | abstract76 |  > correctness | instrument | intelligent cooperative multiple agents | fitness function | learning algorithm | dot product matching neural network | optical computing | wavelet analysis | big scientific data | cognitive systems | deep learning algorithm | research community | video lecture | coal | knowledge acquisition | analog t-model neural network hardware | student25 | 
+database | abstract1 | abstract16 |  > education | student8 | student81 | student94 | 
+database | abstract1 | abstract16 |  > open source machine learning | student9 | student14 | student50 | 
+field programmable neural arrays | observatory | abstract19 | abstract44 | abstract49 |  > deep learning performance | time series | field programmable neural arrays | analog computers | clinical big data | apache spark mllib 2 | backpropagation neural network | computer game | medical diagnostic imaging | game ai domain | aging | student92 | 
+database | abstract1 | abstract16 |  > dia | student10 | student13 | student33 | 
+database | abstract1 | abstract16 |  > asynchronous random neural networks | student11 | student38 | student43 | 
+database | abstract1 | abstract16 |  > geospatial data point processing | student11 | student56 | student84 | 
+database | abstract1 | abstract16 |  > imbalanced classes | student11 | student62 | student63 | 
+database | abstract1 | abstract16 |  > cellular automata | student12 | student28 | student37 | 
+analog multiplier | deep learning algorithm | abstract66 | abstract70 | abstract71 |  > exploratory attacks | fault-tolerant | alzheimers disease classification | analog multiplier | ﻿intelligent networks | signal processing algorithms | accelerometer | deep kernel learning | unsolicited electronic mail | video streaming | computer games | quaternion | electronic mail | marketing | routing algorithm | student90 | 
+decision making | deep learning algorithm | abstract58 | abstract64 | abstract67 | abstract73 |  > psychology | maximum probability | collective effort | dynamic backward error assignment | main building blocks | nonlinear control systems | triangular maps | data mining | production | business application | decision making | cnn | softmax classifier | input data preprocessing methods | ca problem | functional regression | data preprocessing | error correction | student55 | 
+database | abstract1 | abstract16 |  > neural nets | student13 | student15 | student18 | 
+database | abstract1 | abstract16 |  > field programmable gate arrays | student14 | student35 | student72 | 
+database | abstract1 | abstract16 |  > deep convolutional neural network | student15 | student31 | student83 | 
+database | abstract1 | abstract16 |  > seal | student15 | student47 | student60 | 
+database | abstract1 | abstract16 |  > concept algebra | student16 | student48 | student75 | 
+database | abstract1 | abstract16 |  > differential equations | student17 | student18 | student78 | 
+decision making | deep learning algorithm | abstract58 | abstract64 | abstract67 | abstract73 |  > supervised classification | monitoring | concrete | big-data processing performance | proposal | organization performance | feature extraction and classification | education | decision making | video games control problems | process identification | reward schemes | ﻿optical fiber networks | restricted boltzmann machines | data preprocessing | signal processing | mil | software algorithms | deep representation learning | student94 | 
+database | abstract1 | abstract16 |  > neural objects | student17 | student38 | student69 | 
+database | abstract1 | abstract16 |  > social network | student17 | student39 | student47 | 
+database | abstract1 | abstract16 |  > best practices | student18 | student32 | student83 | 
+database | abstract1 | abstract16 |  > distributed environment | student19 | student31 | student68 | 
+database | abstract1 | abstract16 |  > task learning acceleration | student19 | student53 | student98 | 
+database | abstract1 | abstract16 |  > government | student21 | student27 | student46 | 
+database | abstract1 | abstract16 |  > classification accuracy | student21 | student36 | student59 | 
+database | abstract1 | abstract16 |  > educational courses | student22 | student83 | student86 | 
+database | abstract1 | abstract16 |  > systems engineering and theory | student23 | student29 | student96 | 
+database | abstract1 | abstract16 |  > exploratory machine learning attack | student24 | student72 | student91 | 
+database | abstract1 | abstract16 |  > wavelet analysis | student25 | student99 | student100 | 
+database | abstract1 | abstract16 |  > drug-drug interactions | student26 | student82 | student89 | 
+dcnn | hippocampal ltp process | abstract23 | abstract33 | abstract43 |  > ﻿cloud computing | ﻿biological neural networks | finger joint detection | adaptive control | inference framework | classification incremental learning algorithm | metric space | deep convolutional neural network | continuous hopfield neural network | pose estimation | genetic algorithm | application software | hippocampal ltp process | ﻿learning (artificial intelligence) | distributed environment | redundant outputs | protocol | student31 | 
+dcnn | imbalanced distributions | abstract28 | abstract31 | abstract40 |  > research institutions | predictive models | cased based reasoning | deep q-networks | circuit | neural network | differential equations | training data | limited interconnection scheme | approximation algorithms | imbalanced distributions | crowdsourcing | material | computation complexity | subsymbolic data mining | bison | video lecture | student78 | 
+database | abstract1 | abstract16 |  > fpnn | student27 | student35 | student68 | 
+database | abstract1 | abstract16 |  > biomedical monitoring | student27 | student36 | student62 | 
+database | abstract1 | abstract16 |  > educational institutions | student28 | student47 | student86 | 
+database | abstract1 | abstract16 |  > exploratory spatial data analysis | student28 | student65 | student84 | 
+database | abstract1 | abstract16 |  > inverse dynamics | student30 | student42 | student44 | 
+portfolio | deep learning algorithm | abstract65 | abstract66 |  > portfolio | subject-based data archives | seal | cross industry standard platform for data mining | arithmetic | streaming media | risk analysis | storm | flexible visualization-based user interface | generalisation (artificial intelligence) | intelligent algorithms | complexity theory | modern computers | software | student60 | 
+database | abstract1 | abstract16 |  > dual codes | student32 | student89 | student100 | 
+database | abstract1 | abstract16 |  > counter-terrorism field | student34 | student42 | student89 | 
+database | abstract1 | abstract16 |  > multi agent systems | student34 | student66 | student74 | 
+database | abstract1 | abstract16 |  > machine learning techniques | student34 | student66 | student89 | 
+distributed mining | deep learning algorithm | abstract41 | abstract63 |  > decision support systems | text recognition | hypertension | principal component analysis | dq issues | protein | computer-aided diagnosis | distributed mining | numerical analysis | optimization | owl | neurite networks | pattern matching | formal concept analysis | student20 | 
+database | abstract1 | abstract16 |  > clinical big data | student34 | student88 | student92 | 
+database | abstract1 | abstract16 |  > circuit | student35 | student58 | student78 | 
+database | abstract1 | abstract16 |  > data locality | student36 | student37 | student41 | 
+database | abstract1 | abstract16 |  > neural network hardware implementations | student37 | student68 | student86 | 
+database | abstract1 | abstract16 |  > input data preprocessing methods | student38 | student39 | student55 | 
+database | abstract1 | abstract16 |  > data mining | student38 | student55 | student73 | 
+software prototyping | dcnn | abstract30 | abstract33 |  > extended bam neural network model | graph-based unsupervised machine learning methods | counter-terrorism field | analog computation | drug-drug interactions | embryo | software prototyping | dual codes | automatic control | machine learning techniques | dcnn | solid state disk | business data | transputers | big data processing | chemical technology | student89 | 
+database | abstract1 | abstract16 |  > h infinity control | student41 | student64 | student99 | 
+database | abstract1 | abstract16 |  > energy states | student42 | student45 | student67 | 
+database | abstract1 | abstract16 |  > commercial hotspots | student43 | student59 | student93 | 
+database | abstract1 | abstract16 |  > surveillance platform | student43 | student69 | student99 | 
+database | abstract1 | abstract16 |  > facebook data | student46 | student77 | student86 | 
+database | abstract1 | abstract16 |  > time factors | student48 | student49 | student56 | 
+database | abstract1 | abstract16 |  > feedforward neural nets | student50 | student53 | student59 | 
+database | abstract1 | abstract16 |  > complexity theory | student50 | student60 | student81 | 
+database | abstract1 | abstract16 |  > protection | student50 | student61 | student71 | 
+software prototyping | dcnn | abstract30 | abstract33 |  > ﻿chaos | engine | server | sensor | seal | software prototyping | ﻿economic indicators | decision trees | educational institutions | ﻿optimization methods | adaptive learning | h/sup /spl infin control | modern storage systems | ordinary least squares algorithm | video frames | data archive | social network | student47 | 
+database | abstract1 | abstract16 |  > cctv cameras | student54 | student76 | student95 | 
+database | abstract1 | abstract16 |  > data preprocessing | student55 | student88 | student94 | 
+graphical user interface | wuc | abstract12 | abstract48 |  > concept algebra | road accident occurance status analysis | machine learning approach | nasc | dot product matching neural network | space technology | crsip-dm | graphical user interface | preoperative planning | subthreshold mos | qos | student75 | 
+database | abstract1 | abstract16 |  > limited interconnection scheme | student56 | student78 | student84 | 
+multiagent systems | recurrent neural networks | abstract14 | abstract63 |  > rheumatoid arthritis | best practices | multiagent systems | disc drives | security applications | job production systems | dynamic | deep convolutional neural network | loss measurement | coal mining | standards organizations | educational courses | pattern matching | student83 | 
+database | abstract1 | abstract16 |  > deep kernel learning | student57 | student90 | student100 | 
+effectiveness | force | abstract13 | abstract51 |  > hebbian theory | unlabeled/unsupervised data | ma | clinical big data | domain-model terms | force | matrix decomposition | brain | logic programming language | data preprocessing | oddball | approximate transformable technique | student88 | 
+database | abstract1 | abstract16 |  > subsymbolic data mining | student67 | student78 | student84 | 
+database | abstract1 | abstract16 |  > restricted boltzmann machines | student67 | student86 | student94 | 
+database | abstract1 | abstract16 |  > software frameworks | student68 | student77 | student86 | 
+database | abstract1 | abstract16 |  > security applications | student76 | student80 | student83 | 
+multilayer support vector machine | dcnn | abstract24 | abstract40 |  > quality assessment | predictive medicine | text processing | robust deep models | embryo | ﻿road accidents | iugonet | multilayer support vector machine | denotational mathematics | network-on-a-chip | education | benchmark deep learning datasets | cnn implementations | backpropagation | algebra | complexity theory | brain modeling | big data platforms | student81 | 
+database | abstract1 | abstract16 |  > analog computers | student84 | student85 | student92 | 
+database | abstract1 | abstract16 |  > critical time | student84 | student91 | student93 | 
+database | abstract1 | abstract16 |  > haar wavelet | student86 | student87 | student95 | 
+prototype | customer relationship management | abstract16 | abstract51 |  > ﻿cloud computing | field programmable neural arrays | exploratory attacks | biomedical imaging | feedforward | platform independent machine learning library | triples (data structure) | neuroscience | user assessable data files | theoretical analysis | road accident | prototype | market prediction | h infinity control | worst-case identification | deep q-learning network algorithm | analog t-model neural network hardware | student64 | 
+database | abstract1 | abstract16 |  > software algorithms | student94 | student95 | student98 | 
+database | abstract1 | abstract16 |  > counting circuits | student1 | student19 | student35 | student39 | 
+spatiotemporal data | neural architectures | abstract55 |  > systems engineering and theory | high-dimensional real-world applications | big scientific data | analogue processing circuits | spatiotemporal data | scalable machine learning problems | deep autoencoders | student23 | 
+database | abstract1 | abstract16 |  > adaptive learning | student2 | student9 | student47 | student50 | 
+database | abstract1 | abstract16 |  > pose estimation | student4 | student27 | student31 | student73 | 
+database | abstract1 | abstract16 |  > ﻿decision trees | student6 | student44 | student62 | student70 | 
+database | abstract1 | abstract16 |  > function approximation capability | student7 | student8 | student9 | student28 | 
+database | abstract1 | abstract16 |  > hand gesture recognition | student7 | student35 | student58 | student76 | 
+database | abstract1 | abstract16 |  > theoretical analysis | student8 | student12 | student64 | student80 | 
+database | abstract1 | abstract16 |  > concrete | student8 | student42 | student50 | student94 | 
+graphical user interface | wuc | abstract12 | abstract48 |  > open-loop structures | text analysis | distributed storage | myo armband | multilayered perceptron neural network | rewarding system | wuc | performance evaluation | feedforward neural nets | computational efficiency | arm data center | big data analytics | parallel classifiers ensemble | genetic engineering | medical big data research | task learning acceleration | public domain software | online machine learning algorithms | student53 | 
+database | abstract1 | abstract16 |  > convolutional codes | student11 | student43 | student49 | student66 | 
+database | abstract1 | abstract16 |  > social set analysis | student13 | student21 | student84 | student96 | 
+matched filters | algorithm design and analysis | abstract9 | abstract45 |  > alzheimers disease classification | road | drug-drug interactions | middleware | restricted boltzman machine | arithmetic | hyperparameters | formal concept | big data application workflow | convolution structure | digital control | matched filters | traffic engineering computing | tellurium | federated intercloud environment | deep learning inference runtime | industrial equipment design | video signal processing | student26 | 
+database | abstract1 | abstract16 |  > data locality manager | student15 | student24 | student32 | student76 | 
+dcnn | extraterrestrial measurements | abstract15 | abstract31 |  > subject-based data archives | synapse circuits | production equipment | data mining | job production systems | big data application workflow | file systems | logic programming languages | comprehension quizzes | big data validation | input data preprocessing methods | internet of things | ethic | asynchronous random neural networks | learning techniques | disturbance-rejection neural network control | deep knowledge learning | neural chips | nonlinear dynamical systems | neural objects | extraterrestrial measurements | hippocampal circuit | protocol | student38 | 
+database | abstract1 | abstract16 |  > automatic control | student18 | student48 | student52 | student89 | 
+database | abstract1 | abstract16 |  > post synaptic potentials | student22 | student27 | student35 | student93 | 
+database | abstract1 | abstract16 |  > big scientific data | student23 | student25 | student52 | student65 | 
+database | abstract1 | abstract16 |  > video lecture | student25 | student30 | student67 | student78 | 
+database | abstract1 | abstract16 |  > dot product matching neural network | student25 | student44 | student75 | student91 | 
+database | abstract1 | abstract16 |  > medical diagnostics | student28 | student56 | student69 | student95 | 
+database | abstract1 | abstract16 |  > job production systems | student33 | student38 | student83 | student100 | 
+database | abstract1 | abstract16 |  > machine learning method | student39 | student57 | student66 | student74 | 
+effectiveness | force | abstract13 | abstract51 |  > open-loop structures | neuroboard | statistic | field programmable neural arrays | fpnn | sosevi | government | algorithm | engineering | classification incremental learning algorithm | functional link network | crowd sourcing geographic data today | hierarchical feature representation | three layer feedforward network | computerised tomography | semantic computing | pose estimation | force | identity-based encryption | information processing | big data | fuzzy set theory | post synaptic potentials | biomedical monitoring | student27 | 
+database | abstract1 | abstract16 |  > approximation algorithms | student40 | student58 | student72 | student78 | 
+database | abstract1 | abstract16 |  > exploratory attacks | student46 | student59 | student64 | student90 | 
+database | abstract1 | abstract16 |  > rheumatoid arthritis | student50 | student52 | student83 | student84 | 
+database | abstract1 | abstract16 |  > class labels | student56 | student71 | student80 | student99 | 
+algorithm design and analysis | abstract2 | abstract3 | abstract5 | abstract7 | abstract9 | abstract10 | abstract13 | abstract17 | abstract19 | abstract22 | abstract23 | abstract24 | abstract32 | abstract34 | abstract36 | abstract37 | abstract44 | abstract45 | abstract47 | abstract48 | abstract52 | abstract57 |  > modified total sharp score | discriminative loss function optimization | hand x-ray image | facebook data | geographic location | approximate equivalence neural network | medical diagnosis | cooperative behaviors | cognitive machine learning | user assessable data files | algorithm design and analysis | mean correlation | scalable machine learning problems | domain-specific knowledge | data integration | iot applications | software frameworks | student77 | 
+database | abstract1 | abstract16 |  > best effort | student4 | student11 | student62 | student65 | student85 | 
+database | abstract1 | abstract16 |  > human arm movement patterns | student7 | student40 | student56 | student82 | student86 | 
+customer relationship management | abstract8 | abstract11 | abstract12 | abstract16 | abstract18 | abstract38 | abstract49 | abstract50 | abstract51 | abstract53 | abstract54 |  > neuroboard | nike sales forecasting | digitally-controlled synapse | seal | business application | clustering algorithms | deep convolutional neural network | docker | hazard | active learning | least squares methods | customer relationship management | medical information systems | large scale integration | data locality manager | neural nets | new words extraction | student15 | 
+database | abstract1 | abstract16 |  > embryo | student17 | student72 | student81 | student84 | student89 | 
+library | abstract14 | abstract15 | abstract29 | abstract33 | abstract35 | abstract40 | abstract56 | abstract73 | abstract76 | abstract78 |  > copyright protection | ﻿cognitive systems | online analytical process | dot product matching neural network | distributed storage | semantic technologies | patient datasets | computer games | record processing | dynamical learning process | ﻿decision trees | eigenvalues and eigenfunctions | inference algorithms | multi-layer svm | inverse dynamics | hardware resource utilization | library | student44 | 
+database | abstract1 | abstract16 |  > crowd sourcing geographic data today | student6 | student27 | student37 | student54 | student65 | student87 | student98 | 
+database | abstract1 | abstract16 |  > correctness | feedback | student1 | student68 | 
+big data scheduling | abstract1 | abstract7 | abstract10 | abstract18 | abstract28 | abstract45 | abstract47 | abstract49 | abstract52 | abstract54 |  > best practices | hierarchical deep learning models | standard | automatic control | deep reinforcement learning | knowledge engineering | differential equations | design engineering | workload balanced division | computer aided instruction | storage cost | big data scheduling | big data analytics | mathematics | functional regression | neural nets | reliability | student18 | 
+database | abstract1 | abstract16 |  > cnn implementations | brain modeling | student1 | student81 | 
+x-ray image | abstract11 | abstract39 | abstract54 | abstract78 |  > ge power and water | systematics | closed circuit television | up/down counter | metadata management | x-ray image | intelligent big data analysis architecture | representations learning | convolution neural networks | simulated annealing | student79 | 
+database | abstract1 | abstract16 |  > image sampling | lstm based model | student2 | student51 | 
+database | abstract1 | abstract16 |  > case study | object detection | student3 | student96 | 
+database | abstract1 | abstract16 |  > energy consumption | matrix decomposition | student6 | student49 | 
+database | abstract1 | abstract16 |  > crowdsourcing | bison | student6 | student78 | 
+database | abstract1 | abstract16 |  > dynamic backward error assignment | human arm movement patterns | student7 | student56 | 
+database | abstract1 | abstract16 |  > concrete | education | student8 | student94 | 
+database | abstract1 | abstract16 |  > open source machine learning | adaptive learning | student9 | student50 | 
+wavelength division multiplexing | abstract9 | abstract13 | abstract16 | abstract33 |  > fault tolerant computing | dynamic scheduling | medical diagnosis | dynamic | unsupervised feature learning | crossbreed genetic algorithm | storage cost | big data | wavelength division multiplexing | task learning acceleration | accident risk determination | counting circuits | distributed environment | student19 | 
+big social data | abstract13 | abstract32 | abstract37 | abstract43 |  > hpc idle resources | image sampling | ﻿neural network hardware | classification tree analysis | fuzzy neural network | decision tree induction algorithms id3 | lstm based model | big social data | adaptive learning | progression evaluation | fpna | modelling | deep reinforcement learning algorithm | regression analysis | student2 | 
+database | abstract1 | abstract16 |  > synapse circuits | asynchronous random neural networks | student11 | student38 | 
+ontologies (artificial intelligence) | abstract25 | abstract56 | abstract59 |  > esda | deep architectures | optical fiber theory | switched-capacitor implementations | patient treatment | darwin machines | tellurium | social networks | ontologies (artificial intelligence) | protection | inter-cloud | student61 | 
+database | abstract1 | abstract16 |  > asynchronous random neural networks | convolutional codes | student11 | student43 | 
+database | abstract1 | abstract16 |  > resource description framework | convolutional codes | student11 | student49 | 
+standard backpropagation | abstract28 | abstract68 | abstract73 |  > total knee arthroplasty | tka | deep core learning | human pose estimation | circuit | cognitive foundations | approximation algorithms | digital control | standard backpropagation | arthritis | hand gesture recognition | cluster mining | student58 | 
+database | abstract1 | abstract16 |  > best effort | imbalanced classes | student11 | student62 | 
+database | abstract1 | abstract16 |  > deep core learning | human pose estimation | student16 | student58 | 
+database | abstract1 | abstract16 |  > neural objects | hippocampal circuit | student17 | student38 | 
+database | abstract1 | abstract16 |  > ordinary differential equation | post synaptic potentials | student22 | student93 | 
+auto-associative memory | abstract2 | abstract3 | abstract12 | abstract19 | abstract36 |  > concept algebra | artificial generalized intelligence | time factors | benes interconnection network | ocean | backpropagation learning | automatic control | ﻿capacitors | record processing | learning (artificial intelligence) | auto-associative memory | extrapolation | tensorflow | prototype | multiplying circuits | actuator | ﻿probability density function | student48 | 
+database | abstract1 | abstract16 |  > classification incremental learning algorithm | pose estimation | student27 | student31 | 
+layered topology | abstract21 | abstract64 | abstract65 |  > numerical simulation | cross industry standard platform for data mining | upper bound | training set information | geospatial data point normalization | neural network models | recurrent neural networks | layered topology | uncertainty | two-character-nouns | systems engineering and theory | owl | belief networks | student29 | 
+recurrent neural networks | abstract4 | abstract14 | abstract62 | abstract63 | abstract65 | abstract73 | abstract74 | abstract77 |  > quality assessment | geospatial data point processing | resource description framework | kernel function | synapse circuits | online data | dqn | best effort | kera | recurrent neural nets | flash-based capacitor | recurrent neural networks | deeprt | gpu | asynchronous random neural networks | filtering | testing | shuffling method | imbalanced classes | chebyshev approximation | convolutional codes | student11 | 
+database | abstract1 | abstract16 |  > fpnn | post synaptic potentials | student27 | student35 | 
+graphics processing unit | abstract5 | abstract6 | abstract18 | abstract45 | abstract48 | abstract50 |  > resource description framework | time factors | sign recognition | graphics processing unit | iot device | energy consumption | highly efficient deep learning inference mechanisms | mapreduce | control signal | matrix decomposition | weibo check-in data | privacy protection | clustering | deep learning algorithm | data analysis | terrestrial atmosphere | security challenges | nonlinear dynamical systems | convolutional codes | student49 | 
+database | abstract1 | abstract16 |  > sosevi | crowd sourcing geographic data today | student27 | student37 | 
+database | abstract1 | abstract16 |  > crowd sourcing geographic data today | information processing | student27 | student87 | 
+database | abstract1 | abstract16 |  > machine learning techniques | multi agent systems | student34 | student66 | 
+deep convolutional belief network | abstract25 | abstract27 | abstract36 |  > portfolio | stock market forecasting | best effort | ﻿intelligent networks | ﻿x-ray imaging | crowd sourcing geographic data today | redundancy | calibrated data agglomerations | internet of things | big scientific data | deep convolutional belief network | exploratory spatial data analysis | data integration | distributed deep larning platform | student65 | 
+database | abstract1 | abstract16 |  > counter-terrorism field | machine learning techniques | student34 | student89 | 
+effectiveness | abstract3 | abstract7 | abstract8 | abstract11 | abstract13 | abstract47 | abstract51 | abstract53 |  > correctness | high fidelity inference capability | convolution | intelligent control | effectiveness | production rjms middleware oar | cluster classification | deep clustering network | noise measurement | mapreduce | feedback | pattern discovery | information processing | cnn implementations | learning performance | data checklist | big data processing | search space reduction | brain modeling | radio emitter | pattern matching | threat judgment | counting circuits | mos capacitors | student1 | 
+database | abstract1 | abstract16 |  > ports (computers) | foot x-ray image | student35 | student54 | 
+database | abstract1 | abstract16 |  > circuit | hand gesture recognition | student35 | student58 | 
+trajectory | abstract10 | abstract13 | abstract78 |  > biological cells | text classification application | fault-tolerant | trajectory | indexing | target data | aida sales framework | computer | human arm movement patterns | push recovery learning | approximation algorithms | state estimation | representations learning | deep learning inference runtime | student40 | 
+database | abstract1 | abstract16 |  > data mining | input data preprocessing methods | student38 | student55 | 
+reinforcement learning | abstract1 | abstract22 | abstract36 |  > information management | core memory | reinforcement learning | efficient selection | context modeling | energy states | ds | subsymbolic data mining | restricted boltzmann machines | graphics processing units | equation | video lecture | correlation theory | student67 | 
+database | abstract1 | abstract16 |  > production equipment | neural objects | student38 | student69 | 
+iot sensor device | abstract8 | abstract13 | abstract45 |  > optical fiber theory | data distribution | iot sensor device | accelerometer | data locality | rewarding system | production engineering computing | backpropagation neural network | standard backpropagation | shared goal | company data | deep knowledge learning | h infinity control | multidimensional unitron | signal detection | student41 | 
+database | abstract1 | abstract16 |  > concrete | feature extraction and classification | student42 | student94 | 
+database | abstract1 | abstract16 |  > ﻿decision trees | inference algorithms | student44 | student70 | 
+database | abstract1 | abstract16 |  > facebook data | cooperative behavior | student46 | student86 | 
+database | abstract1 | abstract16 |  > deep layers | unsupervised deep learning approach | student46 | student100 | 
+database | abstract1 | abstract16 |  > ﻿optimization methods | h/sup /spl infin control | student47 | student93 | 
+fuzzy logic | abstract19 | abstract50 |  > case study | object detection | fuzzy logic | probability | business data | power generation economics | multidimensional data set | resource and job management system | stock markets | student3 | 
+database | abstract1 | abstract16 |  > feedforward neural nets | medical big data research | student50 | student53 | 
+database | abstract1 | abstract16 |  > facebook data analytics | cctv cameras | student54 | student95 | 
+database | abstract1 | abstract16 |  > geospatial data point processing | limited interconnection scheme | student56 | student84 | 
+order parameter coherency | abstract4 | abstract13 | abstract46 | abstract57 |  > storage management | surveillance platform | fine-grain parallel computing | production equipment | predictive models | test pattern | synchronization | probability | hopfield neural nets | order parameter coherency | cooperative behaviors | data stores | training | logic circuits | machine learning theory | feedforward neural networks | scem | neural objects | reliability | mean absolute percentage error | medical diagnostics | student69 | 
+wavelength division multiplexing | abstract9 | abstract13 | abstract16 | abstract33 |  > quality assessment | decoding | computational modeling | test pattern | context | information storage mechanism | boolean factor analysis | classification tree analysis | crowd sourcing geographic data today | energy consumption | big data quality | crowdsourcing | matrix decomposition | ﻿decision trees | biological system modeling | arthritis | analogue processing circuits | wavelength division multiplexing | supervised deep learning framework | bison | data integrity | threat judgment | infinity norm | pattern classification | computer vision | student6 | 
+database | abstract1 | abstract16 |  > circuit | approximation algorithms | student58 | student78 | 
+job shop scheduling | abstract23 | abstract25 |  > modified total sharp score | hpc workload | counter-terrorism | two-stage machine learning system | machine learning accuracy | diverse data sources | ordinary differential equation | control signal | job shop scheduling | educational courses | post synaptic potentials | deep learning research | automation | student22 | 
+ssd cache | abstract33 | abstract36 |  > ssd cache | trajectory | road accident occurance status analysis | algorithms and programming techniques for big data processing | deep reinforcemnet learning | random forest | crowd sourcing geographic data today | biological control systems | sales management | neocortical network | task learning acceleration | software algorithms | missing patient data | student98 | 
+database | abstract1 | abstract16 |  > hierarchical machine learning | imbalanced classes | student62 | student63 | 
+database | abstract1 | abstract16 |  > triples (data structure) | theoretical analysis | student64 | student80 | 
+gas turbines | abstract15 | abstract71 |  > arm archive | factor concepts | chinese web filtering | fatigue | radial basis function network structure | gas turbines | computer simulation | exploratory machine learning attack | mathematics | conference | data locality manager | neural chips | student24 | 
+biomedical education | abstract30 | abstract74 |  > biomedical education | exploratory attacks | commercial hotspots | artificial neural networ (ann) | classification accuracy | cognitive robotics | hyper planes | feedforward neural nets | diagnosis system | multidimensional climate observations | neurocontrollers | bismuth | data analysis | machine understandable forms | student59 | 
+database | abstract1 | abstract16 |  > machine learning method | multi agent systems | student66 | student74 | 
+database | abstract1 | abstract16 |  > ﻿terrorism | incremental supprot vector machine | student66 | student85 | 
+adaptation rule circuit | abstract25 | abstract42 |  > best practices | high fidelity inference capability | fault samples | dual codes | adaptation rule circuit | big data search and mining | distributed databases | fpga | information systems | fuzzy sets | ordinary least squares algorithm | learning paradigm | data locality manager | visualization | stock markets | student32 | 
+database | abstract1 | abstract16 |  > subsymbolic data mining | video lecture | student67 | student78 | 
+database | abstract1 | abstract16 |  > neural network hardware implementations | software frameworks | student68 | student86 | 
+database | abstract1 | abstract16 |  > brain modeling | big data platforms | student74 | student81 | 
+database | abstract1 | abstract16 |  > facebook data | software frameworks | student77 | student86 | 
+database | abstract1 | abstract16 |  > limited interconnection scheme | subsymbolic data mining | student78 | student84 | 
+database | abstract1 | abstract16 |  > rheumatoid arthritis | coal mining | student83 | student84 | 
+database | abstract1 | abstract16 |  > routing | haar wavelet | student86 | student87 | 
+database | abstract1 | abstract16 |  > crowd sourcing geographic data today | missing patient data | student87 | student98 | 
+database | abstract1 | abstract16 |  > distributed platform | human arm movement patterns | big datasets | student7 | student82 | 
+database | abstract1 | abstract16 |  > svm classifier inference | hpc and big data convergence | ﻿magnesium compounds | student21 | student63 | 
+database | abstract1 | abstract16 |  > fitness function | classificationt reeanalysis | infinity norm | spark | student97 | 
+database | abstract1 | abstract16 |  > best effort | hierarchical machine learning | ﻿decision trees | imbalanced classes | biomedical monitoring | mooc | student62 | 
+database | abstract1 | abstract16 |  > discussion forum | machine vision quality inspection | process identification | federated intercloud environment | intelligent robots | protection | class labels | student71 | 
+bone | abstract17 | abstract75 |  > modified backpropagation learning | cognitive solution | hardware implementation | discrete wavelet transforms | instrument | data geographical distribution | intelligent data analysis | geographic location | machine learning method | risk management | material | input data preprocessing methods | deep neural networks | bone | counting circuits | social network | discrete wavelet transform | student39 | 
+database | abstract1 | abstract16 |  > financial market | company | recognition rate | dia | ethic | output units | dispatching | system stability | multilayer neural networks | student10 | 
+gas turbines | abstract15 | abstract71 |  > ﻿pose estimation | knee surgeries | time series data | crsip-dm | clinical big data analysis | emotional systems | machine learning method | quaternion | gas turbines | parallel processing | brain modeling | social networks | multi agent systems | htm algorithm | big data platforms | automation | student74 | 
+database | abstract1 | abstract16 |  > analog computers | fitting | iterated game executions | best effort | ﻿terrorism | storage capacitor | incremental supprot vector machine | machine learning strategies | distributed tensorfiow | student85 | 
+security | abstract3 | abstract25 |  > information management | statistical learning | returns to scale | image sampling | ontology | heterogeneous data sources | lstm based model | matched filters | baipas | analytical models | ﻿performance evaluation | network weights | data handling | security | student51 | 
+database | abstract1 | abstract16 |  > major brain functions | company | function approximation capability | educational institutions | cellular automata | large-scale data intensive scientific application | data compression | exploratory spatial data analysis | big data collections | medical diagnostics | student28 | 
+database | abstract1 | abstract16 |  > maximum probability | counter-terrorism field | object detection | server | clinical big data | machine learning techniques | the times | multi agent systems | generating control bits | deep representation learning | student34 | 
+communication networks | abstract10 | abstract42 |  > kernel function | classification algorithms | big data integration | biodiversity data | communication networks | middleware | cognition | algorithm | marketing data processing | deep kernel learning | next-gen tools | machine learning method | auto-associative memory | cognitive knowledge bases | video frames | liver diseases | student57 | 
+database | abstract1 | abstract16 |  > network topology | python-based deep learning library | mapreduce | deep sarsa learning | energy states | business data processing | vibration control | market research | data management | basal ganglia | student45 | 
+digital architecture | abstract10 | abstract51 |  > geospatial data point processing | dynamic backward error assignment | japan | time factors | space technology | human arm movement patterns | sequential decision making | big-data analyses | vegetation | limited interconnection scheme | speaker-independent spoken number recognition | fault diagnosis | eigenvalues and eigenfunctions | digital architecture | intel xeon e5540 processors | class labels | medical diagnostics | student56 | 
+fuzzy logic | abstract19 | abstract50 |  > hardware implementation | domain model | disc drives | test pattern | ﻿flexible structures | fuzzy neural nets | open source framework | fuzzy logic | highly efficient deep learning inference mechanisms | dcnn | genetic programming | theoretical analysis | computational social science | fault diagnosis | arm data center | machine learning classification techniques | cellular automata | laboratory | robustness | student12 | 
+database | abstract1 | abstract16 |  > hierarchical deep learning models | benchmark testing | data mining | iso standards | ols algorithm | pose estimation | large-scale data intensive scientific application | simulated annealing | ﻿training | ﻿support vector machines | student73 | 
+database | abstract1 | abstract16 |  > case study | object detection | social set analysis | metric space | data visualization | pattern discovery | systems engineering and theory | deep neural networks | ﻿data mining | logical resources | student96 | 
+fuzzy logic | abstract19 | abstract50 |  > facebook data analytics | atmospheric radiation measurement climate research facility | application execution scheduling | fuzzy logic | function approximation | cctv cameras | optical fibre networks | self-routing | social media big data | nike | data acquisition | conceptual design | haar wavelet | belief networks | inter-cloud | big data risk analysis | data collector | software algorithms | medical diagnostics | student95 | 
+database | abstract1 | abstract16 |  > dataset query | standard feedforward networks | ﻿accuracy | big data search and mining | boolean factor analysis | game ai domain | inverse dynamics | video lecture | heart | open loop systems | scem | student30 | 
+database | abstract1 | abstract16 |  > very large scale integration | iterated game executions | video analysis | job production systems | liver | internet-of-things | dia | groupware | digital neurochip | supervised fast learning filter neural network | mean absolute percentage error | student33 | 
+database | abstract1 | abstract16 |  > encryption | relationship graphs | deep multiple instance learning | dot product matching neural network | search space reduction | exploratory machine learning attack | bismuth | modified error backpropagation technique | critical time | on-chip error backpropagation learning | hadoop yarn | student91 | 
+database | abstract1 | abstract16 |  > copyright protection | embryo | sign recognition | differential equations | data mining algorithm | computer resource | biological neural network | pulse modulation | neural objects | manufacturing systems | social network | hippocampal circuit | student17 | 
+hybrid approach | abstract12 | abstract13 |  > psychology | deep learning performance | boolean functions | iugonet | chaotic time series | machine learning techniques | ﻿terrorism | hebbian learning | machine learning method | incremental supprot vector machine | pattern recognition | data source | multi agent systems | openai gym | hybrid approach | ﻿dictionaries | accident risk determination | convolutional codes | insurance | student66 | 
+database | abstract1 | abstract16 |  > classification accuracy | data locality | communication links | road accident | training | latent variable | social set visualizer | collaboration | web services | semantics algebra | biomedical monitoring | htm algorithm | student36 | 
+database | abstract1 | abstract16 |  > index | behavior acquisition | worst-case control | data engineering | data analytics process | three layer feedforward network | field programmable gate arrays | hadoop | open source machine learning | electronic neuronic model | decision tree | application | fpna | student14 | 
+database | abstract1 | abstract16 |  > exploratory attacks | collaborative work | government | facebook data | synchronization | deep layers | fpga | cooperative behavior | cellular neural nets | unsupervised deep learning approach | output feedback | logic programming | mooc | student46 | 
+database | abstract1 | abstract16 |  > numerical simulation | best effort | adaptation models | deep q-learning | chaotic communication | live data massive streaming | pose estimation | hepatitis disease diagnosis | null value | machinable thoughts | datamining | memory | big data platforms | mil | student4 | 
+database | abstract1 | abstract16 |  > distributed platform | dynamic backward error assignment | training progress | function approximation capability | human arm movement patterns | big datasets | usaf | java | hand gesture recognition | large-scale systems | multiplying circuits | scheduling | hippocampal circuit | insurance | student7 | 
+database | abstract1 | abstract16 |  > cased based reasoning | fuzzy neural nets | social set analysis | highly accurate inference | outer-product synaptic weight adjustments | solid state disk | dia | medical computing | parallel structure | machine learning in medicine | logic circuits | constraint | actuator | neural nets | student13 | 
+database | abstract1 | abstract16 |  > fuzzy neural networks | counter-terrorism field | concrete | medical decision making | data space | charge domain characteristics | chinese new word extraction | feature extraction and classification | preoperative planning | loss measurement | energy states | data exchange scheme | inverse dynamics | distributed deep learning platform | student42 | 
+digital architecture | abstract10 | abstract51 |  > concept algebra | fault tolerant computing | deep core learning | coordinated behaviors | chemical | human pose estimation | computer science | cognition | function approximation | big social data | unknown nonlinear plant | multimedia databases | shared goal | spatiotemporal data | pagerank | digital architecture | deep thinking | dispatching | threat judgment | electronic learning | data integration and analysis system program | remote sensing data classification | student16 | 
+database | abstract1 | abstract16 |  > embryo | deep reinforcement learning approach | prediction algorithms | iot devices | iteration algorithm | approximation algorithms | field programmable gate arrays | on-policy reinforcement learning | cybernetics | exploratory machine learning attack | spatial databases | ﻿probability density function | medical diagnostic computing | stabilized parallel deep learning architectures | student72 | 
+database | abstract1 | abstract16 |  > svm classifier inference | control logic circuit | social set analysis | government | open source framework | hand x-ray image | data analytics process | logistics | classification accuracy | fast learning | hpc and big data convergence | gennets | ﻿recurrent neural networks | ﻿magnesium compounds | quantitative analysis method | student21 | 
+database | abstract1 | abstract16 |  > security applications | computer-aided diagnosis | cctv cameras | sales management | disclosure risk | massive online open course | dynamic loci | hand gesture recognition | humanoid robots | m.2 ssd cache | accuracy | life estimation | human computer interaction | data locality manager | multiple parallel deep learning frameworks | student76 | 
+database | abstract1 | abstract16 |  > facebook data | information technology | human arm movement patterns | educational institutions | neural network hardware implementations | depth kernel learning | routing | m-th order ordinary differential equations | process control | data analytics problems | cooperative behavior | haar wavelet | educational courses | restricted boltzmann machines | software frameworks | student86 | 
+database | abstract1 | abstract16 |  > statistic information | function approximation capability | probability | compensator | fast learning | hyperparameter optimization | noise measurement | computation energy distribution | deeprt | cnn | open source machine learning | computer game | adaptive learning | earth | deep q-learning network algorithm | open science | student9 | 
+database | abstract1 | abstract16 |  > ports (computers) | arm archive | fpnn | pressure measurement | text analysis | flexible beam | circuit | recurrent neural nets | field programmable gate arrays | hand gesture recognition | safety | foot x-ray image | multi-layer neural network | post synaptic potentials | counting circuits | basal ganglia | student35 | 
+mean square error methods | abstract1 | abstract76 |  > graph-based unsupervised learning | stock market forecasting | object identification | hcl device | concrete | unfiltered web page | discrete hopfield neural network | function approximation capability | myo armband | education | production engineering computing | social media big data | theoretical analysis | computer resource | groupware | datamining | parallel architectures | speech recognition | optimal kernel function | subthreshold mos | mean square error methods | student8 | 
+database | abstract1 | abstract16 |  > distributed platform | multimedia communication | factor concepts | drug-drug interactions | atmospheric radiation measurement climate research facility | ill-protected copies | approximate equivalence neural network | human arm movement patterns | hazard | big datasets | weibo check-in data | effective cooperative behaviors | search methods | single machine scheduling | wdm networks | qos | student82 | 
+database | abstract1 | abstract16 |  > big data i/o performance | partitioning algorithms | commercial hotspots | intelligent agent | signal capturing | ordinary differential equation | ﻿optimization methods | algebra | h/sup /spl infin control | post synaptic potentials | high-performance | critical time | shuffling method | peer-to-peer computing | multiple parallel deep learning frameworks | discrete wavelet transform | student93 | 
+recombining method | abstract1 | abstract75 |  > gesture recognition | coordinated behaviors | biodiversity data | learning algorithm | crowd sourcing geographic data today | compensation | routing | hpc collocation | unified modeling language | embedded systems | two-character-nouns | filter | information processing | recombining method | haar wavelet | medical information systems | optimal kernel function | personnel | geographic information systems | deep reinforcement learning algorithm | missing patient data | mean square error methods | student87 | 
+database | abstract1 | abstract16 |  > standard feedforward networks | surveillance platform | domain model | gesture recognition | flexible beam | design optimization | netcdf file format | self adjusting fuzzy modeling | wavelet analysis | credit assignment problem | experience replay | brain | h infinity control | iot applications | class labels | probability distribution | student99 | 
+database | abstract1 | abstract16 |  > q-learning loss value | online data | character recognition | semantic technologies | feature extraction and classification | data quality dimension | file systems | terrorism | duty cycle | lof | crossbreed genetic algorithm | data archive | federated intercloud environment | supervised deep learning framework | big data quality problem | stabilization | 1a study | student5 | 
+database | abstract1 | abstract16 |  > cloud | sosevi | architecture | discrete hopfield neural network | protein | crowd sourcing geographic data today | fuzzy neural network | data locality | neural network hardware implementations | classifier training | patient datasets | ols algorithm | mitre research team | unsupervised learning | cellular automata | big data systems | concurrent learning agents | student37 | 
+database | abstract1 | abstract16 |  > inspection | benes interconnection network | security applications | genetic method | architecture | ﻿x-ray imaging | event study | compensator | triples (data structure) | clinical big data analysis | deep learning algorithms | nonlinear systems | theoretical analysis | eprom | qos requirements | filtering | class labels | student80 | 
+database | abstract1 | abstract16 |  > rheumatoid arthritis | geospatial data point processing | chinese web filtering | switched capacitor networks | analog computers | embryo | social set analysis | big data quality | coal mining | limited interconnection scheme | behavior changes | hepatitis disease diagnosis | subsymbolic data mining | exploratory spatial data analysis | domain-specific knowledge | critical time | unlabeled data | geometry | student84 | 
+database | abstract1 | abstract16 |  > dual codes | data distribution | regression method | logistics | job production systems | objective function | wavelet analysis | flash-based capacitor | ﻿discrete wavelet transforms | deep kernel learning | hyperparameters | deep layers | history | dynamic security-level maximization | parallel data processing | unsupervised deep learning approach | case-based reasoning | ﻿machine learning | student100 | 
+database | abstract1 | abstract16 |  > rheumatoid arthritis | 2d compatible neural networks | concrete | network type | data quality | industry | machine intelligence | metadata management | open source machine learning | feedforward neural nets | mitre research team | adversarial machine learning | adaptive learning | complexity theory | insider threat detection | protection | shallow learning | medical big data research | entropy | student50 | 
+database | abstract1 | abstract16 |  > correctness | fpnn | cardiovascular diseases | dynamic programming | statistical analysis | neural network hardware implementations | cognitive robotics | resource allocation | feedback | fault tolerance | content-addressable storage | scholarly communication | cognitive process | intel xeon e5540 processors | modelling | resource and job management system | worst-case identification | ﻿dictionaries | distributed environment | deep belief networks | software frameworks | student68 | 
+database | abstract1 | abstract16 |  > code | major brain functions | atmospheric measurements | dqn model | svm classifier inference | read-write memory | analogue computer circuits | convolution | programmable nonlinear capacitor | social networking (online) | data quality dimension | hpc and big data convergence | embedded systems | fault tolerance | hierarchical machine learning | feedforward controller | machine learning theory | big data management infrastructure | ﻿magnesium compounds | formal brain studies | imbalanced classes | case-based reasoning | rl agent | research and development | ﻿fault diagnosis | software | concurrent learning agents | student63 | 
+---------------------------------------------------------------------------
+project part ....
+abstract55 ( 2 ) > {'student23', 'student16'}
+abstract1 ( 100 ) > {'student92', 'student8', 'student43', 'student14', 'student60', 'student51', 'student19', 'student17', 'student3', 'student55', 'student42', 'student18', 'student98', 'student10', 'student26', 'student77', 'student93', 'student28', 'student5', 'student54', 'student79', 'student90', 'student73', 'student27', 'student36', 'student22', 'student66', 'student74', 'student16', 'student78', 'student23', 'student34', 'student84', 'student97', 'student52', 'student2', 'student15', 'student6', 'student9', 'student21', 'student44', 'student99', 'student11', 'student58', 'student7', 'student30', 'student53', 'student72', 'student56', 'student62', 'student86', 'student1', 'student20', 'student65', 'student89', 'student95', 'student88', 'student25', 'student67', 'student85', 'student59', 'student41', 'student39', 'student81', 'student38', 'student91', 'student32', 'student40', 'student87', 'student35', 'student47', 'student69', 'student24', 'student96', 'student4', 'student83', 'student61', 'student64', 'student31', 'student49', 'student12', 'student63', 'student46', 'student70', 'student100', 'student37', 'student80', 'student13', 'student76', 'student94', 'student82', 'student75', 'student45', 'student71', 'student29', 'student68', 'student33', 'student57', 'student48', 'student50'}
+abstract16 ( 100 ) > {'student92', 'student8', 'student43', 'student14', 'student60', 'student51', 'student19', 'student17', 'student3', 'student55', 'student42', 'student18', 'student98', 'student10', 'student26', 'student77', 'student93', 'student28', 'student5', 'student54', 'student79', 'student90', 'student73', 'student27', 'student36', 'student22', 'student66', 'student74', 'student16', 'student78', 'student23', 'student34', 'student84', 'student97', 'student52', 'student2', 'student15', 'student6', 'student9', 'student21', 'student44', 'student99', 'student11', 'student58', 'student7', 'student30', 'student53', 'student72', 'student56', 'student62', 'student86', 'student1', 'student20', 'student65', 'student89', 'student95', 'student88', 'student25', 'student67', 'student85', 'student59', 'student41', 'student39', 'student81', 'student38', 'student91', 'student32', 'student40', 'student87', 'student35', 'student47', 'student69', 'student24', 'student96', 'student4', 'student83', 'student61', 'student64', 'student31', 'student49', 'student12', 'student63', 'student46', 'student70', 'student100', 'student37', 'student80', 'student13', 'student76', 'student94', 'student82', 'student75', 'student45', 'student71', 'student29', 'student68', 'student33', 'student57', 'student48', 'student50'}
+abstract76 ( 10 ) > {'student89', 'student87', 'student8', 'student49', 'student12', 'student44', 'student25', 'student70', 'student39', 'student2'}
+abstract9 ( 5 ) > {'student26', 'student77', 'student51', 'student19', 'student6'}
+abstract45 ( 6 ) > {'student18', 'student49', 'student26', 'student77', 'student51', 'student41'}
+abstract10 ( 7 ) > {'student57', 'student18', 'student98', 'student56', 'student77', 'student16', 'student40'}
+abstract51 ( 11 ) > {'student89', 'student48', 'student88', 'student12', 'student27', 'student56', 'student70', 'student15', 'student64', 'student1', 'student16'}
+abstract13 ( 13 ) > {'student66', 'student98', 'student88', 'student27', 'student77', 'student69', 'student19', 'student2', 'student41', 'student6', 'student1', 'student16', 'student40'}
+abstract15 ( 9 ) > {'student89', 'student87', 'student12', 'student38', 'student44', 'student74', 'student70', 'student16', 'student24'}
+abstract71 ( 7 ) > {'student87', 'student49', 'student90', 'student25', 'student74', 'student2', 'student24'}
+abstract19 ( 9 ) > {'student57', 'student95', 'student92', 'student48', 'student12', 'student27', 'student77', 'student64', 'student3'}
+abstract50 ( 5 ) > {'student95', 'student49', 'student12', 'student15', 'student3'}
+abstract30 ( 5 ) > {'student89', 'student12', 'student70', 'student59', 'student47'}
+abstract33 ( 9 ) > {'student89', 'student31', 'student98', 'student12', 'student44', 'student70', 'student19', 'student6', 'student47'}
+abstract65 ( 6 ) > {'student29', 'student49', 'student25', 'student11', 'student60', 'student65'}
+abstract66 ( 5 ) > {'student49', 'student90', 'student25', 'student60', 'student65'}
+abstract78 ( 7 ) > {'student89', 'student98', 'student12', 'student44', 'student70', 'student79', 'student40'}
+abstract63 ( 8 ) > {'student29', 'student87', 'student83', 'student49', 'student25', 'student11', 'student16', 'student20'}
+abstract74 ( 7 ) > {'student29', 'student87', 'student49', 'student25', 'student11', 'student59', 'student16'}
+abstract44 ( 4 ) > {'student77', 'student64', 'student92', 'student27'}
+abstract49 ( 5 ) > {'student18', 'student92', 'student27', 'student15', 'student64'}
+abstract28 ( 11 ) > {'student89', 'student18', 'student22', 'student49', 'student12', 'student25', 'student70', 'student58', 'student41', 'student54', 'student78'}
+abstract68 ( 5 ) > {'student89', 'student12', 'student70', 'student58', 'student41'}
+abstract73 ( 11 ) > {'student29', 'student43', 'student94', 'student49', 'student44', 'student25', 'student11', 'student58', 'student41', 'student39', 'student55'}
+abstract58 ( 7 ) > {'student43', 'student94', 'student49', 'student25', 'student74', 'student52', 'student55'}
+abstract62 ( 6 ) > {'student29', 'student49', 'student25', 'student11', 'student74', 'student52'}
+abstract72 ( 6 ) > {'student87', 'student49', 'student25', 'student74', 'student52', 'student2'}
+abstract70 ( 6 ) > {'student87', 'student49', 'student90', 'student25', 'student39', 'student2'}
+abstract32 ( 6 ) > {'student89', 'student12', 'student77', 'student70', 'student2', 'student16'}
+abstract37 ( 8 ) > {'student89', 'student22', 'student12', 'student77', 'student70', 'student2', 'student54', 'student16'}
+abstract43 ( 8 ) > {'student89', 'student31', 'student22', 'student12', 'student70', 'student2', 'student54', 'student16'}
+abstract64 ( 6 ) > {'student29', 'student43', 'student94', 'student49', 'student25', 'student55'}
+abstract67 ( 5 ) > {'student43', 'student94', 'student49', 'student25', 'student55'}
+abstract2 ( 3 ) > {'student57', 'student77', 'student48'}
+abstract3 ( 5 ) > {'student57', 'student48', 'student77', 'student51', 'student1'}
+abstract12 ( 6 ) > {'student57', 'student53', 'student66', 'student48', 'student75', 'student15'}
+abstract36 ( 6 ) > {'student57', 'student48', 'student98', 'student67', 'student77', 'student65'}
+abstract22 ( 7 ) > {'student89', 'student22', 'student12', 'student67', 'student77', 'student70', 'student54'}
+abstract42 ( 7 ) > {'student89', 'student57', 'student22', 'student12', 'student32', 'student70', 'student54'}
+abstract4 ( 6 ) > {'student89', 'student29', 'student12', 'student11', 'student70', 'student69'}
+abstract14 ( 9 ) > {'student89', 'student29', 'student87', 'student83', 'student12', 'student44', 'student11', 'student70', 'student2'}
+abstract77 ( 4 ) > {'student49', 'student29', 'student25', 'student11'}
+abstract20 ( 5 ) > {'student89', 'student87', 'student12', 'student70', 'student2'}
+abstract61 ( 4 ) > {'student49', 'student25', 'student2', 'student87'}
+abstract69 ( 4 ) > {'student49', 'student25', 'student2', 'student87'}
+abstract31 ( 7 ) > {'student89', 'student49', 'student12', 'student38', 'student25', 'student70', 'student78'}
+abstract41 ( 3 ) > {'student49', 'student25', 'student20'}
+abstract56 ( 7 ) > {'student89', 'student49', 'student12', 'student44', 'student25', 'student61', 'student70'}
+abstract59 ( 3 ) > {'student49', 'student61', 'student25'}
+abstract60 ( 2 ) > {'student49', 'student25'}
+abstract75 ( 4 ) > {'student49', 'student25', 'student39', 'student87'}
+abstract7 ( 6 ) > {'student89', 'student18', 'student12', 'student77', 'student70', 'student1'}
+abstract8 ( 6 ) > {'student89', 'student12', 'student70', 'student41', 'student15', 'student1'}
+abstract11 ( 6 ) > {'student89', 'student12', 'student70', 'student15', 'student1', 'student79'}
+abstract21 ( 4 ) > {'student89', 'student12', 'student70', 'student29'}
+abstract23 ( 6 ) > {'student89', 'student31', 'student22', 'student12', 'student77', 'student70'}
+abstract24 ( 5 ) > {'student89', 'student12', 'student77', 'student70', 'student81'}
+abstract26 ( 3 ) > {'student89', 'student12', 'student70'}
+abstract29 ( 4 ) > {'student89', 'student12', 'student70', 'student44'}
+abstract34 ( 4 ) > {'student89', 'student12', 'student70', 'student77'}
+abstract35 ( 4 ) > {'student89', 'student12', 'student70', 'student44'}
+abstract38 ( 4 ) > {'student89', 'student12', 'student70', 'student15'}
+abstract39 ( 4 ) > {'student89', 'student12', 'student70', 'student79'}
+abstract40 ( 6 ) > {'student89', 'student12', 'student44', 'student70', 'student81', 'student78'}
+abstract46 ( 4 ) > {'student89', 'student12', 'student70', 'student69'}
+abstract53 ( 5 ) > {'student89', 'student12', 'student70', 'student15', 'student1'}
+abstract57 ( 5 ) > {'student89', 'student12', 'student77', 'student70', 'student69'}
+abstract48 ( 4 ) > {'student53', 'student75', 'student77', 'student49'}
+abstract5 ( 2 ) > {'student77', 'student49'}
+abstract17 ( 2 ) > {'student77', 'student39'}
+abstract47 ( 3 ) > {'student77', 'student1', 'student18'}
+abstract52 ( 2 ) > {'student77', 'student18'}
+abstract18 ( 3 ) > {'student49', 'student18', 'student15'}
+abstract54 ( 3 ) > {'student18', 'student79', 'student15'}
+abstract25 ( 5 ) > {'student22', 'student61', 'student51', 'student32', 'student65'}
+abstract6 ( 1 ) > {'student49'}
+abstract27 ( 1 ) > {'student65'}
+---------------------------------------------------------------------------
+student part ....
+student16 ( 12 ) > {'abstract16', 'abstract51', 'abstract63', 'abstract32', 'abstract1', 'abstract13', 'abstract55', 'abstract37', 'abstract74', 'abstract43', 'abstract15', 'abstract10'}
+student23 ( 3 ) > {'abstract1', 'abstract16', 'abstract55'}
+student1 ( 10 ) > {'abstract16', 'abstract3', 'abstract51', 'abstract53', 'abstract8', 'abstract1', 'abstract47', 'abstract7', 'abstract11', 'abstract13'}
+student9 ( 2 ) > {'abstract1', 'abstract16'}
+student8 ( 3 ) > {'abstract1', 'abstract16', 'abstract76'}
+student87 ( 14 ) > {'abstract76', 'abstract16', 'abstract63', 'abstract72', 'abstract14', 'abstract71', 'abstract1', 'abstract15', 'abstract69', 'abstract61', 'abstract70', 'abstract75', 'abstract74', 'abstract20'}
+student26 ( 4 ) > {'abstract1', 'abstract9', 'abstract16', 'abstract45'}
+student51 ( 6 ) > {'abstract16', 'abstract3', 'abstract1', 'abstract9', 'abstract45', 'abstract25'}
+student56 ( 4 ) > {'abstract1', 'abstract16', 'abstract51', 'abstract10'}
+student27 ( 7 ) > {'abstract16', 'abstract49', 'abstract51', 'abstract44', 'abstract1', 'abstract19', 'abstract13'}
+student88 ( 4 ) > {'abstract1', 'abstract16', 'abstract51', 'abstract13'}
+student24 ( 4 ) > {'abstract1', 'abstract16', 'abstract15', 'abstract71'}
+student74 ( 7 ) > {'abstract16', 'abstract72', 'abstract71', 'abstract1', 'abstract62', 'abstract58', 'abstract15'}
+student48 ( 8 ) > {'abstract16', 'abstract2', 'abstract51', 'abstract3', 'abstract12', 'abstract1', 'abstract19', 'abstract36'}
+student64 ( 6 ) > {'abstract16', 'abstract49', 'abstract51', 'abstract44', 'abstract1', 'abstract19'}
+student3 ( 4 ) > {'abstract1', 'abstract16', 'abstract50', 'abstract19'}
+student12 ( 38 ) > {'abstract53', 'abstract32', 'abstract31', 'abstract39', 'abstract11', 'abstract40', 'abstract15', 'abstract20', 'abstract50', 'abstract42', 'abstract68', 'abstract16', 'abstract21', 'abstract33', 'abstract14', 'abstract1', 'abstract56', 'abstract19', 'abstract28', 'abstract43', 'abstract4', 'abstract76', 'abstract51', 'abstract34', 'abstract8', 'abstract35', 'abstract22', 'abstract26', 'abstract37', 'abstract46', 'abstract30', 'abstract23', 'abstract29', 'abstract38', 'abstract57', 'abstract78', 'abstract7', 'abstract24'}
+student95 ( 4 ) > {'abstract1', 'abstract16', 'abstract50', 'abstract19'}
+student47 ( 4 ) > {'abstract1', 'abstract16', 'abstract33', 'abstract30'}
+student89 ( 36 ) > {'abstract53', 'abstract32', 'abstract31', 'abstract39', 'abstract11', 'abstract40', 'abstract15', 'abstract20', 'abstract42', 'abstract68', 'abstract16', 'abstract33', 'abstract21', 'abstract14', 'abstract1', 'abstract56', 'abstract28', 'abstract43', 'abstract4', 'abstract76', 'abstract51', 'abstract34', 'abstract8', 'abstract35', 'abstract22', 'abstract26', 'abstract37', 'abstract46', 'abstract30', 'abstract23', 'abstract29', 'abstract38', 'abstract57', 'abstract78', 'abstract7', 'abstract24'}
+student60 ( 4 ) > {'abstract1', 'abstract16', 'abstract65', 'abstract66'}
+student65 ( 7 ) > {'abstract16', 'abstract65', 'abstract66', 'abstract1', 'abstract36', 'abstract25', 'abstract27'}
+student40 ( 5 ) > {'abstract16', 'abstract1', 'abstract78', 'abstract13', 'abstract10'}
+student98 ( 7 ) > {'abstract16', 'abstract33', 'abstract1', 'abstract36', 'abstract78', 'abstract13', 'abstract10'}
+student92 ( 5 ) > {'abstract16', 'abstract49', 'abstract44', 'abstract1', 'abstract19'}
+student41 ( 8 ) > {'abstract68', 'abstract16', 'abstract8', 'abstract1', 'abstract45', 'abstract73', 'abstract28', 'abstract13'}
+student58 ( 5 ) > {'abstract68', 'abstract16', 'abstract1', 'abstract73', 'abstract28'}
+student52 ( 5 ) > {'abstract16', 'abstract72', 'abstract1', 'abstract62', 'abstract58'}
+student25 ( 25 ) > {'abstract31', 'abstract60', 'abstract59', 'abstract41', 'abstract64', 'abstract67', 'abstract74', 'abstract75', 'abstract77', 'abstract16', 'abstract71', 'abstract1', 'abstract56', 'abstract28', 'abstract76', 'abstract63', 'abstract66', 'abstract72', 'abstract73', 'abstract58', 'abstract61', 'abstract65', 'abstract69', 'abstract62', 'abstract70'}
+student39 ( 7 ) > {'abstract76', 'abstract16', 'abstract1', 'abstract17', 'abstract70', 'abstract73', 'abstract75'}
+student6 ( 5 ) > {'abstract16', 'abstract33', 'abstract1', 'abstract9', 'abstract13'}
+student19 ( 5 ) > {'abstract16', 'abstract33', 'abstract1', 'abstract9', 'abstract13'}
+student2 ( 14 ) > {'abstract76', 'abstract16', 'abstract72', 'abstract14', 'abstract32', 'abstract71', 'abstract1', 'abstract69', 'abstract61', 'abstract70', 'abstract37', 'abstract43', 'abstract13', 'abstract20'}
+student43 ( 6 ) > {'abstract16', 'abstract1', 'abstract64', 'abstract73', 'abstract67', 'abstract58'}
+student55 ( 6 ) > {'abstract16', 'abstract1', 'abstract64', 'abstract73', 'abstract67', 'abstract58'}
+student94 ( 6 ) > {'abstract16', 'abstract1', 'abstract64', 'abstract73', 'abstract67', 'abstract58'}
+student57 ( 9 ) > {'abstract16', 'abstract2', 'abstract3', 'abstract12', 'abstract1', 'abstract36', 'abstract19', 'abstract42', 'abstract10'}
+student22 ( 9 ) > {'abstract16', 'abstract1', 'abstract22', 'abstract23', 'abstract37', 'abstract28', 'abstract43', 'abstract25', 'abstract42'}
+student54 ( 7 ) > {'abstract16', 'abstract1', 'abstract22', 'abstract37', 'abstract28', 'abstract43', 'abstract42'}
+student11 ( 10 ) > {'abstract77', 'abstract16', 'abstract65', 'abstract63', 'abstract14', 'abstract1', 'abstract62', 'abstract73', 'abstract74', 'abstract4'}
+student29 ( 12 ) > {'abstract77', 'abstract16', 'abstract65', 'abstract63', 'abstract14', 'abstract21', 'abstract1', 'abstract62', 'abstract64', 'abstract73', 'abstract74', 'abstract4'}
+student49 ( 31 ) > {'abstract31', 'abstract60', 'abstract59', 'abstract41', 'abstract48', 'abstract64', 'abstract67', 'abstract74', 'abstract75', 'abstract50', 'abstract77', 'abstract16', 'abstract71', 'abstract1', 'abstract56', 'abstract18', 'abstract28', 'abstract6', 'abstract76', 'abstract63', 'abstract66', 'abstract72', 'abstract73', 'abstract58', 'abstract61', 'abstract5', 'abstract65', 'abstract69', 'abstract62', 'abstract70', 'abstract45'}
+student70 ( 36 ) > {'abstract53', 'abstract32', 'abstract31', 'abstract39', 'abstract11', 'abstract40', 'abstract15', 'abstract20', 'abstract42', 'abstract68', 'abstract16', 'abstract21', 'abstract33', 'abstract14', 'abstract1', 'abstract56', 'abstract28', 'abstract43', 'abstract4', 'abstract76', 'abstract51', 'abstract34', 'abstract8', 'abstract35', 'abstract22', 'abstract26', 'abstract37', 'abstract46', 'abstract30', 'abstract23', 'abstract29', 'abstract38', 'abstract57', 'abstract78', 'abstract7', 'abstract24'}
+student32 ( 4 ) > {'abstract1', 'abstract16', 'abstract25', 'abstract42'}
+student63 ( 2 ) > {'abstract1', 'abstract16'}
+student91 ( 2 ) > {'abstract1', 'abstract16'}
+student96 ( 2 ) > {'abstract1', 'abstract16'}
+student14 ( 2 ) > {'abstract1', 'abstract16'}
+student37 ( 2 ) > {'abstract1', 'abstract16'}
+student68 ( 2 ) > {'abstract1', 'abstract16'}
+student4 ( 2 ) > {'abstract1', 'abstract16'}
+student84 ( 2 ) > {'abstract1', 'abstract16'}
+student5 ( 2 ) > {'abstract1', 'abstract16'}
+student38 ( 4 ) > {'abstract1', 'abstract16', 'abstract31', 'abstract15'}
+student44 ( 12 ) > {'abstract76', 'abstract16', 'abstract33', 'abstract14', 'abstract35', 'abstract1', 'abstract29', 'abstract56', 'abstract78', 'abstract73', 'abstract40', 'abstract15'}
+student30 ( 2 ) > {'abstract1', 'abstract16'}
+student97 ( 2 ) > {'abstract1', 'abstract16'}
+student7 ( 2 ) > {'abstract1', 'abstract16'}
+student66 ( 4 ) > {'abstract1', 'abstract16', 'abstract12', 'abstract13'}
+student17 ( 2 ) > {'abstract1', 'abstract16'}
+student33 ( 2 ) > {'abstract1', 'abstract16'}
+student53 ( 4 ) > {'abstract1', 'abstract16', 'abstract12', 'abstract48'}
+student75 ( 4 ) > {'abstract1', 'abstract16', 'abstract12', 'abstract48'}
+student21 ( 2 ) > {'abstract1', 'abstract16'}
+student80 ( 2 ) > {'abstract1', 'abstract16'}
+student10 ( 2 ) > {'abstract1', 'abstract16'}
+student28 ( 2 ) > {'abstract1', 'abstract16'}
+student35 ( 2 ) > {'abstract1', 'abstract16'}
+student93 ( 2 ) > {'abstract1', 'abstract16'}
+student100 ( 2 ) > {'abstract1', 'abstract16'}
+student13 ( 2 ) > {'abstract1', 'abstract16'}
+student83 ( 4 ) > {'abstract1', 'abstract16', 'abstract63', 'abstract14'}
+student99 ( 2 ) > {'abstract1', 'abstract16'}
+student69 ( 6 ) > {'abstract16', 'abstract1', 'abstract57', 'abstract46', 'abstract13', 'abstract4'}
+student78 ( 5 ) > {'abstract16', 'abstract1', 'abstract31', 'abstract40', 'abstract28'}
+student15 ( 12 ) > {'abstract16', 'abstract53', 'abstract49', 'abstract51', 'abstract54', 'abstract8', 'abstract1', 'abstract12', 'abstract38', 'abstract18', 'abstract11', 'abstract50'}
+student82 ( 2 ) > {'abstract1', 'abstract16'}
+student18 ( 11 ) > {'abstract16', 'abstract54', 'abstract49', 'abstract52', 'abstract1', 'abstract47', 'abstract18', 'abstract7', 'abstract28', 'abstract45', 'abstract10'}
+student73 ( 2 ) > {'abstract1', 'abstract16'}
+student77 ( 24 ) > {'abstract32', 'abstract17', 'abstract48', 'abstract9', 'abstract13', 'abstract10', 'abstract16', 'abstract44', 'abstract1', 'abstract47', 'abstract19', 'abstract36', 'abstract3', 'abstract34', 'abstract52', 'abstract22', 'abstract37', 'abstract23', 'abstract2', 'abstract5', 'abstract57', 'abstract7', 'abstract24', 'abstract45'}
+student20 ( 4 ) > {'abstract1', 'abstract16', 'abstract63', 'abstract41'}
+student76 ( 2 ) > {'abstract1', 'abstract16'}
+student61 ( 5 ) > {'abstract16', 'abstract1', 'abstract59', 'abstract56', 'abstract25'}
+student90 ( 5 ) > {'abstract16', 'abstract66', 'abstract71', 'abstract1', 'abstract70'}
+student31 ( 5 ) > {'abstract16', 'abstract33', 'abstract1', 'abstract23', 'abstract43'}
+student46 ( 2 ) > {'abstract1', 'abstract16'}
+student85 ( 2 ) > {'abstract1', 'abstract16'}
+student34 ( 2 ) > {'abstract1', 'abstract16'}
+student45 ( 2 ) > {'abstract1', 'abstract16'}
+student36 ( 2 ) > {'abstract1', 'abstract16'}
+student50 ( 2 ) > {'abstract1', 'abstract16'}
+student79 ( 6 ) > {'abstract16', 'abstract54', 'abstract1', 'abstract39', 'abstract78', 'abstract11'}
+student42 ( 2 ) > {'abstract1', 'abstract16'}
+student81 ( 4 ) > {'abstract1', 'abstract16', 'abstract40', 'abstract24'}
+student62 ( 2 ) > {'abstract1', 'abstract16'}
+student72 ( 2 ) > {'abstract1', 'abstract16'}
+student59 ( 4 ) > {'abstract1', 'abstract16', 'abstract74', 'abstract30'}
+student67 ( 4 ) > {'abstract1', 'abstract16', 'abstract22', 'abstract36'}
+student71 ( 2 ) > {'abstract1', 'abstract16'}
+student86 ( 2 ) > {'abstract1', 'abstract16'}
